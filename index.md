@@ -1,5 +1,7 @@
 ---
-title: "Home"
+title: "David Piepgrass"
+tagline: "Software developer"
+layout: page
 ---
 
 ### My open source work ###
