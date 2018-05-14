@@ -16,6 +16,11 @@ David Piepgrass
 - [Technical articles on CodeProject](https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=3453924) on various topics
 - [Big Picture](https://medium.com/big-picture) (general topics)
 
+### Other stuff ###
+
+- [GitHub profile](https://github.com/qwertie/)
+- [LinkedIn profile](https://www.linkedin.com/in/qwertie/)
+
 ### Contact ###
 
 You can reach me via gmail.com; my username there is qwertie256.
