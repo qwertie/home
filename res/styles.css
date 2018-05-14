@@ -18,8 +18,16 @@ main {
     margin-left: auto;
 }
 
-h2 {
+h1 {
+    color: #888;
+    border-bottom: 1px solid #e0e0e0;
     padding: 0.2em 0 0.2em 0;
+    margin: 0.5em 0 0.5em 0;
+}
+h2 {
+    color: #448;
+    padding: 0.2em 0 0.2em 0;
+    margin: 1em 0 0.5em 0;
     margin-bottom: 0.2em;
     font-size: 1.5em;
     border-bottom: 1px solid #eaecef;
@@ -33,7 +41,7 @@ h2 {
 }
 
 .tagline {
-  margin-top: -1rem;
+  margin-top: -0.7rem;
   margin-bottom: 0.5rem;
   font-size: 1.3rem;
   font-style: italic;
