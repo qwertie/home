@@ -24,3 +24,21 @@ h2 {
     font-size: 1.5em;
     border-bottom: 1px solid #eaecef;
 }
+
+.post-date {
+  display: block;
+  margin-top: -0.2rem;
+  margin-bottom: 0.5rem;
+  color: #9a9a9a;
+}
+
+.tagline {
+  margin-top: -0.2rem;
+  margin-bottom: 0.2rem;
+  font-size: 1.3rem;
+  font-style: italic;
+  font-family: serif;
+  color: #888;
+  /* I wanted the tagline and date to be shown on the same line, but 
+     display: run-in only works in IE so I'll nest tagline in post-date */
+}

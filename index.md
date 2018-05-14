@@ -26,4 +26,4 @@ layout: page
 
 ### Contact ###
 
-You can reach me via gmail.com; my username there is qwertie256.
+You can reach me via email at gmail.com; my username there is qwertie256.
