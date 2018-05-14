@@ -1,0 +1,26 @@
+*, *:before, *:after {
+  /* https://css-tricks.com/international-box-sizing-awareness-day/ */
+  box-sizing: border-box; 
+}
+
+body {
+    font-family: "Segoe UI",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #24292e;
+    background-color: #fff;
+    padding: 0.5em;
+}
+
+main {
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h2 {
+    padding: 0.2em 0 0.2em 0;
+    margin-bottom: 0.2em;
+    font-size: 1.5em;
+    border-bottom: 1px solid #eaecef;
+}

@@ -1,0 +1,16 @@
+# This is the configuration file for Jekyll, which is a program "built in" 
+# to GitHub that transforms files for web output (e.g. Markdown to HTML).
+# The Jekyll documentation is useless for noobs; try this tutorial instead:
+# https://www.andrewmunsell.com/tutorials/jekyll-by-example/tutorial
+
+# Jekyll settings
+paginate: 8
+paginate_path: "blog/page:num"
+permalink: /:categories/:year/:title.html
+safe: true
+lsi: false
+
+# Other
+title:       "David Piepgrass"           # shown in large text
+tagline:     "Developer"                 # shown in title bar beside title
+baseurl:     ""
