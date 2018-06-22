@@ -17,6 +17,7 @@ layout: page
 
 - [Technical blog](http://loyc.net/blog)
 - [Technical articles on CodeProject](https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=3453924) on various topics
+- [Typescript & React primer](http://typescript-react-primer.loyc.net)
 - [Big Picture](https://medium.com/big-picture) (general topics)
 
 ### Other stuff ###
