@@ -35,7 +35,12 @@ header h1 {
 	color: #fff;
 	border-bottom: 1px solid #444;
 	text-shadow: 0 0 3px #aaf;
+	animation: fade-shadow 1s linear;
 }
+@keyframes fade-shadow {
+  0%: {text-shadow: 0 0 0px transparent;}
+}
+
 h1 {
 	color: #888;
 	border-bottom: 1px solid #e0e0e0;
@@ -68,4 +73,10 @@ h2 {
   /* I wanted the tagline and date to be shown on the same line, but 
 	 display: run-in only works in IE so I'll nest tagline in post-date */
 }
-header .tagline { color: #CCC; }
+header .tagline {
+  color: #CCC;
+  animation: fade-in 2s ease-in;
+}
+@keyframes fade-in {
+  0%: {color: transparent;}
+}
