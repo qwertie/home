@@ -38,7 +38,7 @@ header h1 {
 	animation: fade-shadow 1s linear;
 }
 @keyframes fade-shadow {
-  0%: {text-shadow: 0 0 0px transparent;}
+  0% {text-shadow: 0 0 0px transparent;}
 }
 
 h1 {
@@ -78,5 +78,5 @@ header .tagline {
   animation: fade-in 2s ease-in;
 }
 @keyframes fade-in {
-  0%: {color: transparent;}
+  0% {color: transparent;}
 }
