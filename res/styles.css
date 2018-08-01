@@ -34,7 +34,7 @@ main {
 header h1 {
 	color: #fff;
 	border-bottom: 1px solid #444;
-	text-shadow: 0 0 5px #aaf;
+	text-shadow: 0 0 3px #aaf;
 }
 h1 {
 	color: #888;
