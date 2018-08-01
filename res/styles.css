@@ -4,33 +4,49 @@
 }
 
 body {
-    font-family: "Segoe UI",Helvetica,Arial,sans-serif;
-    font-size: 18px;
-    line-height: 1.5;
-    color: #24292e;
-    background-color: #fff;
-    padding: 0.5em;
+	font-family: "Segoe UI",Helvetica,Arial,sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+	color: #24292e;
+	background-color: #fff;
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	margin: 0;
+	padding: 1px 0 0.5em 0;
+	background-color: #222230;
+}
+header > div {
+	margin-left:auto;
+	margin-right:auto;
+	max-width:800px;
 }
 
 main {
-    max-width: 800px;
-    margin-right: auto;
-    margin-left: auto;
+	max-width: 800px;
+	margin-right: auto;
+	margin-left: auto;
 }
 
+header h1 {
+	color: #CCC;
+	border-bottom: 1px solid #444;
+}
 h1 {
-    color: #888;
-    border-bottom: 1px solid #e0e0e0;
-    padding: 0.2em 0 0.2em 0;
-    margin: 0.5em 0 0.5em 0;
+	color: #888;
+	border-bottom: 1px solid #e0e0e0;
+	padding: 0.2em 0 0.2em 0;
+	margin: 0.5em 0 0.5em 0;
 }
 h2 {
-    color: #448;
-    padding: 0.2em 0 0.2em 0;
-    margin: 1em 0 0.5em 0;
-    margin-bottom: 0.2em;
-    font-size: 1.5em;
-    border-bottom: 1px solid #eaecef;
+	color: #448;
+	padding: 0.2em 0 0.2em 0;
+	margin: 1em 0 0.5em 0;
+	margin-bottom: 0.2em;
+	border-bottom: 1px solid #eaecef;
+	font-size: 1.5em;
 }
 
 .post-date {
@@ -48,5 +64,6 @@ h2 {
   font-family: serif;
   color: #888;
   /* I wanted the tagline and date to be shown on the same line, but 
-     display: run-in only works in IE so I'll nest tagline in post-date */
+	 display: run-in only works in IE so I'll nest tagline in post-date */
 }
+header .tagline { color: #444; }
