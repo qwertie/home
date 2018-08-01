@@ -1,7 +1,7 @@
 ---
 title: "David Piepgrass"
 tagline: "Software developer"
-layout: page
+layout: home
 ---
 
 ### My open source work ###
