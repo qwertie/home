@@ -15,7 +15,7 @@ body {
 
 header {
 	margin: -0.5em -0.5em 0.5em -0.5em; /*TRBL*/
-	padding: 0 0.5em 0.5em 0.5em;
+	padding: 1px 0.5em 0.5em 0.5em; /* need padding on all sides to avoid margin collapse */
 	background-color: #222230;
 	box-shadow: 0 0 5px 1px #334;
 }
