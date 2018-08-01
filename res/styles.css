@@ -14,8 +14,8 @@ body {
 }
 
 header {
-	margin: 0 -0.5em 0.5em -0.5em; /*TRBL*/
-	padding: 1px 0 0.5em 0;
+	margin: -0.5em -0.5em 0.5em -0.5em; /*TRBL*/
+	padding: 0 0.5em 0.5em 0.5em;
 	background-color: #222230;
 	box-shadow: 0 0 5px 1px #334;
 }
