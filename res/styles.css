@@ -17,6 +17,7 @@ header {
 	margin: 0;
 	padding: 1px 0 0.5em 0;
 	background-color: #222230;
+	box-shadow: 0 0 5px 1px #334;
 }
 header > div {
 	margin-left:auto;
@@ -33,6 +34,7 @@ main {
 header h1 {
 	color: #CCC;
 	border-bottom: 1px solid #444;
+	text-shadow: 0 0 5px #aaf;
 }
 h1 {
 	color: #888;
@@ -66,4 +68,4 @@ h2 {
   /* I wanted the tagline and date to be shown on the same line, but 
 	 display: run-in only works in IE so I'll nest tagline in post-date */
 }
-header .tagline { color: #444; }
+header .tagline { color: #CCC; }
