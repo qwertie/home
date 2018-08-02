@@ -30,6 +30,6 @@ layout: home
 <div class="fadein">You can reach me via email at gmail.com; my username there is qwertie256.</div>
 
 <div class="fadein-delay1"><br/>
-<a href="https://www.protruthpledge.org/"><img alt="Pro-truth pledge" src="truth.png" width="270" height="140" style="opacity:0.5"/></a>
-<a href="https://www.givingwhatwecan.org/"><img alt="Giving-What-We-Can pledge" src="gwwc-pledge.png" width="270" height="140" style="opacity:0.5" class="fadein-delay2"/></a>
+<a href="https://www.protruthpledge.org/" class="faded"><img alt="Pro-truth pledge" src="truth.png" width="270" height="140"/></a>
+<a href="https://www.givingwhatwecan.org/" class="faded"><img alt="Giving-What-We-Can pledge" src="gwwc-pledge.png" width="270" height="140" class="fadein-delay2"/></a>
 </div>

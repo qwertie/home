@@ -88,9 +88,6 @@ header .tagline {
   0% {opacity: 0;}
   50% {opacity: 0;}
 }
-a:hover {
-  opacity: 1;
-}
 
 .fadein {
   animation: fadein-delay1 1.0s ease-in;
@@ -101,3 +98,6 @@ a:hover {
 .fadein-delay2 {
   animation: fadein-delay2 1.4s ease-in;
 }
+
+.faded { opacity:0.5; }
+a.faded:hover, .faded a:hover { opacity: 1; }
