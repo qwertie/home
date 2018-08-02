@@ -27,9 +27,11 @@ layout: home
 
 ### Contact ###
 
-You can reach me via email at gmail.com; my username there is qwertie256.
+<div class="fadein">You can reach me via email at gmail.com; my username there is qwertie256.</div>
 
-<hr class="fadein"/>
+<hr class="fadein-delay1"/>
 
-<a href="https://www.protruthpledge.org/"><img class="fadein-delay1" alt="Pro-truth pledge" src="truth.png" width="270" height="140"/></a>
-<a href="https://www.givingwhatwecan.org/"><img class="fadein-delay2" alt="Giving-What-We-Can pledge" src="gwwc-pledge.png" width="270" height="140"/></a>
+<div class="fadein-delay2"/>
+<a href="https://www.protruthpledge.org/"><img alt="Pro-truth pledge" src="truth.png" width="270" height="140"/></a>
+<a href="https://www.givingwhatwecan.org/"><img alt="Giving-What-We-Can pledge" src="gwwc-pledge.png" width="270" height="140"/></a>
+</div>

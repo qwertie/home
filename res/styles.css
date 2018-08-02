@@ -78,23 +78,23 @@ header .tagline {
   animation: fade-in 2s ease-in;
 }
 @keyframes fade-in {
-  0% {color: transparent;}
+  0% {opacity: 0;}
 }
 @keyframes fadein-delay1 {
-  0% {color: transparent;}
-  33% {color: transparent;}
+  0% {opacity: 0;}
+  25% {opacity: 0;}
 }
 @keyframes fadein-delay2 {
-  0% {color: transparent;}
-  66% {color: transparent;}
+  0% {opacity: 0;}
+  50% {opacity: 0;}
 }
 
 .fadein {
-  animation: fadein-delay1 0.8s ease-in;
+  animation: fadein-delay1 1.0s ease-in;
 }
 .fadein-delay1 {
   animation: fadein-delay1 1.2s ease-in;
 }
 .fadein-delay2 {
-  animation: fadein-delay2 2s ease-in;
+  animation: fadein-delay2 1.4s ease-in;
 }
