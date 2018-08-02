@@ -88,6 +88,9 @@ header .tagline {
   0% {opacity: 0;}
   50% {opacity: 0;}
 }
+a:hover {
+  opacity: 1;
+}
 
 .fadein {
   animation: fadein-delay1 1.0s ease-in;
