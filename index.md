@@ -28,3 +28,8 @@ layout: home
 ### Contact ###
 
 You can reach me via email at gmail.com; my username there is qwertie256.
+
+_______________
+
+<img alt="Pro-truth pledge" src="truth.png" width="270" height="140"/>
+<img alt="Giving-What-We-Can pledge" src="gwwc-pledge.png" width="270" height="140"/>
