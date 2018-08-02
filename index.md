@@ -31,7 +31,7 @@ layout: home
 
 <hr class="fadein-delay1"/>
 
-<div class="fadein-delay2"/>
+<div class="fadein-delay2">
 <a href="https://www.protruthpledge.org/"><img alt="Pro-truth pledge" src="truth.png" width="270" height="140"/></a>
 <a href="https://www.givingwhatwecan.org/"><img alt="Giving-What-We-Can pledge" src="gwwc-pledge.png" width="270" height="140"/></a>
 </div>
