@@ -29,7 +29,7 @@ layout: home
 
 You can reach me via email at gmail.com; my username there is qwertie256.
 
-_______________
+<hr class="fadein"/>
 
-<img alt="Pro-truth pledge" src="truth.png" width="270" height="140"/>
-<img alt="Giving-What-We-Can pledge" src="gwwc-pledge.png" width="270" height="140"/>
+<a href="https://www.protruthpledge.org/"><img class="fadein-delay1" alt="Pro-truth pledge" src="truth.png" width="270" height="140"/></a>
+<a href="https://www.givingwhatwecan.org/"><img class="fadein-delay2" alt="Giving-What-We-Can pledge" src="gwwc-pledge.png" width="270" height="140"/></a>

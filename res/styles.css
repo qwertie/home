@@ -80,3 +80,21 @@ header .tagline {
 @keyframes fade-in {
   0% {color: transparent;}
 }
+@keyframes fadein-delay1 {
+  0% {color: transparent;}
+  33% {color: transparent;}
+}
+@keyframes fadein-delay2 {
+  0% {color: transparent;}
+  66% {color: transparent;}
+}
+
+.fadein {
+  animation: fadein-delay1 0.8s ease-in;
+}
+.fadein-delay1 {
+  animation: fadein-delay1 1.2s ease-in;
+}
+.fadein-delay2 {
+  animation: fadein-delay2 2s ease-in;
+}
