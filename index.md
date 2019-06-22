@@ -1,6 +1,7 @@
 ---
 title: "David Piepgrass"
 tagline: "Software developer"
+taglineRight: "Desarrollador de software"
 layout: home
 ---
 
