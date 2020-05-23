@@ -143,7 +143,7 @@ Jim is mad that Dagny reduced service there, "So that the looters won't have too
 
 ### Part 1, Chapter 4
 
-Dagny walks home past vacuous pop-culture advertisements on a run-down street, to her well-furnished apartment near the top of a skyscraper, and listens once again to Richard Halley, who had retired suddenly after his first successful opera. She accidently sees and reads a newspaper article about her former friend Francisco, and one Mrs. Vail, who tells a tale of their affair.
+Dagny walks home past vacuous pop-culture advertisements on a run-down street, to her well-furnished apartment near the top of a skyscraper, and listens once again to Richard Halley, who had retired suddenly after his first successful opera. She accidently sees and reads a newspaper article about her former friend Francisco d'Anconia, and one Mrs. Vail, who tells a tale of their affair.
 
 There had been many rumors that Mexico would nationalize the new rail line, rumors which Jim angrily ignored until the day it happened, at which point he immediately claimed to have forseen it and took credit for Dagny's service reductions.
 
@@ -225,7 +225,7 @@ She heard nothing from Francisco for a year, then the newspaper stories appeared
 
 Entering the hotel, she feels a cold anger growing as she approaches his room. Which vanishes instantly the moment he greets her. As they converse, he notes in passing that Mrs. Vail's story doesn't check out, since he was presiding over the opening of the Mexican rail line on the day that Vail said she had an affair with him in the Andes. Speaking of which,
 
-> "[...] 'investment' is a relative term. It depends on what you wish to accomplish. For instance, look at San Sebastian. It cost me fifteen million dollars, but these fifteen million wiped out forty million belonging to Taggart Transcontinental, thirty-five million belonging to stockholders such as Jim Taggart and Orren Boyle, and hundreds of millions which will be lost in secondary consequences. That's not a bad return on an investment, is it, Dagny?" 
+> "[...] 'investment' is a relative term. It depends on what you wish to accomplish. For instance, look at San Sebastian [the Mexican rail line]. It cost me fifteen million dollars, but these fifteen million wiped out forty million belonging to Taggart Transcontinental, thirty-five million belonging to stockholders such as Jim Taggart and Orren Boyle, and hundreds of millions which will be lost in secondary consequences. That's not a bad return on an investment, is it, Dagny?" 
 
 Of course, he won't really explain his reasons.
 
@@ -233,7 +233,7 @@ Of course, he won't really explain his reasons.
 
 At Rearden's anniversary party, he stands by himself at a window, enduring the presence of anti-business elites invited by his wife.
 
-You can tell they are "intellectuals" because they everything they say is ridiculous.
+(You can tell they are "intellectuals" because they everything they say is ridiculous.)
 
 Dr. Simon Pritchett, head of the Department of Philosophy at Patrick Henry University, explains that "Man's metaphysical pretensions are preposterous. A miserable bit of protoplasm, full of ugly little concepts and mean little emotions — and it imagines itself important! Really, you know, that is the root of all the troubles in the world." He goes on to explain that "The purpose of philosophy is not to help men find the meaning of life, but to prove to them that there isn't any." Balph Eubank, whose most popular book sold 3,000 copies, explains that "The literature of the past was a shallow fraud. It whitewashed life in order to please the money tycoons whom it served. Morality, free will, achievement, happy endings, and man as some sort of heroic being — all that stuff is laughable to us. Our age has given depth to literature for the first time, by exposing the real essence of life: defeat and suffering." Jim Taggart is there for networking.
 
@@ -327,9 +327,11 @@ The mysterious collectivist forces in Washington pass the Equalization of Opport
 
 Businessman Dwight Sanders suddenly retires and disappears after buying United Locomotives, leaving behind no competent supplier of diesel train engines. A mystery man appears in front of Dagny's office, then leaves without knocking. Rearden signs over his Ore business to Paul Larkin and is offended when Larkin says, "It's only a legal technicality, Hank," he said. "You know that I'll always consider these ore mines as yours." Rearden knows Taggart Transcontinental is having financial difficulties and volunteers a moratorium on invoices for the metal he sells them. "Why should I collect my money from you now, when it might prove to be the death blow to your company?" Rearden does not ask for interest or expect any other company to give Taggart a break, adding "Don't you see? I have just received a great deal of money... which I didn't want. I can't invest it. It's of no use to me whatever." (Rand doesn't explain why he cannot invest in the stock market.)
 
-Meanwhile, a Union of Locomotive Engineers delegate threatens now to allow any of its workers to work on the line, as the media contintues its scare-mongering about Rearden Metal. 
+> No space was given by the newspapers to the progress of the construction of the John Galt Line. No reporter was sent to look at the scene. The general policy of the press had been stated by a famous editor five years ago. "There are no objective facts," he had said. "Every report on facts is only somebody's opinion. It is, therefore, useless to write about facts." 
 
-> No voices were heard in public in defense of Rearden Metal. And nobody attached significance to the fact that the stock of Taggart Transcontinental was rising on the market, very slowly, almost furtively."
+Meanwhile, a Union of Locomotive Engineers delegate threatens now to allow any of its workers to work on the line, as the press contintues its scare-mongering about Rearden Metal. 
+
+> [...] No voices were heard in public in defense of Rearden Metal. And nobody attached significance to the fact that the stock of Taggart Transcontinental was rising on the market, very slowly, almost furtively."
 
 Taggart Transcontinental asks for volunteers to drive the first train on the new line; "Every engineer on Taggart Transcontinental" volunteers, except one who is in a hospital and one who is in jail.
 
@@ -345,9 +347,11 @@ At the end of the line, oilman Ellis Wyatt volunteers to let Hank and Dagny slee
 
 ### Part 1, Chapter 9
 
-The morning after, Hank explains that "What I feel for you is contempt. But it's nothing, compared to the contempt I feel for myself. I don't love you. I've never loved anyone. I wanted you from the first moment I saw you. I wanted you as one wants a whore — for the same reason and purpose. I spent two years damning myself, because I thought you were above a desire of this kind. You're not. You're as vile an animal as I am." After his monologue, she bursts out laughing "in joyous amusement", and delivers a monologue of her own. "I am an animal who wants nothing but that sensation of pleasure which you despise--but I want it from you. You'd give up any height of virtue for it, while I — I haven't any to give up. [...] You don't have to fear that you're now dependent upon me. It's I who will depend on any whim of yours. You'll have me any time you wish, anywhere, on any. terms." It's all very sexy, so they have more sex.
+The morning after, Hank explains that "What I feel for you is contempt. But it's nothing, compared to the contempt I feel for myself. I don't love you. I've never loved anyone. I wanted you from the first moment I saw you. I wanted you as one wants a whore — for the same reason and purpose. I spent two years damning myself, because I thought you were above a desire of this kind. You're not. You're as vile an animal as I am." After his monologue, she bursts out laughing "in joyous amusement", and delivers a monologue of her own. "I am an animal who wants nothing but that sensation of pleasure which you despise — but I want it from you. You'd give up any height of virtue for it, while I — I haven't any to give up. [...] You don't have to fear that you're now dependent upon me. It's I who will depend on any whim of yours. You'll have me any time you wish, anywhere, on any. terms." It's all very sexy, so they have more sex.
 
-The media does an instant 180 and celebrates the new John Galt (Rio Norte) Line. Meanwhile, Jim Taggart visits a dime store on his way home, and the young cashier Cherryl Brooks is in awe to meet the president of TT, largely having mistaken Dagny's accomplishments for his. Enjoying the flattery, he asks her on a date, much of which he spends complaining about Dagny, and badmouthing his friends. Cherryl doesn't know what he's talking about, but remains in awe.
+The press does an instant 180 and celebrates the new John Galt (Rio Norte) Line. (If you're waiting for Rand to reveal why the media speaks as a single unified, lying voice, don't bother: she won't.)
+
+Meanwhile, Jim Taggart visits a dime store on his way home, and the young cashier Cherryl Brooks is in awe to meet the president of TT, largely having mistaken Dagny's accomplishments for his (because of how he is described in the press). Enjoying the flattery, he asks her on a date, much of which he spends complaining about Dagny, and badmouthing his friends. Cherryl doesn't know what he's talking about, but remains in awe.
 
 Arriving home in New York, Dagny isn't surprised when Rearden shows up at her apartment. After Rearden and Dagny explain to each other how happy and overwhelmed they are with new orders, they enjoy another helping of sex.
 
@@ -1095,6 +1099,8 @@ Lillian and his mother are indignant about his heartlessness. Philip says "If yo
 
 > "I am supposed to deliver to Taggart Transcontinental, on February 'fifteenth, sixty thousand tons of rail, which is to give you three hundred miles of track. You will receive— for the same sum of money— eighty thousand tons of rail, which will give you five hundred miles of track. [...] I am not asking for your consent. [...] We will tangle the bookkeeping in such a way that if the thing should ever blow up, nobody will be able to pin anything on anybody, except on me."
 
+> For a month in advance, the people who filled the courtroom had been told by the press that they would see the man who was a greedy enemy of society; but they had come to see the man who had invented Rearden Metal. 
+
 Rearden has no lawyer. When the three-judge panel, appointed by the Bureau of Economic Planning and National Resources, asks for his plea, he answers:
 
 > "I have no defense." 
@@ -1161,7 +1167,11 @@ Rearden eventually decides to visit Francisco in his room at the Wayne-Falkland.
 
 > [...] "how can you find any pleasure in spending a life as valuable as yours on running after cheap women and on an imbecile's idea of diversions?" 
 
-> "There's a way to solve every dilemma of that kind, Mr. Rearden. Check your premises. [...] No matter what corruption he's taught about the virtue of selflessness, sex is the most profoundly selfish of all acts, an act which he cannot perform for any motive but his own enjoyment — just try to think of performing it in a spirit of selfless charity! — an act which is not possible in self-abasement, only in self-exaltation, only in the confidence of being desired and being worthy of desire. It is an act that forces him to stand naked in spirit, as well as in body. [...] the man who is convinced of his own worthlessness will be drawn to a woman he despises." [...] "I've spent a lot of money on the most ostentatiously vulgar parties I could think of, and a miserable amount of time on being seen with the appropriate sort of women. As for the rest—" He stopped, then said, "I have some friends who know this, but you are the first person to whom I am confiding it against my own rules: I have never slept with any of those women. I have never touched one of them."
+> "There's a way to solve every dilemma of that kind, Mr. Rearden. Check your premises. [...] No matter what corruption he's taught about the virtue of selflessness, sex is the most profoundly selfish of all acts, an act which he cannot perform for any motive but his own enjoyment — just try to think of performing it in a spirit of selfless charity! 
+
+(No, Rand; I have thought of sex in precisely this manner for many years. If I was incapable of sexual pleasure but remained physically able, I would be willing to perform a charitable sex act for someone I care about.)
+
+> — an act which is not possible in self-abasement, only in self-exaltation, only in the confidence of being desired and being worthy of desire. It is an act that forces him to stand naked in spirit, as well as in body. [...] the man who is convinced of his own worthlessness will be drawn to a woman he despises." [...] "I've spent a lot of money on the most ostentatiously vulgar parties I could think of, and a miserable amount of time on being seen with the appropriate sort of women. As for the rest—" He stopped, then said, "I have some friends who know this, but you are the first person to whom I am confiding it against my own rules: I have never slept with any of those women. I have never touched one of them."
 
 > "What is more incredible than that, is that I believe you." 
 
@@ -1202,9 +1212,11 @@ After much debate it is decided to close and dismantle the John Galt line on Mar
 
 Dagny and Hank go to Colorado to buy things of value before the trains stop. All productive businesses have closed; Dr. Ferris's Reclamation Project is abandoned.
 
-On April 2, Jim Taggart voices displeasure with Lillian about what happened at Rearden's trial. She says that when she finds out what went wrong, she will keep her promise. "Then you'll be free to take full credit for it and to tell your friends in high places that it's you who've disarmed him."
+On April 2, Jim Taggart voices displeasure with Lillian about what happened at Rearden's trial. She says that when she finds out what went wrong, she will keep her promise. "Then you'll be free to take full credit for it and to tell your friends in high places that it's you who've disarmed him." Rand implies in the following paragraph that the government controls the press:
 
-She knows Hank is scheduled to arrive in New York. Learning that Hank is not listed among the passengers on the Comet, she assumes he is traveling under an alias to be with her mistress. She goes to the trains as it unloads and sees Hank without a companion. Elsewhere she notices Dagny, and understands. Hank spots her; she claims she misses him and wanted to surprise him. Back in the Wayne-Falkland, she confronts him.
+> [...] On his last trip to Washington, he had pleaded with Mr. Weatherby that a cut in the rates of the railroads would be a deathblow; the wage raises had been granted, but the demands for the cut in rates were still heard in the press — and Taggart had known what it meant, if Mr. Mouch still permitted them to be heard; he had known that the knife was still poised at his throat. [...]
+
+Lillian knows Hank is scheduled to arrive in New York. Learning that Hank is not listed among the passengers on the Comet, she assumes he is traveling under an alias to be with her mistress. She goes to the trains as it unloads and sees Hank without a companion. Elsewhere she notices Dagny, and understands. Hank spots her; she claims she misses him and wanted to surprise him. Back in the Wayne-Falkland, she confronts him.
 
 > [...] "Is it Dagny Taggart?" 
 
@@ -2036,6 +2048,8 @@ Various men give speeches praising the invention and crediting Dr. Stadler for i
 
 > "I do not expect to be insulted by disloyal young punks with treasonable motives," said Dr. Stadler loudly. 
 
+> Dr. Ferris [...] snapped, [...] distorted by rage at the unexpected and unplanned, "Give me your press card and your work permit!"
+
 Dagny travels to the nearest airfield. Newspapers have reported Dagny's death; she sees a reporter and reports her aliveness before boarding a plane to New York. There, she calls Hank's hotel in Colorado. He asks what happened to her, and she gives an unconvincing story based on shards of the truth. Hanging up, Dangy feels "a violent pain".
 
 Señor Cuffy Meigs, who is in charge of the "Railroad Unification Plan", is giving orders to Eddie. Dagny countermands one order but Eddie says "We'll have to" after Meigs leaves. Eddie explains that Meigs is from Washington, and basically has all power over where trains go, and that the trains serve whomever has friends in Washington, although it's all supposed to be for the "public welfare". Also, Washington now pools revenue between railroads and redistributes it in a nonsensical way, based on miles of track owned, rather than based on costs or the amount of service provided, so that TT gets a disproportionate share of the revenue due to its lightly-used and unused track. Eddie explains,
@@ -2345,8 +2359,6 @@ She sees that John Galt is among the workers, with greasy overalls, and finishes
 ### Part 3, Chapter 6
 
 There are enough new goons in Rearden's steel mill to vote a demand to raise wages. The Unification Board rejects the petition, and the newspapers of the country, "controlled by the same men who  controlled the Board", print stories about the refusal to raise wages, about hardships of the mill workers due to the rising cost of living, and other stories meant to make Rearden look bad. The new workers begin sabotaging things so that newspapers can talk about the "inflammatory" situation.
-
-(I am still wondering why Rand's news media sticks to saying things that are technically true, but misleading.)
 
 His personal funds at the bank are temporarily confiscated due to a "mistake". Tinky Holloway invites him to New York for a meeting about straightening out recent "misunderstandings". Hank declines, but Tinky practically begs him and he accepts. The news workers are acting slightly suspiciously. The next morning, his mother calls and begs for a meeting. He comes home at 4 PM; Lillian and Philip are there.
 
