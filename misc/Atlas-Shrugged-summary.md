@@ -445,7 +445,7 @@ He gives her a cigarette, and as she leaves, notices its unusual flavor and bran
 
 At a TT train station she sees a newspaper:
 
-> Wesley Mouch, Top Co-ordinator of the Bureauof Economic Planning and National Resources, “in a surprise move,” said thepaper, “and in the name of the national emergency,” had issued a set of directives, which were strung in a column down the page:
+> Wesley Mouch, Top Co-ordinator of the Bureauof Economic Planning and National Resources, "in a surprise move," said thepaper, "and in the name of the national emergency," had issued a set of directives, which were strung in a column down the page:
 
 > The railroads of the country were ordered to reduce the maximum speed of all trains to sixty miles per hour — to reduce the maximum length of all trains to sixty cars — and to run the same number of trains in every state of a zone composed of five neighboring states, the country being divided into such zones for the purpose. 
 
@@ -850,21 +850,21 @@ Francisco passes Dagny and makes some cryptic remarks about the John Galt line. 
 
 Rearden approaches Francisco.
 
-> “I want to speak to you.”
+> "I want to speak to you."
 
-> “To whom do you think I’ve been speaking for the last quarter of an hour?”
+> "To whom do you think I’ve been speaking for the last quarter of an hour?"
 
-> Rearden chuckled. "[...] remember  that  you  said  you  wanted  to  offer  me  your gratitude? [...] I told you that I didn’t need it and I insulted you for it. All right, you’ve won. That speech you made tonight—that was what you were offering me, wasn’t it?” [...] "Why don’t you practice what you preach?”
+> Rearden chuckled. "[...] remember  that  you  said  you  wanted  to  offer  me  your gratitude? [...] I told you that I didn’t need it and I insulted you for it. All right, you’ve won. That speech you made tonight—that was what you were offering me, wasn’t it?" [...] "Why don’t you practice what you preach?"
 
-> “Are you sure that I don’t?”
+> "Are you sure that I don’t?"
 
 Francisco offers him some, somewhat cryptic, philosophical remarks, adding,
 
-> “Mr. Rearden,  do you own any d’Anconia Copper stock?”
+> "Mr. Rearden,  do you own any d’Anconia Copper stock?"
 
-> Rearden looked at him, bewildered. “No.”
+> Rearden looked at him, bewildered. "No."
 
-> “Some day, you’ll know what treason I’m committing right now, but ...Don’t ever buy any d’Anconia Copper stock. Don’t ever deal with d’Anconia Copper in any way.”
+> "Some day, you’ll know what treason I’m committing right now, but ...Don’t ever buy any d’Anconia Copper stock. Don’t ever deal with d’Anconia Copper in any way."
 
 Francisco explains that he's intentionally sabotaging his mines with a series of "accidents" and that the stock will crash tomorrow morning. Rearden says "I think you're the guiltiest man in this room [...] worse than anything I had supposed."
 
@@ -1633,7 +1633,7 @@ After they make love, the assistant manager of the apartment building delivers a
 
 Hank agrees to fly his plane to meet her in Colorado, and leaves. Eddie visits her apartment to discuss operation plans, and notices Hank Rearden's personalized evening gown in her closet. Eddie goes to the cafeteria, where the unnamed railroad worker prods him until he spills the beans on Quentin Daniels and Dagny's Affair.
 
-> Why should I care that she's sleeping with Hank Rearden? ... Oh God!—what’s the matter with you? Don’t go! Where are you going?”
+> Why should I care that she's sleeping with Hank Rearden? ... Oh God!—what’s the matter with you? Don’t go! Where are you going?"
 
 ### Part 2, Chapter 10
 
@@ -1942,7 +1942,7 @@ Galt persuades Francisco not to tell Hank about Dagny. "Do you wish to give any 
 
 It becomes clear that Dagny and Galt are sexually attracted to each other when Galt explains how he had been watching her for years. She also realizes he is the ideal man she had always had in her mind.
 
-> “Every man that your railroad needed and lost in the past ten years,” he said, “it was I who made you lose him. [...] if you choose to go back, I will see it collapse upon your head.”
+> "Every man that your railroad needed and lost in the past ten years," he said, "it was I who made you lose him. [...] if you choose to go back, I will see it collapse upon your head."
 
 Dagny meets a baker who apparently came to the valley together with her husband; they have two sons. She says her "profession" is motherhood (with no mention of whether she is paid, and whether there are any paid schoolteachers).
 
@@ -1956,16 +1956,16 @@ Later, Francisco shows Dagny his D'Anconia Copper No. 1 mine with Galt. Dagny th
 
 At the grocery store, Dagny hears a plane overhead and rushes to use the telescope at the airfield control tower. She sees Hank's plane (the camoflauge apparently works in only one direction) but can't easily contact him and takes no action but to think on it. Soon, the end of the month draws near and they ask her: yes or no?
 
-> “If any part of your uncertainty,” said Galt, “is a conflict between your heart and your mind—follow your mind.”
-> “Don’t consider our interests or desires,” said Francisco. “You have no duty to anyone but yourself. ”
+> "If any part of your uncertainty," said Galt, "is a conflict between your heart and your mind—follow your mind."
+> "Don’t consider our interests or desires," said Francisco. "You have no duty to anyone but yourself. "
 
 Galt is considering going back out into the world; the others point out how dangerous it is getting out there, and what a valuable mind he has, but he is unmoved.
 
 Finally, Dagny decides to leave without taking the oath.
 
-> "So long as men desire to live, I cannot lose my battle.”
+> "So long as men desire to live, I cannot lose my battle."
 
-> “Do they?” said Hugh Akston softly. “Do they desire it? [...] Just take that question back with you, as the last premise left for you to check.”
+> "Do they?" said Hugh Akston softly. "Do they desire it? [...] Just take that question back with you, as the last premise left for you to check."
 
 > "We must discuss the conditions of your departure, " said Gait; he spoke in the dispassionate manner of an executive. "First, you must give us your word that you will not disclose our secret or any part of it — neither our cause nor our existence nor this valley nor your whereabouts for the past month — to anyone in the outer world, not at any time or for any purpose whatsoever." 
 
