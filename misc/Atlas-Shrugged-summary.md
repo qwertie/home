@@ -4,6 +4,8 @@ layout: home
 head: '<meta name="robots" content="noindex"/>'
 ---
 
+[_Associated book review_](Atlas-Shrugged-book-review)
+
 Summary of Part I: "NON-CONTRADICTION"
 ------------------
 
@@ -1199,7 +1201,7 @@ It's wintertime. Trains are derailing regularly now, and businesses around the c
 
 > "There are no absolutes," said Dr. Pritchett. "Reality is only an illusion. How does that woman know that her son is dead? How does she know that he ever existed?" 
 
-A bridge partially collapses due to a failure to procure metal to reinforce it, killing numerous passengers cross it on a train. Rearden secretly takes coal from an abandoned mine. In New York, TT is in dire financial straits, but a Washington man named Mr. Weatherby now attends its board meetings. "Mr. Mouch sent me here to discuss the demand of the railway unions for a raise in wages and the demand of the shippers for a cut in rates." The board looks to Dagny for help, but she refuses to make any decisions.
+A bridge partially collapses due to a failure to procure metal to reinforce it, killing numerous passengers crossing it on a train. Rearden secretly takes coal from an abandoned mine. In New York, TT is in dire financial straits, but a Washington man named Mr. Weatherby now attends its board meetings. "Mr. Mouch sent me here to discuss the demand of the railway unions for a raise in wages and the demand of the shippers for a cut in rates." The board looks to Dagny for help, but she refuses to make any decisions.
 
 > "I have stopped thinking of a future or of a railroad system. I intend to continue running trains so long as it is still possible to run them. I don't think that it will be much longer." 
 
@@ -1344,7 +1346,7 @@ Hank had moved to an apartment in Philadelphia, and now carried a gun for self-d
 
 > He had handed to his attorney a signed blank check and said, "Get me a divorce. On any grounds and at any cost. [...] Do whatever you wish. But there is to be no alimony and no property settlement."
 
-On the long walk home, a shady figure approaches. He says he'd here to deliver "A small refund on a very large debt": a bar of solid gold.
+On the long walk home, a shady figure approaches. He says he's here to deliver "A small refund on a very large debt": a bar of solid gold.
 
 > "What made you think that I'd accept a gift of this kind?" 
 
@@ -1466,13 +1468,13 @@ Jim is awakened by the message at 6 AM. He calls Clifton Locey to demand he do s
 
 > "Give an engine to Mr. Chalmers at once. Send the Comet through safely and without unnecessary delay. If you are unable to perform your duties, I shall hold you responsible before the Unification Board, Clifton Locey." 
 
-> Then, calling his girl friend to join him, Clifton Locey drove to a country roadhouse — to make certain that no one would be able to find him in the next few hours . 
+> Then, calling his girl friend to join him, Clifton Locey drove to a country roadhouse — to make certain that no one would be able to find him in the next few hours. 
 
 Mitchum looks for a politically palatable way out and finds nothing, but is terrified of being blamed for the delay, and decides to carry out the order with a coal-burning train.
 
 Most of the employees in the train and at the station are aware it would be deadly for this passenger train to go through the tunnel, but Mitchum goes through various machinations to make it happen anyway; fear induced in employees by Emergency Directive No. 10-289 prevent them from stopping Mitchum. The train, driven by employees who are unaware of the danger, goes into the tunnel, killing everyone aboard.
 
-But before Rand sends them to their deaths, she explains in some detail that every single person on the train (aside from the children) had a belief or an occupation which, I suppose, Rand would not approve of.
+But before Rand sends them to their deaths, she explains in some detail that every single person on the train (aside from the children) had a belief or an occupation which Rand would not approve of.
 
 >  The man in Bedroom H, Car No. 5, was a businessman who had acquired his 
   business, an ore mine, with the help of a government loan, under the 
@@ -1511,9 +1513,7 @@ Dagny enjoys her peace in the woods, renovating things, but after two weeks star
 
 > "How did you find out where I was?" [...] "You forced it out of Eddie." 
 
-> "I haven't seen Eddie for over a year." 
-
-> "You shouldn't have been left here for a month," he said. "God, you shouldn't have! It's my first failure, at the one time when I didn't want to fail. But I didn't think you were ready to quit. Had I known it, I would have watched you day and night." 
+> "I haven't seen Eddie for over a year." [...] "You shouldn't have been left here for a month," he said. "God, you shouldn't have! It's my first failure, at the one time when I didn't want to fail. But I didn't think you were ready to quit. Had I known it, I would have watched you day and night." 
 
 > [...] "You know," she said, "I used to think that there was some destroyer who came after them and made them quit. [...Now] I know how they felt. I can't blame them any longer. What I don't know is how they learned to exist afterward — if any of them still exist." 
 
@@ -1689,7 +1689,7 @@ The emergency telephone is broken. As they walk five miles toward the next one, 
 
 > "How much is it?" 
 
-> "Five cents—" he said, and added, "in gold." 
+> [...] "Five cents—" he said, and added, "in gold." 
 
 He gives her the carton as a gift, to remind her of her "true homeland". The next telephone works, but the man on the other end of the line says the rules don't say anything about sending out a crew to help if there hasn't been an accident. All his supervisors are on vacation.
 
@@ -1799,6 +1799,8 @@ John Galt cooks a fancy breakfast for her, with food from the grocery store of L
 John Galt won't show her the motor that helped cook the food, but orders a car to show her around town.
 
 > "Did I understand you to say that Mr. Mulligan — who's worth about two hundred million dollars, I believe — is going to charge you twenty-five cents for the use of his car? [...] couldn't he give it to you as a courtesy?" 
+
+(All the prices are low in the valley, which adds to the town's [positive affect](https://positivepsychology.com/positive-negative-affect/).)
 
 > "Miss Taggart," he said, "we have no laws in this valley, no rules, no formal organization of any kind. We come here because we want to rest. But we have certain customs, which we all observe, because they pertain to the things we need to rest from. So I'll warn you now that there is one word which is forbidden in this valley: the word 'give,'." 
 
@@ -2117,11 +2119,11 @@ The Mic was cut. As James, Morrison, Scudder and Lillian argue about whose fault
 
 > [...] "No!" The answer was fiercely immediate, but he added, [...] "Not yet." 
 
-Predictably, neither of them think or talk about whether her speech will have any effect on society, since it is only themselves that they are concerned with.
+(Predictably, neither of them think or talk about whether her speech will have any effect on society, since it is only themselves that they are concerned with.)
 
 ### Part 3, Chapter 4: Anti-Life
 
-Orren Boyle is now president of the new Interneighborly Amity and Development Corporation which has an exclusive contract to operate all industrial properties in the People's States of the Southern Hemisphere. Argentina is becoming a People's State, and the U.S. is about to grant a four billion dollar loan to the People's States of Chile and Argentina. Since dollar values seem to be stated in 1957 dollars, this should be about $100 billion in 2020 dollars. On Sept. 2, d'Anconia Copper is to be nationalized (a year after Jim's wedding). Señor Gonzales, a businessman whom no one had heard of a year ago, had joined the new regime of the People's State of Chile and had "the eyes of a killer".
+Orren Boyle is now president of the new Interneighborly Amity and Development Corporation which has an exclusive contract to operate all industrial properties in the People's States of the Southern Hemisphere. Argentina is becoming a People's State, and the U.S. is about to grant a four billion dollar loan to the People's States of Chile and Argentina. (Since dollar values seem to be stated in 1957 dollars, this should be about $100 billion in 2020 dollars.) On Sept. 2, d'Anconia Copper is to be nationalized (a year after Jim's wedding). Señor Gonzales, a businessman whom no one had heard of a year ago, had joined the new regime of the People's State of Chile and had "the eyes of a killer".
 
 Jim Taggart helped set it up in a way that would make him fabulously wealthy and powerful. At a party for the achievement, he had thrown a lot of money around, "knowing that it was easier to pay than to think", but somehow felt an irresistable urge to escape. He leaves and carelessly gives a wad of paper, a hundred-dollar bill, to a beggar who pockets it indifferently. "Thanks, bud." said the beggar contemptuously. Jim realizes he has a sense of indifference to money and a sense of dread knowing that he would be equally indifferent as a beggar.
 
