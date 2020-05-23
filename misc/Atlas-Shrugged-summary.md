@@ -2039,7 +2039,11 @@ Stadler asks Ferris, "Who invented that ghastly thing?"
 
 Various men give speeches praising the invention and crediting Dr. Stadler for it. Ferris hands Stadler a printed speech and asks him to read it at the end of the hour. "In a civilized century, Ferris, in a civilized century!" he moans. Ferris gives veiled threats: "A personal opinion is the one luxury that nobody can afford today." Stadler approaches the stand when a young newsman runs forward and urges him to tell the truth, that he had nothing to do with it and to "Tell the country what sort of people are trying to rule it! [...] Tell them the truth! Save us! You're the only one who can!" 
 
-> "I do not expect to be insulted by disloyal young punks with treasonable motives," said Dr. Stadler loudly. 
+> [...] "I do not expect to be insulted by disloyal young punks with treasonable motives," said Dr. Stadler loudly. 
+
+(Rand doesn't explain why Stadler immediately reacts this way. I'm guessing it's a matter of cowardice.)
+
+> Dr. Ferris [...] snapped, [...] distorted by rage at the unexpected and unplanned, "Give me your press card and your work permit!" 
 
 Dagny travels to the nearest airfield. Newspapers have reported Dagny's death; she sees a reporter and reports her aliveness before boarding a plane to New York. There, she calls Hank's hotel in Colorado. He asks what happened to her, and she gives an unconvincing story based on shards of the truth. Hanging up, Dangy feels "a violent pain".
 
@@ -2661,7 +2665,7 @@ She starts looking for John Galt and eventually finds his apartment, probably us
 
 > "Which one?" 
 
-> [...] "Don't let him fool you." The metallic voice was Dagny's and it was addressed to the leader. "He— is— John— Galt. I shall report the proof to headquarters. You may proceed." 
+> [...] "Don't let him fool you." The metallic voice was Dagny's and it was addressed to the leader. "He—is—John—Galt. I shall report the proof to headquarters. You may proceed." 
 
 > Galt turned to her as to a stranger. "Will you tell me now just who you are and what it was that you wanted here?" 
 
@@ -2974,24 +2978,3 @@ On the highest ledge of a nearby mountain, Dagny's hand rests on Galt's shoulder
 > "The road is cleared," said Galt. "We are going back to the world." He raised his hand and over the desolate earth he traced in space the sign of the dollar. 
 
 > THE END
-
-
-
-
-
-
-
-
-
-
-
-
-
-david & robin reese, no longer at fb, robin ran Q&A, worked with MZ directly, david is epic engineer, director level
-gisselle was friends with her
-fiji & naomi = backstabbers. don't block fiji from what she wants
-alex = smart & intense, bull in a china shop, dishes it, doesn't take it
-what job was bad?
-brian worked with mark winters, super good 'ds', one of the best inaudible in the world
-mark lost his shit at whattsapp
-product growth
