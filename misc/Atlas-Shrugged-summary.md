@@ -107,7 +107,7 @@ His family (wife Lillian, brother Philip, and mother) are not impressed. When Ha
 
 > "It's no use hoping to make a saint out of Henry, Mother," said Philip. "He wasn't meant to be one." 
 
-> "Oh but, Philip, you're wrong!" said Lillian. "You're so wrong! Henry has all the makings of a saint. That's the trouble." What did they seek from him?— thought Rearden— what were they after? He had never asked anything of them; it was they who wished to hold him, they who pressed a claim on him— and the claim seemed to have the form of affection, but it was a form which he found harder to endure than any sort of hatred. He despised causeless affection, just as he despised unearned wealth. They professed to love him for some unknown reason and they ignored all the things for which he could wish to be loved. He wondered what response they could hope to obtain from him in such manner— if his response was what they wanted. 
+> "Oh but, Philip, you're wrong!" said Lillian. "You're so wrong! Henry has all the makings of a saint. That's the trouble." What did they seek from him? — thought Rearden — what were they after? He had never asked anything of them; it was they who wished to hold him, they who pressed a claim on him — and the claim seemed to have the form of affection, but it was a form which he found harder to endure than any sort of hatred. He despised causeless affection, just as he despised unearned wealth. They professed to love him for some unknown reason and they ignored all the things for which he could wish to be loved. He wondered what response they could hope to obtain from him in such manner — if his response was what they wanted. 
 
 ### Part 1, Chapter 3
 
@@ -146,7 +146,7 @@ Jim is mad that Dagny reduced service there, "So that the looters won't have too
 
 Dagny walks home past vacuous pop-culture advertisements on a run-down street, to her well-furnished apartment near the top of a skyscraper, and listens once again to Richard Halley, who had retired suddenly after his first successful opera. She accidently sees and reads a newspaper article about her former friend Francisco d'Anconia, and one Mrs. Vail, who tells a tale of their affair.
 
-There had been many rumors that Mexico would nationalize the new rail line, rumors which Jim angrily ignored until the day it happened, at which point he immediately claimed to have forseen it and took credit for Dagny's service reductions.
+There have been many rumors that Mexico was about to nationalize the new rail line, rumors which Jim angrily ignored until now, the day it happens, at which point he immediately claims to have forseen it and takes credit for Dagny's service reductions.
 
 Next, the National Alliance of Railroads passes the anti-competition rule (with no stated motive):
 
@@ -274,7 +274,7 @@ Lillian agrees to the exchange.
 
 ### Part 1, Chapter 7
 
-Dagny stands on the new Rio Norte Line as it is built. A bridge over a chasm has worn out and needs to be strengthened or replaced. She is surprised to find Hank Rearden there. He says she's wasting her money if she tries reinforcing the bridge, that her chief engineer is whong about the cost to replace the bridge, and that he can build it for 60% less. She asks how. He explains with a notebook sketch. She understands.
+Dagny stands on the new Rio Norte Line as it is built. A bridge over a chasm has worn out and needs to be strengthened or replaced. She is surprised to find Hank Rearden there. He says she's wasting her money if she tries reinforcing the bridge, that her chief engineer is wrong about the cost to replace the bridge, and that he can build it for 60% less. She asks how. He explains with a notebook sketch. She understands.
 
 > "Hank," she asked, "did you invent this in two days?" 
 
@@ -336,7 +336,7 @@ Taggart Transcontinental asks for volunteers to drive the first train on the new
 
 Dagny and Rearden make a statement to the press about all the profit they intend to make, shocking a reporter who says "I'm sure you didn't mean it the way it sounds...".
 
-The new line opens three days before the Phoenix-Durango line closes. They decide to run the very first train, an 80-car freight special, at an average speed of 160 kilometers per hour — sorry, I meant 100 miles per hour. Not even creeping socialism can make the U.S. switch to metric.
+The new line opens three days before the Phoenix-Durango line closes. They decide to run the very first train, an 80-car freight special, at an average speed of 160 kilometers per hour — sorry, I meant 100 miles per hour. (Not even creeping socialism can make the U.S. switch to metric.)
 
 A massive crowd gathered on the platform in Wyoming to watch the train leave. Dagny and Hank ride in the front engine, while Eddie Willers cuts a ribbon with giant scissors. As the train barrels down the track, they see people zoom by the train with an "odd regularity", and Dagny realizes that extra armed men with railroad caps had volutunteered to guard the line that day, in addition to the men they had hired for this purpose.
 
@@ -374,7 +374,7 @@ Rearden Ore fails to deliver ore to Rearden for a month; Larkin first avoids tal
 
 Rearden has been avoiding his wife for months. Visiting his room, she explains the value of dishonesty:
 
-> "[...] Suppose I wanted to tell you about the new novel which Balph Eubank is writing — he is dedicating it to me— would that interest you?" 
+> "[...] Suppose I wanted to tell you about the new novel which Balph Eubank is writing — he is dedicating it to me — would that interest you?" 
 
 > "If it's the truth that you want — not in the least." 
 
@@ -430,7 +430,7 @@ She slips her arms around him; he throws her aside; she's bewildered; they discu
 
 Dagny follows a trail toward the inventor of the motor. She speaks to Eugene Lawson, who ran Community National Bank of Madison into the ground by making foolish loans (and now makes unprompted remarks about how moral he his an how she shouldn't despise him), which leads her to Lee Hunsacker, president of the company that bought the bankrupt TCMC factory, who makes unprompted remarks about how nothing is his fault. He explains that he sued banker Midas Mulligan for a loan, based on a new "emergency" law saying "people were forbidden to discriminate for any reason whatever", and the proof of discrimination was that Mulligan said he wasn't qualified to run a vegetable pushcart. Judge Narragansett ruled against him, but he won on appeal. Lee Hunsaker gives her a lead in Durance, Louisiana where the three heirs of Jed Starnes, original owner of TCMC, lived. After Ivy Starnes explains the "great, new plan" based on "From each according to his ability, to each according to his need", which quickly destroyed the company, Dagny learns of chief engineer William Hastings. William is dead, but his wife remembers a diner in the rocky mountains where she once saw a man whom she had once seen standing beside the inventor of the motor.
 
-In the diner, the cook is skilled and she offers him $10,000 a year to work in New York. He refuses. He admits to knowing the motor's inventor, but won't give any information about him. She asks for his name. It's Hugh Akston.
+In the diner, the cook is skilled and she offers him $10,000 a year to work in New York. He refuses. He admits to knowing the motor's inventor, but won't give any information about him. She asks the cook for his name. It's Hugh Akston.
 
 > "Hugh Akston?" she stammered. "The philosopher? ... The last of the advocates of reason?" 
 
@@ -445,7 +445,7 @@ He gives her a cigarette, and as she leaves, notices its unusual flavor and bran
 
 At a TT train station she sees a newspaper:
 
-> Wesley Mouch, Top Co-ordinator of the Bureauof Economic Planning and National Resources, "in a surprise move," said thepaper, "and in the name of the national emergency," had issued a set of directives, which were strung in a column down the page:
+> Wesley Mouch, Top Co-ordinator of the Bureauof Economic Planning and National Resources, "in a surprise move," said the paper, "and in the name of the national emergency," had issued a set of directives, which were strung in a column down the page:
 
 > The railroads of the country were ordered to reduce the maximum speed of all trains to sixty miles per hour — to reduce the maximum length of all trains to sixty cars — and to run the same number of trains in every state of a zone composed of five neighboring states, the country being divided into such zones for the purpose. 
 
@@ -522,7 +522,7 @@ Stadler asks about the book. Ferris says it is unscientific because it is meant 
 
 > [...] "I am unable to understand the attention you received in all the reputable academic magazines and how they could permit themselves to discuss your book seriously. If Hugh Akston were around, no academic publication would have dared to treat this as a work admissible into the realm of philosophy." 
 
-> "He is not around. [...] On the other hand," said Dr, Ferris, "the ads for my book— oh, I'm sure you wouldn't notice such things as ads— quote a letter of high praise which I received from Mr. Wesley Mouch." 
+> "He is not around. [...] On the other hand," said Dr, Ferris, "the ads for my book — oh, I'm sure you wouldn't notice such things as ads — quote a letter of high praise which I received from Mr. Wesley Mouch." 
 
 > "Who the hell is Mr. Wesley Mouch? [...] I don't see any practical purpose in your book. I don't see what it's intended to accomplish." 
 
@@ -538,13 +538,13 @@ Dagny Taggart asks for an appointment to see Stadler, who is so happy he pretend
 
 Dagny's crossing out another Colorado train on the schedule. Lawrence Hammond had retired; Andrew Stockton had closed his plant and vanished; any cars still on the roads "moved like travelers in the desert [...] past the skeletons of cars that had collapsed on duty. [...] But there were men still able to get oil, by means of friendships that nobody cared to question."
 
-> "No, Miss Taggart, I can't explain it," the sister of Andrew Stockton had told her on her last trip to Colorado, two months ago. "He never said a word to me and I don't even know whether he's dead or living, same as Ellis Wyatt. [...] I remember only that some man came to see him on that last evening. [...] They talked late into the night— when I went to sleep, the light was still burning in Andrew's study." 
+> "No, Miss Taggart, I can't explain it," the sister of Andrew Stockton had told her on her last trip to Colorado, two months ago. "He never said a word to me and I don't even know whether he's dead or living, same as Ellis Wyatt. [...] I remember only that some man came to see him on that last evening. [...] They talked late into the night — when I went to sleep, the light was still burning in Andrew's study." 
 
 > [...] One well, on the crest of the hill, was still burning. People called it Wyatt's Torch.
 
 > [...] It took every scrap of her energy to keep trains running through the sections where they were still needed, in the areas that were still producing. But on the balance sheets of Taggart Transcontinental, the checks of Jim's subsidies for empty trains bore larger figures than the profit brought by the best freight train of the busiest industrial division. Jim boasted that this had been the most prosperous six months in Taggart history. 
 
-> [...] Nobody professed to understand the question of the frozen railroad bonds; perhaps, because everybody understood it too well. At first, there had been signs of a panic among the bondholders and of a dangerous indignation among the public. Then, Wesley Mouch had issued another directive, which ruled that people could get their bonds "defrozen" upon a plea of "essential need": the government would purchase the bonds, if it found the proof of the need satisfactory. There were three questions that no one answered or asked: "What constituted proof?" "What constituted need?" "Essential— to whom?"
+> [...] Nobody professed to understand the question of the frozen railroad bonds; perhaps, because everybody understood it too well. At first, there had been signs of a panic among the bondholders and of a dangerous indignation among the public. Then, Wesley Mouch had issued another directive, which ruled that people could get their bonds "defrozen" upon a plea of "essential need": the government would purchase the bonds, if it found the proof of the need satisfactory. There were three questions that no one answered or asked: "What constituted proof?" "What constituted need?" "Essential — to whom?"
 
 Dagny had called Dr. Stadler as a last resort, after she "tried to find a scientist able to attempt the reconstruction of the motor". Unfortunately, "the men recommended to her as the best in their field" were "hopeless". One even said "I don't think that such a motor should ever be made, even if somebody did learn how to make it. It would be so superior to anything we've got that it would be unfair to lesser scientists, because it would leave no field for their achievements and abilities." 
 
@@ -558,7 +558,7 @@ Dr. Stadler arrives. He reads the "remnant of the manuscript" she had found.
 
 > "Yes." 
 
-> "Did you say it's a matter of technology? It's more, much, much more than that. The pages where he writes about his converter— you can see what premise he's speaking from. He arrived at some new concept of energy. He discarded all our standard assumptions, according to which his motor would have been impossible. He formulated a new premise of his own and he solved the secret of converting static energy into kinetic power. Do you know what that means? Do you realize what a feat of pure, abstract science he had to perform before he could make his motor?" 
+> "Did you say it's a matter of technology? It's more, much, much more than that. The pages where he writes about his converter — you can see what premise he's speaking from. He arrived at some new concept of energy. He discarded all our standard assumptions, according to which his motor would have been impossible. He formulated a new premise of his own and he solved the secret of converting static energy into kinetic power. Do you know what that means? Do you realize what a feat of pure, abstract science he had to perform before he could make his motor?" 
 
 > [... Stadler continued,] "Did you say you found this in the research laboratory of a plain, commercial motor factory?" 
 
@@ -578,7 +578,7 @@ Dr. Stadler arrives. He reads the "remnant of the manuscript" she had found.
 
 Stadler doesn't know of any scientist who might have been able to invent the motor, nor anyone who could figure out how it worked.
 
-> "I wish I could help you," he said, as to a comrade. "I most selfishly wish I could help you, because, you see, this has been my hardest problem— trying to find men of talent for my own staff. Talent, hell! I'd be satisfied with just a semblance of promise [....]"
+> "I wish I could help you," he said, as to a comrade. "I most selfishly wish I could help you, because, you see, this has been my hardest problem — trying to find men of talent for my own staff. Talent, hell! I'd be satisfied with just a semblance of promise [....]"
 
 He asks to see the motor out of "personal curiosity".
 
@@ -588,7 +588,7 @@ He asks to see the motor out of "personal curiosity".
 
 > [...] "I knew it the first time I spoke to you. That was why I came today. Well, that was why I wanted to see the motor."
 
-> "Miss Taggart, " he said, his eyes lowered, looking at the glass case, "I know a man who might be able to undertake the reconstruction of that motor. He would not work for me — so he is probably the kind of man you want." 
+> "Miss Taggart," he said, his eyes lowered, looking at the glass case, "I know a man who might be able to undertake the reconstruction of that motor. He would not work for me — so he is probably the kind of man you want." 
 
 It's a physicist from the Utah Institute of Technology, Quentin Daniels, and Stadler offers to help with the theoretical part of the work. On the way out, they hear a worker say "Who is John Galt?" Stadler says, "I knew a John Galt once. Only he died long ago." 
 
@@ -602,7 +602,7 @@ It's a physicist from the Utah Institute of Technology, Quentin Daniels, and Sta
 
 Hank Rearden thinks of the black market where "their profit on a ton of Rearden Metal was five times larger than his own". He receives an order for 10,000 tons of Rearden Metal from the SSI for Project X. He refuses to sell, especially since, "At the present rate of the mills' production, the applications [for Rearden Metal] extended well into the next century." A "young boy" from Washington, whom the steel workers had nicknamed the Wet Nurse, was there to ensure the mill doesn't produce too much.
 
-> "Mr. Rearden, " said the Wet Nurse, when he heard about the rejected order, "you shouldn't have done that." 
+> "Mr. Rearden," said the Wet Nurse, when he heard about the rejected order, "you shouldn't have done that." 
 
 > "Why not?" 
 
@@ -648,7 +648,7 @@ Dagny sits in her appointment, waiting for Hank to show up, thinking of his prev
 
 > [...] "Do you think a man should give jewelry to his mistress for any purpose but his own pleasure?" he asked. "This is the way I want you to wear it. Only for me. I like to look at it. It's beautiful," 
 
-> [...] on his way to her apartment, Rearden [felt a] sense of revulsion that [...] was new to him— this feeling that the world was a loathsome place where he did not want to belong. 
+> [...] on his way to her apartment, Rearden [felt a] sense of revulsion that [...] was new to him — this feeling that the world was a loathsome place where he did not want to belong. 
 
 > He had held a conference with the producers of copper, who had just been garroted by a set of directives that would put them out of existence in another year. He had had no advice to give them, no solution to offer; his ingenuity [...] had not been able to discover a way to save them.
 
@@ -662,7 +662,7 @@ Dagny sits in her appointment, waiting for Hank to show up, thinking of his prev
 
 Suddenly, his sex drive returns.
 
-> [...] he felt also the unadmitted knowledge that that which he had called her depravity was her highest virtue— this capacity of hers to feel the joy of being, as he felt it. 
+> [...] he felt also the unadmitted knowledge that that which he had called her depravity was her highest virtue — this capacity of hers to feel the joy of being, as he felt it. 
 
 ### Part 2, Chapter 2 (The Wedding: Sept. 2)
 
@@ -716,7 +716,7 @@ But that's where she wants to go, and is not pleased that he's avoided her for s
 
 > "[...] Can't you be strong enough to fulfill your obligation and to perform a husband's duty? Can't you go there, not for your own sake, but mine, not because you want to go, but only because I want it?" 
 
-> Dagny— he thought desperately— [...] he could not appear before her with his wife, he could not let her see him as the husband being proudly shown off — he wished he could die now, [...] before he committed this action — because he knew that he would commit it. 
+> Dagny — he thought desperately — [...] he could not appear before her with his wife, he could not let her see him as the husband being proudly shown off — he wished he could die now, [...] before he committed this action — because he knew that he would commit it. 
 
 Jim had returned for a second date with Cheryl Brooks two weeks after the first, and more often after that. "Miss Brooks works in the dime store in Madison Square," he would tell everyone.
 
@@ -734,7 +734,7 @@ He takes her to a fancy party; she buys the best dress she can afford, but doesn
 
 > He did not answer for a moment, and then he asked, "What would you say if I asked you to marry me?" 
 
-> [...] Then this was the way they reached their first kiss— with tears running down her face, tears unshed at the party, tears of shock, of happiness, of thinking that this should be happiness, and of a low, desolate voice telling her that this was not the way she would have wanted it to happen. 
+> [...] Then this was the way they reached their first kiss — with tears running down her face, tears unshed at the party, tears of shock, of happiness, of thinking that this should be happiness, and of a low, desolate voice telling her that this was not the way she would have wanted it to happen. 
 
 At the wedding, Jim Taggart and all his Washington-friendly friends are networking. Someone tells him Mr. Mouch couldn't come:
 
@@ -762,7 +762,7 @@ At the wedding, Jim Taggart and all his Washington-friendly friends are networki
 
 > "If you don't believe that I've always tried to do my best for you—" 
 
-> "Sure, you have. The best that could be expected, all things considered. And you'll continue to do it, too, so long as I've got somebody you need— and not a minute longer. So I just wanted to remind you that I've got my own friends in Washington. Friends that money can't buy— just like yours, Jimmy." 
+> "Sure, you have. The best that could be expected, all things considered. And you'll continue to do it, too, so long as I've got somebody you need — and not a minute longer. So I just wanted to remind you that I've got my own friends in Washington. Friends that money can't buy — just like yours, Jimmy." 
 
 > "What do you think you mean?" 
 
@@ -788,7 +788,7 @@ Lillian approaches Jim and asks him how he likes the wedding gift she's giving h
 
 > "I'm ... surprised, Lillian." 
 
-> "Shouldn't you say 'impressed'? Your guests are quite impressed. I can practically hear them thinking all over the room. Most of them are thinking: 'If he has to seek terms with Jim Taggart, we'd better toe the line. ' And a few are thinking: 'If he's afraid, we'll get away with much more.' This is as you want it, of course— and I wouldn't think of spoiling your triumph— but you and I are the only ones who know that you didn't achieve it single-handed." 
+> "Shouldn't you say 'impressed'? Your guests are quite impressed. I can practically hear them thinking all over the room. Most of them are thinking: 'If he has to seek terms with Jim Taggart, we'd better toe the line. ' And a few are thinking: 'If he's afraid, we'll get away with much more.' This is as you want it, of course — and I wouldn't think of spoiling your triumph — but you and I are the only ones who know that you didn't achieve it single-handed." 
 
 > [...] "What's your angle?" 
 
@@ -812,7 +812,7 @@ Lillian notices the Rearden metal bracelet on Dagny (which Dagny wears in public
 
 > "It is — if you wish to continue this discussion." 
 
-> "Miss Taggart" she said, "I am not your equal in philosophical altitude. I am only an average wife. Please give me that bracelet— if you do not wish me to think what I might think and what you wouldn't want me to name." 
+> "Miss Taggart" she said, "I am not your equal in philosophical altitude. I am only an average wife. Please give me that bracelet — if you do not wish me to think what I might think and what you wouldn't want me to name." 
 
 > "Mrs. Rearden, is this the manner and place in which you choose to suggest that I am sleeping with your husband?" 
 
@@ -838,9 +838,9 @@ Francisco d'Anconia appears unexpectedly and comments on how funny it is that th
 
 > "A great many investors — the old-fashioned sort — dropped me after the San Sebastian Mines. It scared them away. But the modern ones had more faith in me and acted as they always do — on faith."
 
-> "You've done me a great favor — you and your boys in Washington and the boys in Santiago. Only I wonder why none of you took the trouble to inform me about it. Those directives that somebody issued here a few months ago are choking off the entire copper industry of this country. [...] And where in the world is there any copper left— unless it's d'Anconia copper? So you see that I have good reason to be grateful." 
+> "You've done me a great favor — you and your boys in Washington and the boys in Santiago. Only I wonder why none of you took the trouble to inform me about it. Those directives that somebody issued here a few months ago are choking off the entire copper industry of this country. [...] And where in the world is there any copper left — unless it's d'Anconia copper? So you see that I have good reason to be grateful." 
 
-> "I assure you I had nothing to do with it, " Taggart said hastily, "and besides, the vital economic policies of this country are not determined by any considerations such as you're intimating or — " 
+> "I assure you I had nothing to do with it," Taggart said hastily, "and besides, the vital economic policies of this country are not determined by any considerations such as you're intimating or — " 
 
 > "I know how they're determined, James. I know that the deal started with the boys in Santiago [...]. Our boys in Santiago call it taxes. They've been getting their cut on every ton of d'Anconia copper sold. So they have a vested interest to see me sell as many tons as possible. But with the world turning into People's States, this is the only country left where men are not yet reduced to digging for roots in forests for their sustenance — so this is the only market left on earth. The boys in Santiago wanted to corner this market. I don't know what they offered to the boys in Washington, or who traded what and to whom — but I know that you came in on it somewhere, because you do hold a sizable chunk of d'Anconia Copper stock." 
 
@@ -870,7 +870,7 @@ Francisco explains that he's intentionally sabotaging his mines with a series of
 
 Francisco spots a pair of people in conversation, one with a mustashe saying "... we'll have to decide whether we'll permit you to make any profits or not."
 
-> Then, raising his voice, Francisco said suddenly, in the gay, loose, piercing tone of a man of complete irresponsibility, "You won't grant me that loan, Mr. Rearden? It puts me on a terrible spot. I must get the money— I must raise it tonight— I must raise it before the Stock Exchange opens in the morning, because otherwise—" 
+> Then, raising his voice, Francisco said suddenly, in the gay, loose, piercing tone of a man of complete irresponsibility, "You won't grant me that loan, Mr. Rearden? It puts me on a terrible spot. I must get the money — I must raise it tonight — I must raise it before the Stock Exchange opens in the morning, because otherwise —" 
 
 > He did not have to continue, because the little man with the mustache was clutching at his arm. 
 
@@ -902,7 +902,7 @@ Francisco spots a pair of people in conversation, one with a mustashe saying "..
 
 > [...] Taggart ran toward the main exit, yelling something to Orren Boyle on the way. Boyle nodded and kept on nodding, with the eagerness and humility of an inefficient servant, then darted of in another direction. Cherryl, her wedding veil coiling like a crystal cloud upon the air, as she ran after him, caught Taggart at the door. "Jim, what's the matter?" He pushed her aside and she fell against the stomach of Paul Larkin, as Taggart rushed out. 
 
-> Three persons stood immovably still, like three pillars spaced through the room, the lines of their sight cutting across the spread of the wreckage: Dagny, looking at Francisco— Francisco and Rearden, looking at each other. 
+> Three persons stood immovably still, like three pillars spaced through the room, the lines of their sight cutting across the spread of the wreckage: Dagny, looking at Francisco — Francisco and Rearden, looking at each other. 
 
 ### Part 2, Chapter 3
 
@@ -928,7 +928,7 @@ Floyd Ferris enters Rearden's office five months after his lackey did, and asks 
 
 > "One of your friends, Mr. Rearden. The owner of a copper mine in Arizona, who reported to us that you had purchased an extra amount of copper last month. Copper is one of the ingredients of Rearden Metal, isn't it? [...] The rest was easy to trace. You mustn't blame that mine owner too much. The copper producers, as you know, are being squeezed so badly right now that the man had to offer something of value in order to obtain a favor, an 'emergency need' ruling which suspended a few of the directives in his case and gave him a little breathing spell. The person to whom he traded his information knew where it would have the highest value, so he traded it to me, in return for certain favors he needed."
 
-> [...] "Did you really think that we want those laws to be observed?" said Dr. Ferris. "We want them broken. You'd better get it straight that it's not a bunch of boy scouts you're up against— then you'll know that this is not the age for beautiful gestures. We're after power and we mean it. You fellows were pikers, but we know the real trick, and you'd better get wise to it. There's no way to rule innocent men. The only power any government has is the power to crack down on criminals. Well, when there aren't enough criminals, one makes them."
+> [...] "Did you really think that we want those laws to be observed?" said Dr. Ferris. "We want them broken. You'd better get it straight that it's not a bunch of boy scouts you're up against — then you'll know that this is not the age for beautiful gestures. We're after power and we mean it. You fellows were pikers, but we know the real trick, and you'd better get wise to it. There's no way to rule innocent men. The only power any government has is the power to crack down on criminals. Well, when there aren't enough criminals, one makes them."
 
 He refuses to sell.
 
@@ -988,7 +988,7 @@ erected between them [...]
 
 > He smiled. "Take my word for it, Miss Taggart, so that you won't torture yourself with regrets about the timing; that could not have been done." 
 
-> [...] "You, who loved your work, who respected nothing but work, who despised every kind of aimlessness, passivity and renunciation— have you renounced the kind of life you loved?" 
+> [...] "You, who loved your work, who respected nothing but work, who despised every kind of aimlessness, passivity and renunciation — have you renounced the kind of life you loved?" 
 
 > "No. I have just discovered how much I do love it." 
 
@@ -1006,7 +1006,7 @@ erected between them [...]
 
 > "But you know, you knew it this morning, that it's a battle to the death, and it's we — you were one of us — against the looters." 
 
-> "If I answer that I know it, but you don't— you'll think that I attach no meaning to my words. So take it as you wish, but that is my answer." 
+> "If I answer that I know it, but you don't — you'll think that I attach no meaning to my words. So take it as you wish, but that is my answer." 
 
 > "Will you tell me the meaning?" 
 
@@ -1034,7 +1034,7 @@ erected between them [...]
 
 > She rose to her feet. She was about to speak — but suddenly he saw her stare down, leap forward and seize the ashtray that stood on the edge of the desk. The ashtray contained a cigarette butt stamped with the sign of the dollar.
 
-> [...] "Your caller— did he smoke this cigarette?" 
+> [...] "Your caller — did he smoke this cigarette?" 
 
 >"Why, I don't know ... I guess so ... yes, I think I did see him smoking a cigarette once ...
 
@@ -1046,7 +1046,7 @@ erected between them [...]
 
 Rearden leaves his office that night after hearing the about Ken's disappearance, to find Francisco d'Anconia in his anteroom. He invites him in. Francisco does most of the talking.
 
-> "It is generally assumed, " said Francisco, "that living in a human society makes one's life much easier and safer than if one were left alone to struggle against nature on a desert island. Now wherever there is a man who needs or uses metal in any way — Rearden Metal has made his life easier for him. Has it made yours easier for you?" 
+> "It is generally assumed," said Francisco, "that living in a human society makes one's life much easier and safer than if one were left alone to struggle against nature on a desert island. Now wherever there is a man who needs or uses metal in any way — Rearden Metal has made his life easier for him. Has it made yours easier for you?" 
 
 > "No," said Rearden, his voice low. 
 
@@ -1074,7 +1074,7 @@ Francisco turns him down and reaches for his overcoat.
 
 > "Not tonight." 
 
-> [...] "You started asking me how can I ... How can I— what?" 
+> [...] "You started asking me how can I ... How can I — what?" 
 
 > Francisco's smile was like a moan of pain. [...] "I won't ask it, Mr. Rearden. I know it." 
 
@@ -1094,7 +1094,7 @@ Hank will be in court tomorrow; Philip complains about people like him. "Busines
 
 Lillian and his mother are indignant about his heartlessness. Philip says "If you think I'm happy, you're mistaken. I'd give anything to get away," but decides to stay anyway. Rearden decides to leave for New York and finds Dagny staying late in her office.
 
-> "I am supposed to deliver to Taggart Transcontinental, on February 'fifteenth, sixty thousand tons of rail, which is to give you three hundred miles of track. You will receive— for the same sum of money— eighty thousand tons of rail, which will give you five hundred miles of track. [...] I am not asking for your consent. [...] We will tangle the bookkeeping in such a way that if the thing should ever blow up, nobody will be able to pin anything on anybody, except on me."
+> "I am supposed to deliver to Taggart Transcontinental, on February 'fifteenth, sixty thousand tons of rail, which is to give you three hundred miles of track. You will receive — for the same sum of money — eighty thousand tons of rail, which will give you five hundred miles of track. [...] I am not asking for your consent. [...] We will tangle the bookkeeping in such a way that if the thing should ever blow up, nobody will be able to pin anything on anybody, except on me."
 
 Rearden has no lawyer. When the three-judge panel, appointed by the Bureau of Economic Planning and National Resources, asks for his plea, he answers:
 
@@ -1239,7 +1239,7 @@ Mouch, James Taggart, Orren Boyle, Floyd Ferris, Eugene Lawson, Mr. Thompson (he
 
 > [...] It was Eugene Lawson who answered. "That's not, it seems to me, the way to put it. We must not let vulgar difficulties obstruct our feeling that it's a noble plan motivated solely by the public welfare. It's for the good of the people. The people need it. Need comes first, so we don't have to consider anything else." 
 
-> [Mr. Thompson adds] "That's the line, Wesley. Tone it down and dress it up and get your press boys to chant it— and you won't have to worry." 
+> [Mr. Thompson adds] "That's the line, Wesley. Tone it down and dress it up and get your press boys to chant it — and you won't have to worry." 
 
 > [Jim says] "Something's got to be done and done fast!" 
 
@@ -1261,11 +1261,11 @@ move! So we've got to stand still. [...] We've got to make those bastards stand 
 
 Mouch's implausible backstory is given:
 
-> Wesley Mouch came from a family that had known neither poverty nor wealth nor distinction for many generations; it had clung, however, to a tradition of its own: that of being college-bred and, therefore, of despising men who were in business. The family’s diplomas had always hung on the wall in the manner of a reproach to the world, because the diplomas had not automatically  produced  the  material  equivalents of their attested  spiritual value. Among the family’s numerous relatives, there was one rich uncle. He had married his money and, in his widowed old age, he had picked Wesley as his favorite from among his many nephews and nieces, because Wesley was the least distinguished of the lot and therefore, thought Uncle Julius, the safest. Uncle Julius did not care for people who were brilliant. He did not care for the trouble of managing his money, either; so he turned the job over to Wesley. By the time Wesley graduated from college, there was no money to manage. Uncle Julius blamed it on Wesley’s cunning and cried that Wesley was an unscrupulous schemer. But there had been no scheme about it;  Wesley could not have said just where the money had gone. In high school, Wesley Mouch had been one of the worst students and had passionately envied those who were the best. College taught him that he did not have to envy them at all. [...] He tried to sell automobiles as if they were a bogus corn-cure. They did not sell. He blamed it on  the insufficiency  of  his advertising  budget. It was the president of the automobile concern who recommended  him to Rearden. It was Rearden who introduced him to Washington—Rearden,  who  knew  no  standard  by  which  to  judge  the activities of his Washington man. It was James Taggart who gave him a start in the Bureau of Economic Planning and National Resources—in exchange for double-crossing Rearden in order to help Orren Boyle in exchange for destroying Dan Conway. From then on, people helped Wesley Mouch to advance, for the same reason as that which had prompted Uncle Julius: they were people who believed that mediocrity was safe. The men who now sat in front of his desk had been taught that the law of causality was a superstition and that one had to deal with the situation of the moment without considering its cause. By the situation of the moment, they had concluded that Wesley Mouch was a man of superlative skill and cunning, since millions aspired to power,  but  he  was the  one  who  had  achieved  it.  It  was  not  within  their method of thinking to know that Wesley Mouch was the zero at the meeting point of forces unleashed in destruction against one another.
+> Wesley Mouch came from a family that had known neither poverty nor wealth nor distinction for many generations; it had clung, however, to a tradition of its own: that of being college-bred and, therefore, of despising men who were in business. The family’s diplomas had always hung on the wall in the manner of a reproach to the world, because the diplomas had not automatically  produced  the  material  equivalents of their attested  spiritual value. Among the family’s numerous relatives, there was one rich uncle. He had married his money and, in his widowed old age, he had picked Wesley as his favorite from among his many nephews and nieces, because Wesley was the least distinguished of the lot and therefore, thought Uncle Julius, the safest. Uncle Julius did not care for people who were brilliant. He did not care for the trouble of managing his money, either; so he turned the job over to Wesley. By the time Wesley graduated from college, there was no money to manage. Uncle Julius blamed it on Wesley’s cunning and cried that Wesley was an unscrupulous schemer. But there had been no scheme about it;  Wesley could not have said just where the money had gone. In high school, Wesley Mouch had been one of the worst students and had passionately envied those who were the best. College taught him that he did not have to envy them at all. [...] He tried to sell automobiles as if they were a bogus corn-cure. They did not sell. He blamed it on  the insufficiency  of  his advertising  budget. It was the president of the automobile concern who recommended  him to Rearden. It was Rearden who introduced him to Washington — Rearden,  who  knew  no  standard  by  which  to  judge  the activities of his Washington man. It was James Taggart who gave him a start in the Bureau of Economic Planning and National Resources — in exchange for double-crossing Rearden in order to help Orren Boyle in exchange for destroying Dan Conway. From then on, people helped Wesley Mouch to advance, for the same reason as that which had prompted Uncle Julius: they were people who believed that mediocrity was safe. The men who now sat in front of his desk had been taught that the law of causality was a superstition and that one had to deal with the situation of the moment without considering its cause. By the situation of the moment, they had concluded that Wesley Mouch was a man of superlative skill and cunning, since millions aspired to power,  but  he  was the  one  who  had  achieved  it.  It  was  not  within  their method of thinking to know that Wesley Mouch was the zero at the meeting point of forces unleashed in destruction against one another.
 
 They read and discuss the draft of 10-289:
 
-> "In the name of the general welfare, " read Wesley Mouch, "to protect the people's security, to achieve full equality and total stability, it is decreed for the duration of the national emergency that— 
+> "In the name of the general welfare," read Wesley Mouch, "to protect the people's security, to achieve full equality and total stability, it is decreed for the duration of the national emergency that— 
 
 > "Point One. All workers, wage earners and employees of any kind whatsoever shall henceforth be attached to their jobs and shall not leave nor be dismissed nor change employment, under penalty of a term in jail. The penalty shall be determined by the Unification Board, such Board to be appointed by the Bureau of Economic Planning and National Resources. All persons reaching the age of twenty-one shall report to the Unification Board, which shall assign them to where, in its opinion, their services will best serve the interests of the nation. 
 
@@ -1309,10 +1309,10 @@ Kinnan insists that the Unification Board be staffed with his men. After a heate
 
 > "I'm a little worried," said Eugene Lawson, "about Points Three and Four. Taking over the patents is fine. Nobody's going to defend industrialists. But I'm worried about taking over the copyrights. That's going to antagonize the intellectuals. [...] We don't want to lose them. They can make an awful lot of trouble." 
 
-> "They won't," said Fred Kinnan. "Your kind of intellectuals are the first to scream when it's safe— and the first to shut their traps at the first sign of danger. [...] Do anything you please to the intellectuals. They'll take it." 
+> "They won't," said Fred Kinnan. "Your kind of intellectuals are the first to scream when it's safe — and the first to shut their traps at the first sign of danger. [...] Do anything you please to the intellectuals. They'll take it." 
 
 Mouch notes they don't actually have the legal power to seize patents. "And we have to preserve 
-a semblance of legality— or the populace won't take it." Soon the meeting ends; directive 10-289 will go into effect May 1st.
+a semblance of legality — or the populace won't take it." Soon the meeting ends; directive 10-289 will go into effect May 1st.
 
 When Dagny finds out about the new rules, she resigns immediately and tells Eddie she's going to an old cabin she had inherited from her father. Eddie is not to communicate with her about the railroad or reveal her location to anyone but Hank. She calls Hank for a final conversation. Hank will work for the next two weeks until he is required to "voluntarily" sign the Gift Certificate.
 
@@ -1332,13 +1332,13 @@ After two weeks, Ferris visits Hank and shows evidence that his mistress is Miss
 
 After carefully thinking over his past and present moral convictions, he decides to sign the Gift Certificate.
 
-> Dagny, he thought, you would not let me do it if you knew, you will hate me for it if you learn— but I cannot let you pay my debts. The fault was mine and I will not shift to you the punishment which is mine to take.
+> Dagny, he thought, you would not let me do it if you knew, you will hate me for it if you learn — but I cannot let you pay my debts. The fault was mine and I will not shift to you the punishment which is mine to take.
 
 ### Part 2, Chapter 7
 
 In the cafeteria, Eddie Willers talks to the unnamed railroad worker.
 
-> "[...] so many people are vanishing without notice. I hear there's hundreds of them roving around the country. The police have been arresting them for leaving their jobs — they're called deserters — but there's too many of them and no food to feed them in jail, so nobody gives a damn any more [....] It's our best men that we're losing, the kind who've been with the company for twenty years or more. You should see the trained seal that we now have in [Dagny's] place [...]—Clifton Locey— he sees to it that he's never caught actually giving an order. He works very hard at making sure that no decision can ever be pinned down on him, so that he won't be blamed for anything. Mr. Clifton Locey has managed to frame up two men [....] Both men were fired, officially, by ruling of the Unification Board [....] I wanted to quit. I had never wanted to so badly. But I didn't. [...] They say that Orren Boyle seems to have known about that directive long ago, weeks or months in advance, because he had started [...] to reconstruct his furnaces for the production of Rearden Metal, in one of his lesser steel plants. [...] But — listen— the night before they were to start, [...] Boyle's mills were razed to the ground. [...] I can't sleep any more, I lie awake for hours .... Yes!— if you want to know it— yes, it's because I'm worried about her! I'm scared to death for her. Woodstock is just a miserable little hole of a place, miles away from everything, and the Taggart lodge is twenty miles farther, twenty miles of a twisting trail in a godforsaken forest. [...] You won't vanish, like all the others, will you? ... What? Next week? ... Oh, on your vacation. For how long? ... How do you rate a whole month's vacation? ... Really? I envy you [...] — if you've been able to take a month off every summer for twelve years." 
+> "[...] so many people are vanishing without notice. I hear there's hundreds of them roving around the country. The police have been arresting them for leaving their jobs — they're called deserters — but there's too many of them and no food to feed them in jail, so nobody gives a damn any more [....] It's our best men that we're losing, the kind who've been with the company for twenty years or more. You should see the trained seal that we now have in [Dagny's] place [...]—Clifton Locey— he sees to it that he's never caught actually giving an order. He works very hard at making sure that no decision can ever be pinned down on him, so that he won't be blamed for anything. Mr. Clifton Locey has managed to frame up two men [....] Both men were fired, officially, by ruling of the Unification Board [....] I wanted to quit. I had never wanted to so badly. But I didn't. [...] They say that Orren Boyle seems to have known about that directive long ago, weeks or months in advance, because he had started [...] to reconstruct his furnaces for the production of Rearden Metal, in one of his lesser steel plants. [...] But — listen — the night before they were to start, [...] Boyle's mills were razed to the ground. [...] I can't sleep any more, I lie awake for hours .... Yes! — if you want to know it — yes, it's because I'm worried about her! I'm scared to death for her. Woodstock is just a miserable little hole of a place, miles away from everything, and the Taggart lodge is twenty miles farther, twenty miles of a twisting trail in a godforsaken forest. [...] You won't vanish, like all the others, will you? ... What? Next week? ... Oh, on your vacation. For how long? ... How do you rate a whole month's vacation? ... Really? I envy you [...] — if you've been able to take a month off every summer for twelve years." 
 
 Hank had moved to an apartment in Philadelphia, and now carried a gun for self-defense.
 
@@ -1382,9 +1382,9 @@ Hank drops the bar of gold.
 
 Ragnar explains his mission in life: to wipe out the last trace of Robin Hood from men's minds.
 
-> "He was the man who robbed the rich and gave to the poor. Well, I'm the man who robs the poor and gives to the rich— or, to be exact, the man who robs the thieving poor and gives back to the productive rich." [...] "What I actually am, Mr. Rearden, is a policeman. It is a policeman's duty to protect men from criminals— criminals being those who seize wealth by force. It is a policeman's duty to retrieve stolen property and return it to its owners.
+> "He was the man who robbed the rich and gave to the poor. Well, I'm the man who robs the poor and gives to the rich — or, to be exact, the man who robs the thieving poor and gives back to the productive rich." [...] "What I actually am, Mr. Rearden, is a policeman. It is a policeman's duty to protect men from criminals — criminals being those who seize wealth by force. It is a policeman's duty to retrieve stolen property and return it to its owners.
 
-> "I deposit the gold in a bank— in a gold-standard bank, Mr. Rearden — to the account of men who are its rightful owners. They are the men of superlative ability who made their fortunes by personal effort, in free trade, using no compulsion, no help from the government." [...] "I cannot compute all the money that has been extorted from you [...] but if you wish to see its magnitude — look around you. The extent of the misery now spreading through this once prosperous country is the extent of the injustice which you have suffered. [...] But there is one part of the debt which is computed and on record. That is the part which I have made it my purpose to collect and return to you." 
+> "I deposit the gold in a bank — in a gold-standard bank, Mr. Rearden — to the account of men who are its rightful owners. They are the men of superlative ability who made their fortunes by personal effort, in free trade, using no compulsion, no help from the government." [...] "I cannot compute all the money that has been extorted from you [...] but if you wish to see its magnitude — look around you. The extent of the misery now spreading through this once prosperous country is the extent of the injustice which you have suffered. [...] But there is one part of the debt which is computed and on record. That is the part which I have made it my purpose to collect and return to you." 
 
 > "What is that?" 
 
@@ -1396,7 +1396,7 @@ Ragnar explains his mission in life: to wipe out the last trace of Robin Hood fr
 
 > Rearden smiled contemptuously, "Aren't you one of those damn altruists who spends his time on a non-profit venture and risks his life merely to serve others?" 
 
-> "No, Mr. Rearden. I am investing my time in my own future. When we are free and have to start rebuilding from out of the ruins, I want to see the world reborn as fast as possible. If there is, then, some working capital in the right hands— in the hands of our best, our most productive men— it will save years for the rest of us [...]."
+> "No, Mr. Rearden. I am investing my time in my own future. When we are free and have to start rebuilding from out of the ruins, I want to see the world reborn as fast as possible. If there is, then, some working capital in the right hands — in the hands of our best, our most productive men — it will save years for the rest of us [...]."
 
 > "If I were within reach of a phone, I would call the police. I would and I will, if you ever attempt to approach me again."
 
@@ -1466,7 +1466,7 @@ Jim is awakened by the message at 6 AM. He calls Clifton Locey to demand he do s
 
 > "Give an engine to Mr. Chalmers at once. Send the Comet through safely and without unnecessary delay. If you are unable to perform your duties, I shall hold you responsible before the Unification Board, Clifton Locey." 
 
-> Then, calling his girl friend to join him, Clifton Locey drove to a country roadhouse— to make certain that no one would be able to find him in the next few hours . 
+> Then, calling his girl friend to join him, Clifton Locey drove to a country roadhouse — to make certain that no one would be able to find him in the next few hours . 
 
 Mitchum looks for a politically palatable way out and finds nothing, but is terrified of being blamed for the delay, and decides to carry out the order with a coal-burning train.
 
@@ -1523,7 +1523,7 @@ Dagny enjoys her peace in the woods, renovating things, but after two weeks star
 
 > [...] "Then you know what they felt, all the men who quit, and what it was that they loved when they gave up." 
 
-> "Francisco, " she asked, not looking at him, her head bent, "why did you ask me whether I could have given it up twelve years ago?" 
+> "Francisco," she asked, not looking at him, her head bent, "why did you ask me whether I could have given it up twelve years ago?" 
 
 > [...] "That was the night I gave up d'Anconia Copper." 
 
@@ -1537,7 +1537,7 @@ Dagny enjoys her peace in the woods, renovating things, but after two weeks star
 
 > "I thought that they always vanished ..." 
 
-> "Well, hadn't I? Wasn't it the worst of what I did to you— that I left you looking at a cheap playboy who was not the Francisco d'Anconia you had known? " 
+> "Well, hadn't I? Wasn't it the worst of what I did to you — that I left you looking at a cheap playboy who was not the Francisco d'Anconia you had known? " 
 
 Francisco is convincing her to abandon Taggart Transcontinental, when the music on the radio is interrupted.
 
@@ -1585,7 +1585,7 @@ That night Francisco goes to Dagny's apartment and says
 
 > She glanced at the city. "The life of a man of ability who might have perished in that catastrophe, but will escape the next one, which I'll prevent — a man who has an intransigent mind and an unlimited ambition, and is in love with his own life [...]"
 
-> [...] "Do you think that you can still serve him— that kind of man— by running the railroad?" 
+> [...] "Do you think that you can still serve him — that kind of man — by running the railroad?" 
 
 > "Yes." 
 
@@ -1629,7 +1629,7 @@ Francisco leaves.
 
 After they make love, the assistant manager of the apartment building delivers a letter from Quentin Daniels, reporting that if he discovers the secret of the motor, he won't reveal it to the world to avoid "helping those who despise me", so he won't accept a paycheck for his research, adding that if any trustees of the Institute "should remind me that I am now legally forbidden to cease being a janitor, I will quit." He does not explain how he will survive on zero income, but she calls him on the phone and he says he was just harvesting carrots from the former parking lot. She asks him to "wait for me no matter what happens" and asks Eddie to hold the Comet train for her.
 
-> It takes three days"— she remembered—"it will now take five days to reach Utah. I have to go by train, there are people I have to see on the line — this can't be delayed, either."
+> It takes three days"—she remembered—"it will now take five days to reach Utah. I have to go by train, there are people I have to see on the line — this can't be delayed, either."
 
 Hank agrees to fly his plane to meet her in Colorado, and leaves. Eddie visits her apartment to discuss operation plans, and notices Hank Rearden's personalized evening gown in her closet. Eddie goes to the cafeteria, where the unnamed railroad worker prods him until he spills the beans on Quentin Daniels and Dagny's Affair.
 
@@ -1639,15 +1639,15 @@ Hank agrees to fly his plane to meet her in Colorado, and leaves. Eddie visits h
 
 On the train, Dagny stops the conductor from pushing an old vagrant off the moving train, and invites him into her private car. He says it's impossible to find work in the east, so he's heading west. It turns out he worked for 20 years at Twentieth Century Motor Company (TCMC) and thinks that it was he himself, and other workers, who popularized the idiom "Who is John Galt?" He tells the tale of the "from each according to his ability, to each according to his need" plan.
 
-> "We voted for that plan at a big meeting, with all of us present, six thousand of us, everybody that worked in the factory. The Starnes heirs made long speeches about it, and it wasn't too clear, but nobody asked any questions. None of us knew just how the plan would work, but every one of us thought that the next fellow knew it. And if anybody had doubts, he felt guilty and kept his mouth shut— because they made it sound like anyone who'd oppose the plan was a child killer at heart and less than a human being.
+> "We voted for that plan at a big meeting, with all of us present, six thousand of us, everybody that worked in the factory. The Starnes heirs made long speeches about it, and it wasn't too clear, but nobody asked any questions. None of us knew just how the plan would work, but every one of us thought that the next fellow knew it. And if anybody had doubts, he felt guilty and kept his mouth shut — because they made it sound like anyone who'd oppose the plan was a child killer at heart and less than a human being.
 
-> "[...] Well, anyway, it was decided that nobody had the right to judge his own need or ability. We voted on it. Yes, ma'am, we voted on it in a public meeting twice a year. [...] we had become beggars— rotten, whining, sniveling beggars, [...] because no man could claim his pay as his rightful earning.
+> "[...] Well, anyway, it was decided that nobody had the right to judge his own need or ability. We voted on it. Yes, ma'am, we voted on it in a public meeting twice a year. [...] we had become beggars — rotten, whining, sniveling beggars, [...] because no man could claim his pay as his rightful earning.
 
 > [...] "The factory's production had fallen by forty per cent, in that first half-year, so it was decided that somebody hadn't delivered 'according to his ability' Who? How would you tell it? 'The family' voted on that, too. They voted which men were the best, and these men were sentenced to work overtime each night for the next six months. [...] The one accusation we feared was to be suspected of ability. Ability was like a mortgage on you that you could never pay off.
 
-> [...] "There wasn't any 'amusement allowance' for anybody. 'Amusement' was the first thing they dropped. Aren't you always supposed to be ashamed to object when anybody asks you to give up anything, if it's something that gave you pleasure? [...] Babies was the only item of production that didn't fall, but rose and kept on rising— because people had nothing else to do, I guess, and because they didn't have to care, the baby wasn't their burden, it was 'the family's.' In fact, the best chance you had of getting a raise and breathing easier for a while was a 'baby allowance.' Either that, or a major disease.
+> [...] "There wasn't any 'amusement allowance' for anybody. 'Amusement' was the first thing they dropped. Aren't you always supposed to be ashamed to object when anybody asks you to give up anything, if it's something that gave you pleasure? [...] Babies was the only item of production that didn't fall, but rose and kept on rising — because people had nothing else to do, I guess, and because they didn't have to care, the baby wasn't their burden, it was 'the family's.' In fact, the best chance you had of getting a raise and breathing easier for a while was a 'baby allowance.' Either that, or a major disease.
 
-> [...] "But the shiftless and the irresponsible had a field day of it. They bred babies, they got girls into trouble, they dragged in every worthless relative they had from all over the country, every unmarried pregnant sister, for an extra 'disability allowance, ' they got more sicknesses than any doctor could disprove, they ruined their clothing, their furniture, their homes— what the hell, 'the family' was paying for it!
+> [...] "But the shiftless and the irresponsible had a field day of it. They bred babies, they got girls into trouble, they dragged in every worthless relative they had from all over the country, every unmarried pregnant sister, for an extra 'disability allowance, ' they got more sicknesses than any doctor could disprove, they ruined their clothing, their furniture, their homes — what the hell, 'the family' was paying for it!
 
 > [...] "Love of our brothers? That's when we learned to hate our brothers for the first time in our lives.
 
@@ -1655,7 +1655,7 @@ On the train, Dagny stops the conductor from pushing an old vagrant off the movi
 
 > [...] "Was there any reason why this sort of horror would ever be preached by anybody? Was there anybody who got any profit from it? There was. The Starnes heirs. I hope you're not going to remind me that they'd sacrificed a fortune and turned the factory over to us as a gift. We were fooled by that one, too. Yes, they gave up the factory. But profit, ma'am, depends on what it is you're after. And what the Starnes heirs were after, no money on earth could buy. 
 
-> [...] "Eric Starnes, the youngest—he was a jellyfish that didn't have the guts to be after anything in particular. [...] The pay he got—well, I shouldn't call it 'pay, 'none of us was 'paid'— the alms voted to him was fairly modest, about ten times what I got, but that wasn't riches. [...] Gerald Starnes was our Director of Production. [...] It would have taken a staff of accountants to figure that out, and a staff of engineers to trace the way it was piped, directly or indirectly, into his office. [...] Gerald had three cars, four secretaries, five telephones, and he used to throw champagne and caviar parties that no tax-paying tycoon in the country could have afforded. [...] But his sister Ivy was worse. She really did not care for material wealth. The alms she got was no bigger than ours [...]. She was the lady in charge of our needs. She was the one who held us by the throat. Of course, distribution was supposed to be decided by voting— by the voice of the people. But when the people are six thousand howling voices [...] then it turns out, as it did, that the voice of the people is Ivy Starnes. By the end of the second year [...] all the petitions of need were simply sent to Miss Starnes' office. [...] We voted approval. There was a ten-minute period on the agenda for discussion and objections. We made no objections. We knew better by that time. Nobody can divide a factory's income among thousands of people, without some sort of a gauge to measure people's value. Her gauge was bootlicking. [...] And if you ever want to see pure evil, you should have seen the way her eyes glinted when she watched some man who'd talked back to her once and who'd just heard his name on the list of those getting nothing above basic pittance. And when you saw it, you saw the real motive of any person who's ever preached the slogan: 'From each according to his ability, to each according to his need,'
+> [...] "Eric Starnes, the youngest—he was a jellyfish that didn't have the guts to be after anything in particular. [...] The pay he got—well, I shouldn't call it 'pay, 'none of us was 'paid' — the alms voted to him was fairly modest, about ten times what I got, but that wasn't riches. [...] Gerald Starnes was our Director of Production. [...] It would have taken a staff of accountants to figure that out, and a staff of engineers to trace the way it was piped, directly or indirectly, into his office. [...] Gerald had three cars, four secretaries, five telephones, and he used to throw champagne and caviar parties that no tax-paying tycoon in the country could have afforded. [...] But his sister Ivy was worse. She really did not care for material wealth. The alms she got was no bigger than ours [...]. She was the lady in charge of our needs. She was the one who held us by the throat. Of course, distribution was supposed to be decided by voting — by the voice of the people. But when the people are six thousand howling voices [...] then it turns out, as it did, that the voice of the people is Ivy Starnes. By the end of the second year [...] all the petitions of need were simply sent to Miss Starnes' office. [...] We voted approval. There was a ten-minute period on the agenda for discussion and objections. We made no objections. We knew better by that time. Nobody can divide a factory's income among thousands of people, without some sort of a gauge to measure people's value. Her gauge was bootlicking. [...] And if you ever want to see pure evil, you should have seen the way her eyes glinted when she watched some man who'd talked back to her once and who'd just heard his name on the list of those getting nothing above basic pittance. And when you saw it, you saw the real motive of any person who's ever preached the slogan: 'From each according to his ability, to each according to his need,'
 
 > [...] At first, I kept wondering how it could be possible that the educated, the cultured, the famous men of the world could make a mistake of this size and preach, as righteousness, this sort of abomination [...]. Now I know that they didn't do it by any kind of mistake. Mistakes of this size are never made innocently. [...] And we weren't so innocent either, when we voted for that plan at the first meeting. [...] There wasn't a man voting for it who didn't think that under a setup of this kind he'd muscle in on the profits of the men abler than himself. [...] But while he was thinking that he'd get unearned benefits from the men above, he forgot about the men below who'd get unearned benefits, too.
 
@@ -1665,7 +1665,7 @@ On the train, Dagny stops the conductor from pushing an old vagrant off the movi
 
 > "But what about John Galt?" she asked. 
 
-> [...] "It was something that happened at that first meeting at the Twentieth Century factory. ... The meeting was held on a spring night, twelve years ago. [...] Gerald Starnes yelled through the noise. 'Remember that none of us may now leave this place, for each of us belongs to all the others by the moral law which we all accept!' 'I don't,' said one man and stood up. He was one of the young engineers. Nobody knew much about him. [...] I remember thinking that any two of us could have broken his neck without trouble—but what we all felt was fear. He stood like a man who knew that he was right. 'I will put an end to this, once and for all,' he said. [...] That was all he said and started to walk out [...] Gerald Starnes cried suddenly after him, 'How?' He turned and answered, 'I will stop the motor of the world. Then he walked out. We never saw him again. [...] years later, [...] when it began to look as if [...] the world was crumbling quietly [...] — then we began to wonder and to ask questions about him. We began to ask it of one another, those of us who had heard him say it. [...] You see, his name was John Galt.
+> [...] "It was something that happened at that first meeting at the Twentieth Century factory. ... The meeting was held on a spring night, twelve years ago. [...] Gerald Starnes yelled through the noise. 'Remember that none of us may now leave this place, for each of us belongs to all the others by the moral law which we all accept!' 'I don't,' said one man and stood up. He was one of the young engineers. Nobody knew much about him. [...] I remember thinking that any two of us could have broken his neck without trouble — but what we all felt was fear. He stood like a man who knew that he was right. 'I will put an end to this, once and for all,' he said. [...] That was all he said and started to walk out [...] Gerald Starnes cried suddenly after him, 'How?' He turned and answered, 'I will stop the motor of the world. Then he walked out. We never saw him again. [...] years later, [...] when it began to look as if [...] the world was crumbling quietly [...] — then we began to wonder and to ask questions about him. We began to ask it of one another, those of us who had heard him say it. [...] You see, his name was John Galt.
 
 Dagny lets the vagrant sleep in her car. She wakes up to the silence of a stopped train. As she walks to investigate, she spots Owen Kellogg, who says he had just woken and didn't know she was aboard. They'd heard stories about staff abandoning trains, and were not surprised to find none aboard.
 
@@ -1717,7 +1717,7 @@ She jumps back in her plane, takes off, and follows the twinkling red and green 
 
 > She tried to pull for a rise, but the ship was going down — and what she saw flying at her face was not the spread of mangled boulders, but the green grass of a field where no field had been before. 
 
-> [...] Flung from side to side, like a battered pendulum, clinging to the wheel, half in her seat, half on her knees, she fought to pull the ship into a glide, for an attempt to make a belly-landing, while the green ground was whirling about her, sweeping above her, then below, its spiral coils coming closer. Her arms pulling at the wheel, with no chance to know whether she could succeed, with her space and time running out— she felt, in a flash of its full, violent purity, that special sense of existence which had always been hers. [...]
+> [...] Flung from side to side, like a battered pendulum, clinging to the wheel, half in her seat, half on her knees, she fought to pull the ship into a glide, for an attempt to make a belly-landing, while the green ground was whirling about her, sweeping above her, then below, its spiral coils coming closer. Her arms pulling at the wheel, with no chance to know whether she could succeed, with her space and time running out — she felt, in a flash of its full, violent purity, that special sense of existence which had always been hers. [...]
 
 Summary of PART III: "A is A"
 -------------------
@@ -1794,7 +1794,7 @@ Galt's house is made of rough granite blocks, with a sheet of glass for most of 
 
 A famous surgeon, Dr. Hendricks, arrives and treats her. "Midas told me that Miss Taggart has to be treated for shock," he said, "not for the one sustained, but for the ones to come." 
 
-John Galt cooks a fancy breakfast for her, with food from the grocery store of Lawrence Hammond of Hammond Cars, bacon from the farm of Dwight Sanders of Sanders Aircraft, and eggs from Judge Narragansett of the Superior Court of Illinois. From one point of view, Galt remarks, "it's the cheapest breakfast you'll ever eat— because no part of it has gone to feed the looters who'll make you pay for it through year after year and leave you to starve in the end." 
+John Galt cooks a fancy breakfast for her, with food from the grocery store of Lawrence Hammond of Hammond Cars, bacon from the farm of Dwight Sanders of Sanders Aircraft, and eggs from Judge Narragansett of the Superior Court of Illinois. From one point of view, Galt remarks, "it's the cheapest breakfast you'll ever eat — because no part of it has gone to feed the looters who'll make you pay for it through year after year and leave you to starve in the end." 
 
 John Galt won't show her the motor that helped cook the food, but orders a car to show her around town.
 
@@ -1816,13 +1816,13 @@ Galt takes her on a tour. They see the only two-storey house (Mr. Mulligan's). T
 
 > "You'd be surprised how good they are at it." 
 
-> [...] As they drove on along the edge of the lake, she asked, "You've mapped this route deliberately, haven't you? You're showing me all the men whom"— she stopped, feeling inexplicably reluctant to say it, and said, instead— "whom I have lost?" 
+> [...] As they drove on along the edge of the lake, she asked, "You've mapped this route deliberately, haven't you? You're showing me all the men whom" — she stopped, feeling inexplicably reluctant to say it, and said, instead — "whom I have lost?" 
 
 > "I'm showing you all the men whom I have taken away from you," he answered firmly. 
 
 They see a "Wyatt Oil" sign beside a series of pipes and valves along a rock face, leading to a tank. Ellis Wyatt says he produces 200 barrels of oil a day.
 
-> "one gallon of it is worth more than a trainful back there in hell— because this is mine, all of it, every single drop of it, to be spent on nothing but myself." [...] I'm richer now than I was in the world. What's wealth but the means of expanding one's life? There's two ways one can do it: either by producing more or by producing it faster. And that's what I'm doing: I'm manufacturing time. [...] It used to take me five hours to fill that tank. It now takes three. The two I saved are mine [...].
+> "one gallon of it is worth more than a trainful back there in hell — because this is mine, all of it, every single drop of it, to be spent on nothing but myself." [...] I'm richer now than I was in the world. What's wealth but the means of expanding one's life? There's two ways one can do it: either by producing more or by producing it faster. And that's what I'm doing: I'm manufacturing time. [...] It used to take me five hours to fill that tank. It now takes three. The two I saved are mine [...].
 
 They visit Andred Stockton at Stockton Foundry, where Ken Dannager also works. Dagny realizes it was Galt who had been in Dannager's office on his last day. They pass a cafeteria where she notices an actress that disappeared long ago, Mulligan Bank, Mulligan Mint where the town's gold and silver coins are made, and then by numerous homes including those of the disappeared industrialists. A small, old-looking log cabin lies at the end of the path, marked with the d'Anconia coat-of-arms.
 
@@ -1900,7 +1900,7 @@ Finally, Galt says it was his "refusal to be born with any original sin."
 
 > "What did you do, when you walked out of the Twentieth Century?" she asked. 
 
-> "I went out to become a flame-spotter. I made it my job to watch for those bright flares in the growing night of savagery, which were the men of ability, the men of the mind— to watch their course, their struggle and their agony— and to pull them out, when I knew that they had seen enough." 
+> "I went out to become a flame-spotter. I made it my job to watch for those bright flares in the growing night of savagery, which were the men of ability, the men of the mind — to watch their course, their struggle and their agony — and to pull them out, when I knew that they had seen enough." 
 
 > "What did you tell them to make them abandon everything?" 
 
@@ -1912,9 +1912,9 @@ Finally, Galt says it was his "refusal to be born with any original sin."
 
 Mulligan had established the valley, and stocked it to be self-supporting. He then invited Judge Narragansett and Richard Halley. Galt explains that they had only one rule: each man was not to give to the world the benefit of his mind (he seems to forget rule zero: don't talk about the <s>fight</s> club). Eventually they set aside one month per year to spend in the valley, to rest and "live in a rational world". Mulligan says
 
-> "We are not a state here, not a society of any kind—we're just a voluntary association of men held together by nothing but every man's self-interest. I own the valley and I sell the land to the others, when they want it. Judge Narragansett is to act as our arbiter, in case of disagreements. He hasn't had to be called upon, as yet. [...] The time is approaching when all of us will have to be called to live here — because the world is falling apart so fast that it will soon be starving. But we will be able to support ourselves in this valley."
+> "We are not a state here, not a society of any kind — we're just a voluntary association of men held together by nothing but every man's self-interest. I own the valley and I sell the land to the others, when they want it. Judge Narragansett is to act as our arbiter, in case of disagreements. He hasn't had to be called upon, as yet. [...] The time is approaching when all of us will have to be called to live here — because the world is falling apart so fast that it will soon be starving. But we will be able to support ourselves in this valley."
 
-> "Your frozen trains, the gangs of raiders, the deserters, they're men who've never heard of us, and they're not part of our strike, they are acting on their own— it's the natural response of whatever rationality is still left in them— it's the same kind of protest as ours."
+> "Your frozen trains, the gangs of raiders, the deserters, they're men who've never heard of us, and they're not part of our strike, they are acting on their own — it's the natural response of whatever rationality is still left in them — it's the same kind of protest as ours."
 
 > Said Galt, "[...] but now we think that we will see, and soon, the day of our victory and of our return." [...] "When the code of the looters has collapsed." 
 
@@ -1930,11 +1930,11 @@ Ragnar wants to explain how Rearden saved his life, but Galt stops him forcefull
 
 > "She can live through it, Miss Taggart, because we do not hold the belief that this earth is a realm of misery where man is doomed to destruction."
 
-Galt says he won't let her leave the valley. "There's no rule demanding that I hold you, but by forcing your way here, you've given me the right to any choice I make— and I'm going to hold you simply because I want you here. If, at the end of a month, you decide that you wish to go back, you will be free to do so. Not until then." Dagny asks Galt to hire her as a servant to pay for her room and board. Later, Owen Kellogg arrives and is shocked to see Dagny alive. He had told Hank about her plane going missing.
+Galt says he won't let her leave the valley. "There's no rule demanding that I hold you, but by forcing your way here, you've given me the right to any choice I make — and I'm going to hold you simply because I want you here. If, at the end of a month, you decide that you wish to go back, you will be free to do so. Not until then." Dagny asks Galt to hire her as a servant to pay for her room and board. Later, Owen Kellogg arrives and is shocked to see Dagny alive. He had told Hank about her plane going missing.
 
 Francisco arrives and is overjoyed to see Dagny, since he had been searching for her plane. He says he left the world because he loved her:
 
-> "I was ready for him, when he called me suddenly to come to New York, that spring. I had not heard from him for some time. He was fighting the same problem I was. He solved it. Do you remember? It was the time when you did not hear from me for three years. [...] When I began to deal with the whole industrial system of the world, [...] I began to see the nature of the evil I had suspected, but thought too monstrous to believe. I saw the tax-collecting vermin that had grown for centuries like mildew on d'Anconia Copper [...]. I had seen, [...] what it was that I had to fight for. It was for the way you looked that night, for the way you talked about your railroad— for the way you had looked when we tried to see the skyline of New York from the top of a rock over the Hudson— I had to save you, to clear the way for you, to let you find your city [...]. I knew that if I were to lose you, it was still you that I would be winning with every year of the battle. But you see it now, don't you? You've seen this valley. It's the place we set out to reach when we were children, you and I. [...]"
+> "I was ready for him, when he called me suddenly to come to New York, that spring. I had not heard from him for some time. He was fighting the same problem I was. He solved it. Do you remember? It was the time when you did not hear from me for three years. [...] When I began to deal with the whole industrial system of the world, [...] I began to see the nature of the evil I had suspected, but thought too monstrous to believe. I saw the tax-collecting vermin that had grown for centuries like mildew on d'Anconia Copper [...]. I had seen, [...] what it was that I had to fight for. It was for the way you looked that night, for the way you talked about your railroad — for the way you had looked when we tried to see the skyline of New York from the top of a rock over the Hudson — I had to save you, to clear the way for you, to let you find your city [...]. I knew that if I were to lose you, it was still you that I would be winning with every year of the battle. But you see it now, don't you? You've seen this valley. It's the place we set out to reach when we were children, you and I. [...]"
 
 Galt persuades Francisco not to tell Hank about Dagny. "Do you wish to give any outsider any relief from the consequences of remaining outside?" In his house, Francisco explains that he's built a new, secret copper mine in the mountains of Colorado.
 
@@ -1967,7 +1967,7 @@ Finally, Dagny decides to leave without taking the oath.
 
 > "Do they?" said Hugh Akston softly. "Do they desire it? [...] Just take that question back with you, as the last premise left for you to check."
 
-> "We must discuss the conditions of your departure, " said Gait; he spoke in the dispassionate manner of an executive. "First, you must give us your word that you will not disclose our secret or any part of it — neither our cause nor our existence nor this valley nor your whereabouts for the past month — to anyone in the outer world, not at any time or for any purpose whatsoever." 
+> "We must discuss the conditions of your departure," said Galt; he spoke in the dispassionate manner of an executive. "First, you must give us your word that you will not disclose our secret or any part of it — neither our cause nor our existence nor this valley nor your whereabouts for the past month — to anyone in the outer world, not at any time or for any purpose whatsoever." 
 
 > "I give you my word." 
 
@@ -2049,7 +2049,7 @@ Dagny travels to the nearest airfield. Newspapers have reported Dagny's death; s
 
 Señor Cuffy Meigs, who is in charge of the "Railroad Unification Plan", is giving orders to Eddie. Dagny countermands one order but Eddie says "We'll have to" after Meigs leaves. Eddie explains that Meigs is from Washington, and basically has all power over where trains go, and that the trains serve whomever has friends in Washington, although it's all supposed to be for the "public welfare". Also, Washington now pools revenue between railroads and redistributes it in a nonsensical way, based on miles of track owned, rather than based on costs or the amount of service provided, so that TT gets a disproportionate share of the revenue due to its lightly-used and unused track. Eddie explains,
 
-> "The only competition left is in the applications to the Board for permission to cancel trains. The railroad to survive will be the one that manages to run no trains at all." [...] "The president of the Atlantic Southern, " said Eddie impassively, "has committed suicide." 
+> "The only competition left is in the applications to the Board for permission to cancel trains. The railroad to survive will be the one that manages to run no trains at all." [...] "The president of the Atlantic Southern," said Eddie impassively, "has committed suicide." 
 
 > "That had nothing to do with this!" yelled Taggart. [...] "Well, what would you rather have had me do? Give up our transcontinental traffic? Go bankrupt?"
 
@@ -2081,13 +2081,13 @@ Scudder introduces Dagny as "an impartial observer, a brilliant businesswoman wh
 
 > Judge his views by the motive of that action, you have constantly been told. And with this I agree unreservedly: judge his views by the motive of that action. [...]
 
-> "For two years, I had been Hank Rearden's mistress. Let there be no misunderstanding about it: I am saying this, not as a shameful confession, but with the highest sense of pride. [...] Was I moved by a passion of my body? I was. Have I experienced the most violent form of sensual pleasure? I have. If this now makes me a disgraced woman in your eyes— let your estimate be your own concern. I will stand on mine." 
+> "For two years, I had been Hank Rearden's mistress. Let there be no misunderstanding about it: I am saying this, not as a shameful confession, but with the highest sense of pride. [...] Was I moved by a passion of my body? I was. Have I experienced the most violent form of sensual pleasure? I have. If this now makes me a disgraced woman in your eyes — let your estimate be your own concern. I will stand on mine." 
 
 > [...] A young intellectual of Chick Morrison's staff stood ready to cut the broadcast off the air in case of trouble, but he saw no political significance in the speech he was hearing. [...]
 
 > "I am proud that he had chosen me to give him pleasure and that it was he who had been my choice. It was not — as it is for most of you — an act of casual indulgence and mutual contempt. It was the ultimate form of our admiration for each other, with full knowledge of the values by which we made our choice. [...] I wanted him, I had him, I was happy, I had known joy, a pure, full, guiltless joy, the joy you dread to hear confessed by any human being [...].
 
-> "Miss Taggart, " said Bertram Scudder nervously, "aren't we departing from the subject of ... After all, your personal relationship with Mr. Rearden has no political significance which—" 
+> "Miss Taggart," said Bertram Scudder nervously, "aren't we departing from the subject of ... After all, your personal relationship with Mr. Rearden has no political significance which—" 
 
 > "I didn't think it had, either. [...] Well, I thought that I knew everything about Hank Rearden, but there was one thing which I did not learn until today. It was the blackmail threat that our relationship would be made public that forced Hank Rearden to sign the Gift Certificate surrendering Rearden Metal. It was blackmail — blackmail by your government officials, by your rulers, by your —" 
 
@@ -2095,7 +2095,7 @@ The Mic was cut. As James, Morrison, Scudder and Lillian argue about whose fault
 
 > "People think that a liar gains a victory over his victim. What I've learned is that a lie is an act of self-abdication, because one surrenders one's reality to the person to whom one lies, making that person one's master, condemning oneself from then on to faking the sort of reality that person's view requires to be faked. [... tonight] you set me free, you saved us both, you redeemed our past. [...] Now I'll tell you what it was that you wanted to tell me — because, you see, I know it and I accept: somewhere within the past month, you have met the man you love, and if love means one's final, irreplaceable choice, then he is the only man you've ever loved."
 
-> "Yes!" Her voice was half-gasp, half-scream, as under a physical blow, with shock as her only awareness. "Hank!— how did you know it?" 
+> "Yes!" Her voice was half-gasp, half-scream, as under a physical blow, with shock as her only awareness. "Hank! — how did you know it?" 
 
 > He smiled and pointed at the radio. "My darling, you used nothing but the past tense." 
 
@@ -2193,7 +2193,7 @@ Finally she asks TT employees about Jim, and Eddie Willers tells her the whole t
 
 > [...] "Because I love you." [...] "Nobody's ever loved me," he said. "There isn't any love in the world. People don't feel. I feel things. Who cares about that? All they care for is time schedules and freight loads and money. I can't live among those people. I'm very lonely. I've always longed to find understanding. Maybe I'm just a hopeless idealist, looking for the impossible. Nobody will ever understand me." 
 
-> "Jim, " she said, with an odd little note of severity in her voice, "what I've struggled for all this time is to understand you." [...] "What do you want of me?"
+> "Jim," she said, with an odd little note of severity in her voice, "what I've struggled for all this time is to understand you." [...] "What do you want of me?"
 
 > "Love," he answered. [...] "You don't love me or you wouldn't ask such a question." 
 
@@ -2237,7 +2237,7 @@ Cherryl visits Dagny's apartment to apologize for what she said at the wedding. 
 
 Lillian goes to Jim's apartment to ask him to help stop the divorce, because it would leave her in poverty. "he's bought the judge, the clerks, the bailiffs [...] — he's bought the whole legal process [...]!" ... "I don't want to let him go free! [...] I won't let the whole of my life be a total failure!" Jim says he can't help—in all honesty. As they converse, he becomes attracted to her, and they have sex, and he enjoys it—he enjoys being himself.
 
-> Afterward, it did not disappoint him that what he had possessed was an inanimate body without resistance or response. It was not a woman that he had wanted to possess. It was not an act in celebration of life that he had wanted to perform— but an act in celebration of the triumph of impotence. 
+> Afterward, it did not disappoint him that what he had possessed was an inanimate body without resistance or response. It was not a woman that he had wanted to possess. It was not an act in celebration of life that he had wanted to perform — but an act in celebration of the triumph of impotence. 
 
 Cherryl comes home and sees evidence of what had just happened. Cherryl locks herself in her (separate) bedroom, shaking, then confronts him, who angrily admits it.
 
@@ -2315,7 +2315,7 @@ She is called away from the dinner because a copper wire had failed in a control
 
 > "The tower director will assign switchmen to their posts. He will select men for the job of signaling trains by means of lanterns and for the task of transmitting his orders. Trains will—" 
 
-She sees that John Galt is among the workers, with greasy overalls, and finishes speaking. Afterwards they find each other in the tunnels and have passionate sex there. He talks of how he loved to watch her. She realizes that the shadow that appeared her John Galt Line office had been... John Galt!
+She sees that John Galt is among the workers, with greasy overalls, and finishes speaking. Afterwards they find each other in the tunnels and have passionate sex there. He talks of how he loved to watch her. She realizes that the shadow that appeared at her John Galt Line office had been... John Galt!
 
 > "I saw your shadow ... on the pavement ... pacing back and forth ... it looked like a struggle ... it looked like—" She stopped; she did not want to say "torture." 
 
@@ -2329,13 +2329,11 @@ She sees that John Galt is among the workers, with greasy overalls, and finishes
 
 > "Yes. And the morning when you offered to work for me as my cook, I was only your track laborer on leave of absence. Do you see why I laughed as I did?" 
 
-> She was looking up at his face; hers was a smile of pain, his — of pure gaiety, "John ..." 
+> She was looking up at his face; hers was a smile of pain, his — of pure gaiety, "John ... all those years ... while the railroad was perishing ... while I was searching for men of intelligence ..." [...] "... while you were combing the country for the inventor of my motor, while you were feeding James Taggart and Wesley Mouch, while you were naming your best achievement after the enemy whom you wanted to destroy."
 
-> "... all those years ... while the railroad was perishing ... while I was searching for men of intelligence ..."
+> [...] "I was here all those years," he said, "within your reach, inside your own realm, watching your struggle, your loneliness, your longing, watching you in a battle you thought you were fighting for me, a battle in which you were supporting my enemies and taking an endless defeat — I was here, hidden by nothing but an error of your sight [...], waiting for the day when you would see [...], and what I did tonight, I did it with full knowledge that I would pay for it and that my life might have to be the price," 
 
-> "... while you were combing the country for the inventor of my motor, while you were feeding James Taggart and Wesley Mouch, while you were naming your best achievement after the enemy whom you wanted to destroy." [...] "I was here all those years," he said, "within your reach, inside your own realm, watching your struggle, your loneliness, your longing, watching you in a battle you thought you were fighting for me, a battle in which you were supporting my enemies and taking an endless defeat — I was here, hidden by nothing but an error of your sight [...], waiting for the day when you would see [...], and what I did tonight, I did it with full knowledge that I would pay for it and that my life might have to be the price," 
-
-> "No ! " 
+> "No!" 
 
 > He smiled, nodding. "Oh yes. You know that you've broken me for once, that I broke the decision I had set for myself — but I did it consciously, knowing [...] since I chose to take what I wanted before it was fully mine, I'll have to pay for it, I have no way of knowing how or when, I know only that if I give in to an enemy, I'll take the consequences. [...] My actual enemies are of no danger to me. You are. You're the only one who can lead them to find me. They would never have the capacity to know what I am, but with your help — they will." 
 
@@ -2353,15 +2351,15 @@ She sees that John Galt is among the workers, with greasy overalls, and finishes
 
 > "I think that they're crumbling and that I'll win. I can stand it just a little longer." 
 
-> "True, it's just a little longer— not till you win, but till you learn." [...] "I will remain here, on my job," he said. "But don't try to see me. [...] When you're ready to quit [...] just chalk a dollar sign on the pedestal of Nat Taggart's statue — where it belongs — then go home and wait [...] 24 hours [...]" 
+> "True, it's just a little longer — not till you win, but till you learn." [...] "I will remain here, on my job," he said. "But don't try to see me. [...] When you're ready to quit [...] just chalk a dollar sign on the pedestal of Nat Taggart's statue — where it belongs — then go home and wait [...] 24 hours [...]" 
 
 ### Part 3, Chapter 6
 
 There are enough new goons in Rearden's steel mill to vote a demand to raise wages. The Unification Board rejects the petition, and the newspapers of the country, "controlled by the same men who  controlled the Board", print stories about the refusal to raise wages, about hardships of the mill workers due to the rising cost of living, and other stories meant to make Rearden look bad. The new workers begin sabotaging things so that newspapers can talk about the "inflammatory" situation.
 
-(I am still wondering why Rand's news media sticks to saying things that are misleading but technically true.)
+(I am still wondering why Rand's news media usually sticks to saying things that are misleading but technically true.)
 
-His personal funds at the bank are temporarily confiscated due to a "mistake". Tinky Holloway invites him to New York for a meeting about straightening out recent "misunderstandings". Hank declines, but Tinky practically begs him and he accepts. The news workers are acting slightly suspiciously. The next morning, his mother calls and begs for a meeting. He comes home at 4 PM; Lillian and Philip are there.
+His personal funds at the bank are temporarily confiscated due to a "mistake". Tinky Holloway invites him to New York for a meeting about straightening out recent "misunderstandings". Hank declines, but Tinky practically begs him and he accepts. The new workers are acting slightly suspiciously. The next morning, his mother calls and begs for a meeting. He comes home at 4 PM; Lillian and Philip are there.
 
 > "Lillian's been living here ever since your divorce," she answered defensively. "I couldn't let her starve on the city pavements, could I?" 
 
@@ -2371,12 +2369,11 @@ She asks for financial help because they can't cash their allowance checks, but 
 
 > "No." 
 
-"Well ... well, I guess the blame is ours. That's what I wanted to tell 
-you — that we know we're to blame. [...] We've been unfair to you, we've made you suffer, we've used you and given you no thanks in return. We're guilty, Henry, we've sinned against you, and we confess it. [...] Will you find it in your heart to forgive us?" 
+> "Well ... well, I guess the blame is ours. That's what I wanted to tell you — that we know we're to blame. [...] We've been unfair to you, we've made you suffer, we've used you and given you no thanks in return. We're guilty, Henry, we've sinned against you, and we confess it. [...] Will you find it in your heart to forgive us?" 
 
 > "What is it you want me to do?" he asked, in the clear, flat tone of a business conference. 
 
-> "I don't know! [...] But that's not what I'm talking of right now. [...] It's your feeling that I'm begging you for, Henry— just your feeling — even if we don't deserve it. You're generous and strong. [...] Will you forgive us?" 
+> "I don't know! [...] But that's not what I'm talking of right now. [...] It's your feeling that I'm begging you for, Henry — just your feeling — even if we don't deserve it. You're generous and strong. [...] Will you forgive us?" 
 
 > The look of terror in her eyes was real. [...] But he was through with granting respect to any terms other than his own. 
 
@@ -2394,7 +2391,7 @@ you — that we know we're to blame. [...] We've been unfair to you, we've made 
 
 > "I don't feel it. Do you wish me to fake it?" 
 
-> "But that's what I'm begging you for— to feel it!" 
+> "But that's what I'm begging you for — to feel it!" 
 
 > "On what ground?" [...] "In exchange for what?" 
 
@@ -2402,7 +2399,7 @@ you — that we know we're to blame. [...] We've been unfair to you, we've made 
 
 > "I am one." 
 
-> What he saw in her eyes was terror— not the helpless terror of struggling and failing to understand, but the terror of being pushed toward the edge where to avoid understanding would no longer be possible. 
+> What he saw in her eyes was terror — not the helpless terror of struggling and failing to understand, but the terror of being pushed toward the edge where to avoid understanding would no longer be possible. 
 
 > "Look, Henry," said Philip hastily, "Mother can't understand those things. We don't know how to approach you. We can't speak your language." 
 
@@ -2412,11 +2409,11 @@ you — that we know we're to blame. [...] We've been unfair to you, we've made 
 
 > "We're sorry, Henry. We know we've harmed you. We wish we could atone for it. But what can we do? The past is past. We can't undo it." 
 
-> "Neither can I . " 
+> "Neither can I." 
 
-> "You can accept our repentance, " said Lillian, in a voice glassy with caution. "I have nothing to gain from you now. I only want you to know that whatever I've done, I've done it because I loved you." 
+> "You can accept our repentance," said Lillian, in a voice glassy with caution. "I have nothing to gain from you now. I only want you to know that whatever I've done, I've done it because I loved you." 
 
-> "Henry!" cried his mother. "[...] What's changed you like that? [...] You keep beating us with logic— what's logic at a time like this? [...]" She looked away, avoiding the clarity of his eyes. "Don't you care what becomes of us?" 
+> "Henry!" cried his mother. "[...] What's changed you like that? [...] You keep beating us with logic — what's logic at a time like this? [...]" She looked away, avoiding the clarity of his eyes. "Don't you care what becomes of us?" 
 
 > "I don't." 
 
@@ -2452,9 +2449,9 @@ you — that we know we're to blame. [...] We've been unfair to you, we've made 
 
 > "You think you're so good, don't you?" It was a sudden cry and it came from Lillian [...]. "[...] You're so proud of yourself! Well, I have something to tell you!"
 
-> [...] in sudden clarity he knew what her game had been and why she had married him. [...] she had chosen him as one chooses an object of love, as the symbol of man's living power, but the destruction of that power had been her goal. [...] The lust that drives others to enslave an empire, had become, in her limits, a passion for power over him. She had set out to break him, as if, unable to equal his value, she could surpass it by destroying it, as if the measure of his greatness would thus become the measure of hers, as if— he thought with a shudder— as if the vandal who smashed a statue were greater than the artist who had made it, as if the murderer who killed a child were greater than the mother who had given it birth. 
+> [...] in sudden clarity he knew what her game had been and why she had married him. [...] she had chosen him as one chooses an object of love, as the symbol of man's living power, but the destruction of that power had been her goal. [...] The lust that drives others to enslave an empire, had become, in her limits, a passion for power over him. She had set out to break him, as if, unable to equal his value, she could surpass it by destroying it, as if the measure of his greatness would thus become the measure of hers, as if — he thought with a shudder — as if [...] the murderer who killed a child were greater than the mother who had given it birth. 
 
-> He remembered her desire to see him drunk, just once, her attempts to push him into infidelity, her pleasure at the thought that he had fallen to the level of some sordid romance, her terror on discovering that that romance had been an attainment, not a degradation. Her line of attack, which he had found so baffling, had been constant and clear — it was his self-esteem she had sought to destroy, knowing that a man who surrenders his value is at the mercy of anyone's will; it was his moral purity she had struggled to breach, it was his confident rectitude she had wanted to shatter by means of the poison of guilt — as if, were he to collapse, his depravity would give her a right to hers. 
+> He remembered her desire to see him drunk, just once, her attempts to push him into infidelity, her pleasure at the thought that he had fallen to the level of some sordid romance, her terror on discovering that that romance had been an attainment, not a degradation. Her line of attack, which he had found so baffling, had been constant and clear — it was his self-esteem she had sought to destroy, [...] his confident rectitude she had wanted to shatter by means of the poison of guilt — as if, were he to collapse, his depravity would give her a right to hers. 
 
 > "I have something to tell you!" cried Lillian, "Well, I think you'd like to know that your wife's been laid by another man! I've been unfaithful to you, do you hear me? I've been unfaithful, not with some great, noble lover, but with the scummiest louse, with Jim Taggart! [...] While I was still your wife!" 
 
@@ -2462,7 +2459,7 @@ you — that we know we're to blame. [...] We've been unfair to you, we've made 
 
 > His mother stopped him at the door [...]. "Are you really incapable of forgiveness?" 
 
-> [...] "I would have forgiven the past— if, today, you had urged me to quit and disappear." 
+> [...] "I would have forgiven the past — if, today, you had urged me to quit and disappear." 
 
 Rearden meets Mouch, Lawson, Taggart, Ferris and Tinky Holloway in the Wayne-Falkland Hotel.
 
@@ -2482,7 +2479,7 @@ Rearden meets Mouch, Lawson, Taggart, Ferris and Tinky Holloway in the Wayne-Fal
 
 They explain a plan to grant a 5% increase in steel prices, a 3% increase in ore prices, no wage increase, and to adapt the obviously moronic Railroad Unification Plan to the steel industry, which will pay companies based only on capacity, ignoring production:
 
-> "Our Plan Is really very simple, " said Tinky Holloway, striving to prove it by the gaily bouncing simplicity of his voice. "We'll lift all restrictions from the production of steel and every company will produce all it can, according to its ability. But to avoid the waste and danger of dog-eat-dog competition, all the companies will deposit their gross earnings into a common pool, to be known as the Steel Unification Pool, in charge of a special Board. At the end of the year, the Board will distribute these earnings by totaling the nation's steel output and dividing it by the number of open-hearth furnaces in existence, thus arriving at an average which will be fair to all— and every company will be paid according to its need. The preservation of its furnaces being its basic need, every company will be paid according to the number of furnaces it owns." 
+> "Our Plan Is really very simple," said Tinky Holloway, striving to prove it by the gaily bouncing simplicity of his voice. "We'll lift all restrictions from the production of steel and every company will produce all it can, according to its ability. But to avoid the waste and danger of dog-eat-dog competition, all the companies will deposit their gross earnings into a common pool, to be known as the Steel Unification Pool, in charge of a special Board. At the end of the year, the Board will distribute these earnings by totaling the nation's steel output and dividing it by the number of open-hearth furnaces in existence, thus arriving at an average which will be fair to all— and every company will be paid according to its need. The preservation of its furnaces being its basic need, every company will be paid according to the number of furnaces it owns." 
 
 The plan will chiefly benefit Orren Boyle, who has lower production but three times as many furnaces.
 
@@ -2496,7 +2493,7 @@ The plan will chiefly benefit Orren Boyle, who has lower production but three ti
 
 > "We can't theorize about the future," cried Wesley Mouch, "[...] If you don't like it, do you have a better solution to offer?" 
 
-> "Sure," said Rearden easily. "If it's production that you want, then get out of the way, junk all of your damn regulations, let Orren Boyle go broke, let me buy the plant of Associated Steel— and it will be pouring a thousand tons a day from every one of its sixty furnaces." 
+> "Sure," said Rearden easily. "If it's production that you want, then get out of the way, junk all of your damn regulations, let Orren Boyle go broke, let me buy the plant of Associated Steel — and it will be pouring a thousand tons a day from every one of its sixty furnaces." 
 
 > "Oh, but ... but we couldn't!" gasped Mouch. "That would be monopoly!" 
 
@@ -2508,7 +2505,7 @@ The plan will chiefly benefit Orren Boyle, who has lower production but three ti
 
 > [...] "Well, now, look here," said Holloway cautiously, "[...] Mr. Boyle is an extremely able man. It's just that he's suffered some unfortunate reverses, quite beyond his control. He had invested large sums in a public-spirited project to assist the undeveloped peoples of South America, and that copper crash of theirs has dealt him a severe financial blow. So it's only a matter of giving him a chance to recover, a helping hand to bridge the gap, a bit of temporary assistance, nothing more. All we have to do is just equalize the sacrifice—then everybody will recover and prosper." 
 
-> "You've been equalizing sacrifice for over a hundred"— he stopped —"for thousands of years," said Rearden slowly. "Don't you see that you're at the end of the road?" 
+> "You've been equalizing sacrifice for over a hundred"—he stopped—"for thousands of years," said Rearden slowly. "Don't you see that you're at the end of the road?" 
 
 > [...] "We can't afford any theories!" cried Wesley Mouch. "We've got to act!" 
 
@@ -2530,7 +2527,7 @@ Rearden suddenly understands that they believe Rearden can fix their problems _m
 
 > [...] he had given them cause to believe that reality was a thing to be cheated, [...]. If he had accepted the Equalization of Opportunity Bill, if he had accepted Directive 10-289, [...], that those who had not earned were to profit, but he who had was to lose, [...] then were they illogical in believing that they existed in an irrational universe? Were they illogical in believing that theirs was only to wish [...] and that his was to fulfill their wishes, by means they did not have to know or name? They, the impotent mystics, struggling to escape the responsibility of reason, had known that he, the rationalist, had undertaken to serve their whims. They had known that he had given them a blank check on reality [...].
 
-> He was seeing the progression of the years, the monstrous extortions, [...] and all of it had rested on one tenet behind the shifty eyes of the victors: [...] We'll get away with it— he'll let us— he'll do something!
+> He was seeing the progression of the years, the monstrous extortions, [...] and all of it had rested on one tenet behind the shifty eyes of the victors: [...] We'll get away with it — he'll let us — he'll do something!
 
 Rearden leaves without saying a word, calmly, as calls behind him say "it's too early!". Approaching his mills, a mob is trying to storm the gate. The booth by the entrance is on fire. There are gunshots. Hank drives toward an alternate entrance, and sees the Wet Nurse, who has been shot.
 
@@ -2562,13 +2559,13 @@ John Galt's speech is the rest of the chapter, 72 pages long.
 
 > "You have heard it said that this is an age of moral crisis. [...] You have cried that man's sins are destroying the world [...] You have sacrificed wealth to need. [...] "You have destroyed all that which you held to be evil and achieved all that which you held to be good. [...] Your ideal had an implacable enemy, which your code of morality was designed to destroy. [...] While you were dragging to your sacrificial altars [...] all the men who have vanished, the men you hated, yet dreaded to lose, it is I who have taken them away from you. [...] We are on strike against self-immolation [...] we have granted you everything you demanded of us, we who had always been the givers, but have only now understood it. [...] Are you now crying: No, this was not what you wanted? [...] Through centuries of scourges and disasters, brought about by your code  of morality, you have cried that your code had been broken, that the scourges were punishment for breaking it, that men were too weak and too selfish to spill all the blood it required. [...] Yes, this is an age of moral crisis. Yes, you are bearing punishment for your evil. But it is not man who is now on trial and it is not human nature that will take the blame. It is your moral code that's through, this time.
 
-> [...] "You have heard no concepts of morality but the mystical or the social. You have been taught that morality is a code of behavior imposed on you by whim, the whim of a supernatural power or the whim of society, to serve God's purpose or your neighbor's welfare, to please an authority beyond the grave or else next door— but not to serve your life or pleasure. Your pleasure, you have been taught, is to be found in immorality, your interests would best be served by evil, and any moral code must be designed not for you, but against you, not to further your life, but to drain it. 
+> [...] "You have heard no concepts of morality but the mystical or the social. You have been taught that morality is a code of behavior imposed on you by whim, the whim of a supernatural power or the whim of society, to serve God's purpose or your neighbor's welfare, to please an authority beyond the grave or else next door — but not to serve your life or pleasure. Your pleasure, you have been taught, is to be found in immorality, your interests would best be served by evil, and any moral code must be designed not for you, but against you, not to further your life, but to drain it. 
 
-> [...] "For centuries, the battle of morality was fought between those who claimed that your life belongs to God and those who claimed that it belongs to your neighbors— between those who preached that the good is self-sacrifice for the sake of ghosts in heaven and those who preached that the good is self-sacrifice for the sake of incompetents on earth. And no one came to say that your life belongs to you and that the good is to live it.
+> [...] "For centuries, the battle of morality was fought between those who claimed that your life belongs to God and those who claimed that it belongs to your neighbors — between those who preached that the good is self-sacrifice for the sake of ghosts in heaven and those who preached that the good is self-sacrifice for the sake of incompetents on earth. And no one came to say that your life belongs to you and that the good is to live it.
 
 > [...] "But to think is an act of choice. The key to what you so recklessly call 'human nature, ' the open secret you live with, yet dread to name, is the fact that man is a being of volitional consciousness. Reason does not work automatically; thinking is not a mechanical process; the connections of logic are not made by instinct. The function of your stomach, lungs or heart is automatic; the function of your mind is not.
 
-> [...] "There is only one fundamental alternative in the universe: existence or non-existence— and it pertains to a single class of entities: to living organisms. The existence of inanimate matter is unconditional, the existence of life is not: it depends on a specific course of action. [...] Man has been called a rational being, but rationality is a matter of choice ...
+> [...] "There is only one fundamental alternative in the universe: existence or non-existence — and it pertains to a single class of entities: to living organisms. The existence of inanimate matter is unconditional, the existence of life is not: it depends on a specific course of action. [...] Man has been called a rational being, but rationality is a matter of choice ...
 
 > [...] "Whoever you are, you who are hearing me now, I am speaking to whatever living remnant is left uncorrupted within you, to the remnant of the human, to your mind, and I say: There is a morality of reason, a morality proper to man, and Man's Life is its standard of value. 
 
@@ -2586,7 +2583,7 @@ John Galt's speech is the rest of the chapter, 72 pages long.
 
 That's a selection of quotes from the first 10 pages; I am not willing to read all 72. Eventually Galt gets around to making a call for action:
 
-> "I am speaking to those who desire to live and to recapture the honor of their soul. Now that you know the truth about your world, stop supporting your own destroyers. The evil of the world is made possible by nothing but the sanction you give it. Withdraw your sanction. Withdraw your support. Do not try to live on your enemies' terms [...] do not beg for alms from those who have robbed you, be it subsidies, loans or jobs [...]. Go on strike— in the manner I did [...] but not to exist as a bandit or to create a gang competing with their racket; build a productive life of your own with those who accept your moral code and are willing to struggle for a human existence."
+> "I am speaking to those who desire to live and to recapture the honor of their soul. Now that you know the truth about your world, stop supporting your own destroyers. The evil of the world is made possible by nothing but the sanction you give it. Withdraw your sanction. Withdraw your support. Do not try to live on your enemies' terms [...] do not beg for alms from those who have robbed you, be it subsidies, loans or jobs [...]. Go on strike — in the manner I did [...] but not to exist as a bandit or to create a gang competing with their racket; build a productive life of your own with those who accept your moral code and are willing to struggle for a human existence."
 
 > [...] "When the looters' state collapses, deprived of the best of its slaves, when it falls to a level of impotent chaos, like the mystic-ridden nations of the Orient, and dissolves into starving robber gangs fighting to rob one another — when the advocates of the morality of sacrifice perish with their final ideal — then and on that day we will return. 
 
@@ -2597,7 +2594,7 @@ That's a selection of quotes from the first 10 pages; I am not willing to read a
 > [...] "Your destroyers hold you by means of your endurance, your generosity, your innocence, your 
 love — the endurance that carries their burdens — the generosity that responds to their cries of despair — the innocence that is unable to conceive of their evil and gives them the benefit of every doubt [...] — the love, your love of life, which makes you believe that they are men and that they love it, too. But [...] life is the object of their hatred. Leave them to the death they worship. [...] Do you hear me ... my love? 
 
-> [...] "You will win when you are ready to pronounce the oath I have taken at the start of my battle— and for those who wish to know the day of my return, I shall now repeat it to the hearing of the world: "I swear— by my life and love of it— that I will never live for the sake of another man, nor ask another man to live for mine." 
+> [...] "You will win when you are ready to pronounce the oath I have taken at the start of my battle — and for those who wish to know the day of my return, I shall now repeat it to the hearing of the world: "I swear — by my life and love of it — that I will never live for the sake of another man, nor ask another man to live for mine." 
 
 ### Part 3, Chapter 8
 
@@ -2655,7 +2652,7 @@ A government report called "Public Pulse Taking" determines that "People seem to
 
 > [...] special agents had been sent to check on every man by the name of John Galt throughout the country. "They're a shabby lot. There's a John Galt who's a professor of ornithology, eighty years old — there's a retired greengrocer with a wife and nine children — there's an unskilled railroad laborer who's held the same job for twelve years — and other such trash." 
 
-> [...] In September, a bushel of wheat had cost eleven dollars [...]; it was now approaching the price of two hundred— while the printing presses of the government treasury were running a race with starvation, and losing.
+> [...] In September, a bushel of wheat had cost eleven dollars [...]; it was now approaching the price of two hundred — while the printing presses of the government treasury were running a race with starvation, and losing.
 
 Rearden's mills have a series of useless political appointees for managers; production plummets and is eventually suspended. A worker sets fire to one structure. Mr. Thompson meets with Dagny about Galt, and decline her pleas to lift controls and taxes.
 
@@ -2671,13 +2668,13 @@ She starts looking for John Galt and eventually finds his apartment, probably us
 
 They treat Galt in a friendly manner. Galt refuses to open the laboratory door. It takes some time to force the door open, after which they find a dark and empty room with thick gray dust on the floor. They take him to a room in the Wayne-Falkland hotel, with Mr. Thompson.
 
-> "The only reason we brought you here is just that we wanted to talk to you. [...] And all we wanted was a chance to tell you that you got us all wrong. [...] You've done something to the country— I don't know what or why, but you have. People seem to want something you've got. [...] Of course, I don't agree with every word you said — but what the hell, you don't expect us to agree with everything, do you? Differences of opinion — that's what makes horse racing. Me, I'm always willing to change my mind. I'm open to any argument."
+> "The only reason we brought you here is just that we wanted to talk to you. [...] And all we wanted was a chance to tell you that you got us all wrong. [...] You've done something to the country — I don't know what or why, but you have. People seem to want something you've got. [...] Of course, I don't agree with every word you said — but what the hell, you don't expect us to agree with everything, do you? Differences of opinion — that's what makes horse racing. Me, I'm always willing to change my mind. I'm open to any argument."
 
 Galt tells him again to "get out of the way"; Thompson says it's impossible and they have another silly conversation where they talk past each other.
 
 > We've got to preserve the system. But we're willing to amend it. We'll modify it any way you wish. [...] We'll compromise. [...] We'll keep the sphere of politics and [...] you'll be the Economic Dictator of the nation!" 
 
-> Gait burst out laughing. "So that's your idea of a compromise, is it?" 
+> Galt burst out laughing. "So that's your idea of a compromise, is it?" 
 
 > [...] "I don't get it. You said that you're out for your own selfish interest — [...] I thought you were an egoist — and a practical man. I offer you a blank check [...] and you tell me that you don't want it. Why?" 
 
@@ -2693,7 +2690,7 @@ Galt tells him again to "get out of the way"; Thompson says it's impossible and 
 
 > Mr. Thompson looked thoughtful, then shook his head. "I don't think you're practical," he said. "A practical man doesn't ignore the facts of reality. He doesn't waste his time wishing things to be different or trying to change them."
 
-> [...] "Well?" said Gait. "What are your orders?" 
+> [...] "Well?" said Galt. "What are your orders?" 
 
 > "I want you to save the economy of the country!" [...] "I want you to find a way!" [...] "I want you to think!" 
 
@@ -2727,9 +2724,9 @@ Top Washinton men visit Galt as the days pass. Ferris says,
 
 > [...] "To fail to save a life is as immoral as to murder [...] since we must judge actions by their consequences [...]. For instance, in view of the desperate shortage of food, it has been suggested that it might become necessary to issue a directive ordering that every third one of all children under the age of ten and of all adults over the age of sixty be put to death, to secure the survival of the rest. You wouldn't want this to happen, would you? You can prevent it. [...]"
 
-> "You're crazy!" screamed Mr. Thompson [...]. "Please, Mr. Gait! [...] He doesn't mean it!" 
+> "You're crazy!" screamed Mr. Thompson [...]. "Please, Mr. Galt! [...] He doesn't mean it!" 
 
-> "Oh yes, he does," said Gait. "Tell the bastard to look at me, then look in the mirror, then ask himself whether I would ever think that my moral stature is at the mercy of his actions." 
+> "Oh yes, he does," said Galt. "Tell the bastard to look at me, then look in the mirror, then ask himself whether I would ever think that my moral stature is at the mercy of his actions." 
 
 > "Get out of here!" cried Mr. Thompson, yanking Ferris to his feet. 
 
@@ -2737,13 +2734,13 @@ Galt asks to see Dr. Stadler. Raiders attack a critical rail link across the Mis
 
 > "I couldn't help it, John! I couldn't help it! They own the world! They left me no place in it! ... What's reason to them? What's science? [...] They don't think! They're mindless animals moved by irrational feelings — by their greedy, grasping, blind, unaccountable feelings! They seize whatever they want, that's all they know: that they want it, regardless of cause, effect or logic — they want it, the bloody, grubbing pigs! [...] Our weapons are so helplessly, laughably childish: truth, knowledge, reason, values, rights! [...] What could I do against their fists? I had to live, didn't I? It wasn't for myself — it was for the future of science — there's no way to live except on their terms [...]? What did you want me to do? Spend my life begging for jobs? Begging my inferiors for funds and endowments? Did you want my work to depend on the mercy of the ruffians who have a knack for making money? I had no time to compete with them for money or markets or any of their miserable material pursuit! Was that your idea of justice — that they should spend their money on liquor, yachts and women, while the priceless hours of my life were wasted for lack of scientific equipment? Persuasion? How could I persuade them? What language could I speak to men who don't think? [...] Don't you know how noble a purpose it was — my vision of the future of science? Human knowledge set free of material bonds! An unlimited end unrestricted by means! I am not a traitor, John! I'm not! I was serving the cause of the mind! [...] Men can't exist your way! [...] Who are you to blame me, you miserable failure? [...] Here you are, caught, helpless, under guard, to be killed by those brutes at any moment — and you dare to accuse me of being impractical! Oh yes, you're going to be killed! [...] You are the man who has to be destroyed!" 
 
-> Gait's voice had the same unbending austerity as his eyes: "You have said everything I wanted to say to you." 
+> Galt's voice had the same unbending austerity as his eyes: "You have said everything I wanted to say to you." 
 
 Three days later, Chick Morrison and two others lead Galt at gunpoint to a ballroom in the hotel with 500 people at dinner tables, among whom is Dagny. Galt sits calmly at the head of the head table reserved for him. TV cameras arrive.
 
 > "Fellow citizens," the announcer cried into a microphone, "of this country and of any other that's able to listen — from the grand ballroom of the Wayne-Falkland Hotel in New York City, we are bringing you the inauguration of [...] the John Galt Plan for Peace, Prosperity and Profit! [...]"
 
-> "This banquet, " said Chick Morrison, who had taken over as master of ceremonies, "is in honor of the [...] the new leader of our economy — John Galt! [...] If you have been misled by those old-fashioned extremists who claimed that he would never join us, that no merger is possible between his way of life and ours, that it's either one or the other — tonight's event will prove to you that anything can be reconciled and united!"
+> "This banquet," said Chick Morrison, who had taken over as master of ceremonies, "is in honor of the [...] the new leader of our economy — John Galt! [...] If you have been misled by those old-fashioned extremists who claimed that he would never join us, that no merger is possible between his way of life and ours, that it's either one or the other — tonight's event will prove to you that anything can be reconciled and united!"
 
 > The camera moved to Galt. [...] Then, with so swift and expert a movement that his secretary's hand was unable to match it, he rose to his feet, leaning sidewise, leaving the pointed gun momentarily exposed to the sight of the world — then, standing straight, [...] he said: "Get the hell out of my way!" 
 
@@ -2811,7 +2808,7 @@ The group's leader, Cuffy Meigs, is busy giving orders.
 
 Dagny follows the leadership clique and finds them in a small private study. Chick Morrison resigns in frustration while the others began murmur about their desperate situation. Ferris wants to use the Ferris Persuader device. Mr. Thompson gives up and says "Oh, do anything you want!"
 
-> "We must make sure, " Wesley Mouch was whispering, "that nobody ever learns about it ..."
+> "We must make sure," Wesley Mouch was whispering, "that nobody ever learns about it ..."
 
 > She saw Ferris' eyes move to her, as if he had suddenly remembered her presence. She held his glance, letting him see the untroubled indifference of hers, as if she had neither cared nor understood. Then, as if merely grasping the signal of a private discussion, she turned slowly, with the suggestion of a shrug, and left the room. She knew that they were now past the stage of worrying about her. 
 
@@ -2839,19 +2836,19 @@ The two-storey Project F building is adjacent to the State Science Institute. In
 
 Galt won't answer, so Ferris orders the machine be activated.
 
-> [...] A long shudder ran through Gait's body; his left arm shook in jerking spasms, convulsed by the electric current that circled between his wrist and shoulder. His head fell back, his eyes closed, his lips drawn tight. He made no sound. 
+> [...] A long shudder ran through Galt's body; his left arm shook in jerking spasms, convulsed by the electric current that circled between his wrist and shoulder. His head fell back, his eyes closed, his lips drawn tight. He made no sound. 
 
 > [...] Ferris' eyes were blank, Mouch's terrified, Taggart's disappointed.
 
 Ferris continues the torture, on and off, for several minutes, until the machine breaks down. Ferris and the mechanic look inside but can't figure out what's wrong. "It's the vibrator that's out of order," said Galt, who proceeded to explain how to fix the machine.
 
-> The mechanic [...] made a step back. In the incoherent dimness of his consciousness, in some wordless, shapeless, unintelligible manner, even he suddenly grasped the meaning of what was occurring in that cellar. He looked at Gait— he looked at the three men— he looked at the machine. He shuddered, he dropped his pliers and ran out of the room. Galt burst out laughing. 
+> The mechanic [...] made a step back. In the incoherent dimness of his consciousness, in some wordless, shapeless, unintelligible manner, even he suddenly grasped the meaning of what was occurring in that cellar. He looked at Galt— he looked at the three men— he looked at the machine. He shuddered, he dropped his pliers and ran out of the room. Galt burst out laughing. 
 
 > The three men were backing slowly away from the machine. They were struggling not to allow themselves to understand what the mechanic had understood. 
 
 > "No!" cried Taggart suddenly [...] "He hasn't had enough! He hasn't even screamed yet!" 
 
-> And then it was Taggart who screamed. [...] The sight he was confronting was within him. The protective walls of emotion, of evasion, of pretense, of semi-thinking and pseudo-words, built up by him through all of his years, had crashed in the span of one moment— the moment when he knew that he wanted Gait to die, knowing fully that his own death would follow. 
+> And then it was Taggart who screamed. [...] The sight he was confronting was within him. The protective walls of emotion, of evasion, of pretense, of semi-thinking and pseudo-words, built up by him through all of his years, had crashed in the span of one moment— the moment when he knew that he wanted Galt to die, knowing fully that his own death would follow. 
 
 > He was suddenly seeing the motive that had directed all the actions of his life [...]: it was the lust to destroy whatever was living, for the sake of whatever was not. It was the urge to defy reality by the destruction of every living value, for the sake of proving to himself that he could exist in defiance of reality and would never have to be bound by any solid, immutable facts. [...] he knew that he had never wanted to survive, he knew that it was Galt's greatness he had wanted to torture and destroy.
 
@@ -2971,7 +2968,7 @@ On a spring night, the residents of Galt's Gulch sit in their homes, Judge Narra
 
 Midas Mulligan is planning future investments. Ragnar Danneskjöld reads Aristotle while Kay Ludlow puts on makeup. Francisco is designing a smelter as Rearden and Wyatt sit by his fireplace.
 
-> "John will design the new locomotives, " Rearden was saying, "and Dagny will run the first railroad between New York and Philadelphia. [...] She will probably try to take the shirt off my back with the freight rates she's going to charge, but— I'll be able to meet them."
+> "John will design the new locomotives," Rearden was saying, "and Dagny will run the first railroad between New York and Philadelphia. [...] She will probably try to take the shirt off my back with the freight rates she's going to charge, but— I'll be able to meet them."
 
 On the highest ledge of a nearby mountain, Dagny's hand rests on Galt's shoulder, their hair blowing in the wind.
 
