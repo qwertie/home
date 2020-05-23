@@ -11,7 +11,7 @@ Reportedly, it sold 29 million copies by 2013, with almost 3 million copies purc
 
 I spend over 80 hours reading this book, and if I knew how big it was in advance, I would not have bothered. Seeing Scott's call for book reviews is the only thing that would allow me to read all the way to the end, although I couldn't help skipping sentences and paragraphs sometimes.
 
-This review has minor spoilers. Also, I decided that no one else should have to go through what I did, so I prepared a [condensed version of the story](http://david.loyc.net/misc/Atlas-Shrugged-summary) for this review on a separate page, because I don't believe reading it is worth dozens of hours of anyone's time — but it might be worth one or two, if only for the value of pretending you have read an entire book by Ayn Rand. I think the story could have fit in one-fifth the word count and still have told the same story equally well (and probably better).
+This review has minor spoilers. Also, I decided that no one else should have to go through what I did, so I prepared a [condensed version of the story](http://david.loyc.net/misc/Atlas-Shrugged-summary) for this review on a separate page, because I don't believe reading it is worth dozens of hours of anyone's time — but it might be worth two, if only for the value of pretending you have read an entire book by Ayn Rand. I think the story could have fit in one-fifth the word count and still have told the same story equally well.
 
 As as an Effective Altruist, aspiring rationalist and a fan of Scott's [Non-Libertarian FAQ](https://slatestarcodex.com/2017/02/22/repost-the-non-libertarian-faq/), you'll not be surprised that she did not win me over to her creed — not that it was possible to pin down her creed precisely from the book, anyway.
 
@@ -98,7 +98,7 @@ Rand also wrote skillfully the foolish, exaggerated doubletalk of her villains. 
 
 However, as I read her book, I felt like one of her heroes, who at first is dimly aware of something wrong in the world, something that makes them uneasy, something that can't possibly be true because it is such an unspeakable evil — but which, in the end, turns out to be completely real and every bit as bad as they could have imagined. In the same way, I became aware of something deeply disturbing in her writing, dimly at first, but something I could only grasp fully around the three-quarter mark.
 
-In the novel, the great evil is a kind of superficial, exaggerated communism (I guess she would call it "collectivism"; at one point she even says "irrationalism") which had, without explanation, conquered all academia, government, the public school system, and the media. But the great evil I saw was something very different, very dangerous, and very... well, very common, ordinary, and banal.
+In the novel, the great evil is a kind of superficial, exaggerated communism (I guess she would call it "collectivism"; at one point she even says "irrationalism") which had, without explanation, conquered all government, the public school system, academia, and the media. But the great evil I saw was something very different, very dangerous, and very... well, very common, ordinary, and banal.
 
 You see, at first I thought that Rand's story was about some kind of conspiracy, a giant power play. I thought that she was hiding some great secret that would be revealed later in the book, some great conspiracy that would make sense in a world that I could imagine.
 
@@ -194,19 +194,17 @@ Probably the hardest question the story asks of its readers is whether adultery 
 Closing remarks
 ---------------
 
-Eventually I decided that the existence of such a strange book was not surprising after all, nor was its popularity. The world contains many unique and unusual individuals. Ayn Rand was one; I am one. But whether they become famous and influential depends on whether their message resonates with people, and Rand combined the respectable appearance of a philosopher with a popular polemic style.
+Eventually I decided that the existence of such a strange book was not surprising after all, nor was its popularity. The world contains many unusual individuals. Ayn Rand was one; so am I. But whether they become famous and influential depends on whether their message resonates with people, and Rand combined the respectable appearance of a philosopher with beliefs that were similar to popular ones.
 
 > "There is always an easy solution to every human problem—neat, plausible, and wrong." - Misquote of H. L. Mencken
 
-Successful scientists and philosophers have been attracted to finding simple explanations and rules, and there are good reasons for this and good reasons to seek them out. Ayn Rand found an attractively simple philosophy of heroic men versus savagery, and sold 29 million copies of Atlas
-
-which rubbed off onto American libertarianism.
+Successful scientists and philosophers have been attracted to finding simple explanations and rules, and there are good reasons for this and good reasons to seek them out. Ayn Rand found an attractively simple philosophy of heroic men versus savagery, which rubbed off onto American libertarianism.
 
 > "My philosophy, in essence, is the concept of man as a heroic being, with his own happiness as the moral purpose of his life, with productive achievement as his noblest activity, and reason as his only absolute." - Appendix to Atlas Shrugged
 
 > "Collectivism is the tribal premise of primordial savages who, unable to conceive of individual rights, believed that the tribe is a supreme, omnipotent ruler, that it owns the lives of its members and may sacrifice them whenever it pleases." - Rand's Capitalism: The Unknown Ideal
 
-Scott Alexander taught me another, even simpler philosophy that I think works much better: consequentialism, and its well-known variant, [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism). The [FAQ that explains consequentialism](https://slatestarcodex.com/2017/02/22/repost-the-non-libertarian-faq/#moral_issues) was the first piece of Scott's writing that I ever saw; without it, I might not read SSC today.
+Scott Alexander taught me another, even simpler philosophy that I think works much better: consequentialism, and its more specific incarnation, [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism). The [FAQ that explains consequentialism](https://slatestarcodex.com/2017/02/22/repost-the-non-libertarian-faq/#moral_issues) was the first piece of Scott's writing that I ever saw; without it, I might not read SSC today.
 
 Like the [Mandlebrot set](https://en.wikipedia.org/wiki/Mandelbrot_set), consequentialism is a simple formula with infinitely intricate, well, consequences. For example, I have learned the value of [deontological ethics](https://en.wikipedia.org/wiki/Deontological_ethics) through the lens of utilitarianism, in light of the practical capabilities of human beings and the impracticality of enumerating every possible action and predicting the consequences of each.
 
@@ -216,7 +214,7 @@ But, hell, this is just a book review, so I can't really get into it. I will say
 
 Always having held the same beliefs is deeply suspicious: we are not born with a map of reality in our minds, and once we've developed a map it will still contain errors. If you're still stuck on the first interpretation of morality you ever learned, make sure that you at least know [How To Actually Change Your Mind](https://wiki.lesswrong.com/wiki/How_To_Actually_Change_Your_Mind).
 
-Extra text
+Cutting room floor
 ----------
 
 So yes, it was surprising that Ayn Rand, who sounds so intelligent, could write a book this bad and be taken seriously by so many people.

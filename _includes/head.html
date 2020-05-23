@@ -13,7 +13,7 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
-
+  {% if page.head %}{{ page.head }}{% endif %}
   <link rel="stylesheet" href="{{ site.baseurl }}/res/styles.css">
   <link rel="shortcut icon" href="{{ site.baseurl }}/res/favicon.jpg">
 </head>

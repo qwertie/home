@@ -1,6 +1,7 @@
 ---
 title: "Atlas Shrugged, Condensed"
 layout: home
+head: '<meta name="robots" content="noindex"/>'
 ---
 
 Summary of Part I: "NON-CONTRADICTION"
@@ -325,13 +326,11 @@ The mysterious collectivist forces in Washington pass the Equalization of Opport
 
 ### Part 1, Chapter 8
 
-Businessman Dwight Sanders suddenly retires and disappears after buying United Locomotives, leaving behind no competent supplier of diesel train engines. A mystery man appears in front of Dagny's office, then leaves without knocking. Rearden signs over his Ore business to Paul Larkin and is offended when Larkin says, "It's only a legal technicality, Hank," he said. "You know that I'll always consider these ore mines as yours." Rearden knows Taggart Transcontinental is having financial difficulties and volunteers a moratorium on invoices for the metal he sells them. "Why should I collect my money from you now, when it might prove to be the death blow to your company?" Rearden does not ask for interest or expect any other company to give Taggart a break, adding "Don't you see? I have just received a great deal of money... which I didn't want. I can't invest it. It's of no use to me whatever." (Rand doesn't explain why he cannot invest in the stock market.)
+Businessman Dwight Sanders suddenly retires and disappears after buying United Locomotives, leaving behind no competent supplier of diesel train engines. A man's shadow appears in front of Dagny's temporary office, paces, then leaves without knocking. Rearden signs over his Ore business to Paul Larkin and is offended when Larkin says, "It's only a legal technicality, Hank," he said. "You know that I'll always consider these ore mines as yours." Rearden knows Taggart Transcontinental is having financial difficulties and volunteers a moratorium on invoices for the metal he sells them. "Why should I collect my money from you now, when it might prove to be the death blow to your company?" Rearden does not ask for interest or expect any other company to give Taggart a break, adding "Don't you see? I have just received a great deal of money... which I didn't want. I can't invest it. It's of no use to me whatever." (Rand doesn't explain why he cannot invest in the stock market.)
 
-> No space was given by the newspapers to the progress of the construction of the John Galt Line. No reporter was sent to look at the scene. The general policy of the press had been stated by a famous editor five years ago. "There are no objective facts," he had said. "Every report on facts is only somebody's opinion. It is, therefore, useless to write about facts." 
+Meanwhile, a Union of Locomotive Engineers delegate threatens now to allow any of its workers to work on the line, as the media contintues its scare-mongering about Rearden Metal. 
 
-Meanwhile, a Union of Locomotive Engineers delegate threatens now to allow any of its workers to work on the line, as the press contintues its scare-mongering about Rearden Metal. 
-
-> [...] No voices were heard in public in defense of Rearden Metal. And nobody attached significance to the fact that the stock of Taggart Transcontinental was rising on the market, very slowly, almost furtively."
+> No voices were heard in public in defense of Rearden Metal. And nobody attached significance to the fact that the stock of Taggart Transcontinental was rising on the market, very slowly, almost furtively."
 
 Taggart Transcontinental asks for volunteers to drive the first train on the new line; "Every engineer on Taggart Transcontinental" volunteers, except one who is in a hospital and one who is in jail.
 
@@ -347,11 +346,9 @@ At the end of the line, oilman Ellis Wyatt volunteers to let Hank and Dagny slee
 
 ### Part 1, Chapter 9
 
-The morning after, Hank explains that "What I feel for you is contempt. But it's nothing, compared to the contempt I feel for myself. I don't love you. I've never loved anyone. I wanted you from the first moment I saw you. I wanted you as one wants a whore — for the same reason and purpose. I spent two years damning myself, because I thought you were above a desire of this kind. You're not. You're as vile an animal as I am." After his monologue, she bursts out laughing "in joyous amusement", and delivers a monologue of her own. "I am an animal who wants nothing but that sensation of pleasure which you despise — but I want it from you. You'd give up any height of virtue for it, while I — I haven't any to give up. [...] You don't have to fear that you're now dependent upon me. It's I who will depend on any whim of yours. You'll have me any time you wish, anywhere, on any. terms." It's all very sexy, so they have more sex.
+The morning after, Hank explains that "What I feel for you is contempt. But it's nothing, compared to the contempt I feel for myself. I don't love you. I've never loved anyone. I wanted you from the first moment I saw you. I wanted you as one wants a whore — for the same reason and purpose. I spent two years damning myself, because I thought you were above a desire of this kind. You're not. You're as vile an animal as I am." After his monologue, she bursts out laughing "in joyous amusement", and delivers a monologue of her own. "I am an animal who wants nothing but that sensation of pleasure which you despise--but I want it from you. You'd give up any height of virtue for it, while I — I haven't any to give up. [...] You don't have to fear that you're now dependent upon me. It's I who will depend on any whim of yours. You'll have me any time you wish, anywhere, on any. terms." It's all very sexy, so they have more sex.
 
-The press does an instant 180 and celebrates the new John Galt (Rio Norte) Line. (If you're waiting for Rand to reveal why the media speaks as a single unified, lying voice, don't bother: she won't.)
-
-Meanwhile, Jim Taggart visits a dime store on his way home, and the young cashier Cherryl Brooks is in awe to meet the president of TT, largely having mistaken Dagny's accomplishments for his (because of how he is described in the press). Enjoying the flattery, he asks her on a date, much of which he spends complaining about Dagny, and badmouthing his friends. Cherryl doesn't know what he's talking about, but remains in awe.
+The media does an instant 180 and celebrates the new John Galt (Rio Norte) Line. (If you're waiting for Rand to reveal why the media speaks as one unified voice and always supports government policy, don't bother, she won't.) Meanwhile, Jim Taggart visits a dime store on his way home, and the young cashier Cherryl Brooks is in awe to meet the president of TT, largely having mistaken Dagny's accomplishments for his (largely thanks to media misrepresentation). Enjoying the flattery, he asks her on a date, much of which he spends complaining about Dagny, and badmouthing his friends. Cherryl doesn't know what he's talking about, but remains in awe.
 
 Arriving home in New York, Dagny isn't surprised when Rearden shows up at her apartment. After Rearden and Dagny explain to each other how happy and overwhelmed they are with new orders, they enjoy another helping of sex.
 
@@ -1077,7 +1074,7 @@ Francisco turns him down and reaches for his overcoat.
 
 > "Not tonight." 
 
-> [...] "You started asking me how can I . . . How can I— what?" 
+> [...] "You started asking me how can I ... How can I— what?" 
 
 > Francisco's smile was like a moan of pain. [...] "I won't ask it, Mr. Rearden. I know it." 
 
@@ -1099,8 +1096,6 @@ Lillian and his mother are indignant about his heartlessness. Philip says "If yo
 
 > "I am supposed to deliver to Taggart Transcontinental, on February 'fifteenth, sixty thousand tons of rail, which is to give you three hundred miles of track. You will receive— for the same sum of money— eighty thousand tons of rail, which will give you five hundred miles of track. [...] I am not asking for your consent. [...] We will tangle the bookkeeping in such a way that if the thing should ever blow up, nobody will be able to pin anything on anybody, except on me."
 
-> For a month in advance, the people who filled the courtroom had been told by the press that they would see the man who was a greedy enemy of society; but they had come to see the man who had invented Rearden Metal. 
-
 Rearden has no lawyer. When the three-judge panel, appointed by the Bureau of Economic Planning and National Resources, asks for his plea, he answers:
 
 > "I have no defense." 
@@ -1119,7 +1114,7 @@ The court gives him the chance to explain his moral position in detail.
 
 > "I hold that such a question can never arise except in a society of cannibals." 
 
-> "What . . . what do you mean?" 
+> "What ... what do you mean?" 
 
 > "I hold that there is no clash of interests among men who do not demand the unearned and do not practice human sacrifices." 
 
@@ -1169,7 +1164,7 @@ Rearden eventually decides to visit Francisco in his room at the Wayne-Falkland.
 
 > "There's a way to solve every dilemma of that kind, Mr. Rearden. Check your premises. [...] No matter what corruption he's taught about the virtue of selflessness, sex is the most profoundly selfish of all acts, an act which he cannot perform for any motive but his own enjoyment — just try to think of performing it in a spirit of selfless charity! 
 
-(No, Rand; I have thought of sex in precisely this manner for many years. If I was incapable of sexual pleasure but remained physically able, I would be willing to perform a charitable sex act for someone I care about.)
+(No, Rand; I have thought of sex in precisely this manner for many years. If I was incapable of sexual pleasure but remained physically able, I would have no problem performing a charitable sex for someone I care about.)
 
 > — an act which is not possible in self-abasement, only in self-exaltation, only in the confidence of being desired and being worthy of desire. It is an act that forces him to stand naked in spirit, as well as in body. [...] the man who is convinced of his own worthlessness will be drawn to a woman he despises." [...] "I've spent a lot of money on the most ostentatiously vulgar parties I could think of, and a miserable amount of time on being seen with the appropriate sort of women. As for the rest—" He stopped, then said, "I have some friends who know this, but you are the first person to whom I am confiding it against my own rules: I have never slept with any of those women. I have never touched one of them."
 
@@ -1189,7 +1184,7 @@ Rearden explains he has a new plan to buy bootleg copper without getting caught.
 
 > His hand was reaching for the telephone, but jerked back. He grasped the edge of the table, as if to stop himself from lifting the receiver, and he stood, head down, for how long a time neither he nor Rearden could tell. Rearden was held numb by the fact of watching an agonized struggle with the motionless figure of a man as its only evidence.
 
-> "Francisco . . . what's the matter?" 
+> "Francisco ... what's the matter?" 
 
 > [...] "for the time when you're going to damn me, when you're going to doubt every word I said ... I 
 swear to you — by the woman I love — that I am your friend."
@@ -1212,11 +1207,9 @@ After much debate it is decided to close and dismantle the John Galt line on Mar
 
 Dagny and Hank go to Colorado to buy things of value before the trains stop. All productive businesses have closed; Dr. Ferris's Reclamation Project is abandoned.
 
-On April 2, Jim Taggart voices displeasure with Lillian about what happened at Rearden's trial. She says that when she finds out what went wrong, she will keep her promise. "Then you'll be free to take full credit for it and to tell your friends in high places that it's you who've disarmed him." Rand implies in the following paragraph that the government controls the press:
+On April 2, Jim Taggart voices displeasure with Lillian about what happened at Rearden's trial. She says that when she finds out what went wrong, she will keep her promise. "Then you'll be free to take full credit for it and to tell your friends in high places that it's you who've disarmed him."
 
-> [...] On his last trip to Washington, he had pleaded with Mr. Weatherby that a cut in the rates of the railroads would be a deathblow; the wage raises had been granted, but the demands for the cut in rates were still heard in the press — and Taggart had known what it meant, if Mr. Mouch still permitted them to be heard; he had known that the knife was still poised at his throat. [...]
-
-Lillian knows Hank is scheduled to arrive in New York. Learning that Hank is not listed among the passengers on the Comet, she assumes he is traveling under an alias to be with her mistress. She goes to the trains as it unloads and sees Hank without a companion. Elsewhere she notices Dagny, and understands. Hank spots her; she claims she misses him and wanted to surprise him. Back in the Wayne-Falkland, she confronts him.
+She knows Hank is scheduled to arrive in New York. Learning that Hank is not listed among the passengers on the Comet, she assumes he is traveling under an alias to be with her mistress. She goes to the trains as it unloads and sees Hank without a companion. Elsewhere she notices Dagny, and understands. Hank spots her; she claims she misses him and wanted to surprise him. Back in the Wayne-Falkland, she confronts him.
 
 > [...] "Is it Dagny Taggart?" 
 
@@ -1538,11 +1531,11 @@ Dagny enjoys her peace in the woods, renovating things, but after two weeks star
 
 > [...] "Dagny, you're more fortunate than I. Taggart Transcontinental is a delicate piece of precision machinery. It will not last long without you. It cannot be run by slave labor. They will mercifully destroy it for you and you won't have to see it serving the looters. But copper mining is a simpler job. D'Anconia Copper could have lasted for generations of looters and slaves. [...] I had to destroy it myself." 
 
-> "Francisco ... of all the guesses I tried to make about you ... I never thought of it . . . I never thought that you were one of those men who had quit . . . " 
+> "Francisco ... of all the guesses I tried to make about you ... I never thought of it ... I never thought that you were one of those men who had quit ... " 
 
 > "I was one of the first of them." 
 
-> "I thought that they always vanished . . ." 
+> "I thought that they always vanished ..." 
 
 > "Well, hadn't I? Wasn't it the worst of what I did to you— that I left you looking at a cheap playboy who was not the Francisco d'Anconia you had known? " 
 
@@ -1783,11 +1776,11 @@ Galt's house is made of rough granite blocks, with a sheet of glass for most of 
 
 > "The choice will be yours, Miss Taggart." 
 
-> [...] "It was you . . . wasn't it? . . . who destroyed my Line. . . ." 
+> [...] "It was you ... wasn't it? ... who destroyed my Line...." 
 
 > "Why, no. It was the contradiction." 
 
-> [...] "That night . . . twelve years ago ... a spring night when you walked out of a meeting of six thousand murderers — that story is true, isn't it?" 
+> [...] "That night ... twelve years ago ... a spring night when you walked out of a meeting of six thousand murderers — that story is true, isn't it?" 
 
 > "Yes . " 
 
@@ -1873,7 +1866,7 @@ After sleeping, she goes to dinner at Midas Mulligan's house with Ellis Wyatt, K
 
 > "The law, Miss Taggart?" said Judge Narragansett . "What law? I did not give it up — it has ceased to exist. But I am still working in the profession I had chosen, which was that of serving the cause of justice. [...] I am writing a treatise on the philosophy of law, I shall demonstrate that humanity's darkest evil, the most destructive horror machine among all the devices of men, is non-objective law." [...]
 
-> "Given up?" said Hugh Akston. "Check your premises, Miss Taggart. None of us has given up. It is the world that has. . . . What is wrong with a philosopher running a roadside diner? Or a cigarette factory, as I am doing now?
+> "Given up?" said Hugh Akston. "Check your premises, Miss Taggart. None of us has given up. It is the world that has.... What is wrong with a philosopher running a roadside diner? Or a cigarette factory, as I am doing now?
 
 > "Why?" she cried. "Why? What are you doing, all of you?" 
 
@@ -1933,7 +1926,7 @@ Dagny feels pure joy preparing breakfast while Galt is out. A beautiful blong-ha
 
 Ragnar wants to explain how Rearden saved his life, but Galt stops him forcefully. Ragnar also tells of how he loaded a plane with gold beyond its safe capacity. When he explains how he steals from the government and gives to wealthy taxpayers, she thinks "his course was just, and this was the horror of it, that there was no other course for justice to select, that she could not condemn him, that she could neither approve nor utter a word of reproach." There is a gold-standard account for Dagny if she joins them. He leaves to meet his wife, the actress Kay Ludlow.
 
-> "how can she live through eleven months of thinking that you, at any moment, might be . . . ?"
+> "how can she live through eleven months of thinking that you, at any moment, might be ... ?"
 
 > "She can live through it, Miss Taggart, because we do not hold the belief that this earth is a realm of misery where man is doomed to destruction."
 
@@ -2020,7 +2013,7 @@ Back in their living room, Dagny says to Galt,
 
 Ferris orders Stadler to a plain in Iowa to witness a historical event "which will become a milestone on the road of science, civilization, social welfare and political adaptability". There is a strange, heavy structure a thousand feet away with oddly-shaped funnels protruding from it. Ferris introduces, to an invited crowd of "intellectual elites" and newsmen, "the man who made it all possible—Dr. Robert Stadler!" Stadler pretends to a microphone that he has a clue what's going on. Ferris speaks after after Mr. Thompson and Mr. Mouch arrive.
 
-> ". . . And it was discovered," said Dr. Ferris, "that there are certain frequencies of sound vibration which no structure, organic or inorganic, can withstand. . . . " [...] ". . . The sound ray is controlled by a panel inside the giant underground laboratory," said Dr. Ferris, pointing at the building on the knoll. "That panel is known to us affectionately as the 'Xylophone'— 
+> "... And it was discovered," said Dr. Ferris, "that there are certain frequencies of sound vibration which no structure, organic or inorganic, can withstand.... " [...] "... The sound ray is controlled by a panel inside the giant underground laboratory," said Dr. Ferris, pointing at the building on the knoll. "That panel is known to us affectionately as the 'Xylophone'— 
 
 The experimental Xylophone, also known as the "Thompson Harmonizer", can "cover" the countryside to a 100-mile radius but they have the technical knowledge to reach up to 300 miles. After the crowd applauds, they demonstrate what it does. Out in the field there is a barn, a water tower, a tractor, several goats chained to posts, and a steel tower built for this occasion.
 
@@ -2047,8 +2040,6 @@ Stadler asks Ferris, "Who invented that ghastly thing?"
 Various men give speeches praising the invention and crediting Dr. Stadler for it. Ferris hands Stadler a printed speech and asks him to read it at the end of the hour. "In a civilized century, Ferris, in a civilized century!" he moans. Ferris gives veiled threats: "A personal opinion is the one luxury that nobody can afford today." Stadler approaches the stand when a young newsman runs forward and urges him to tell the truth, that he had nothing to do with it and to "Tell the country what sort of people are trying to rule it! [...] Tell them the truth! Save us! You're the only one who can!" 
 
 > "I do not expect to be insulted by disloyal young punks with treasonable motives," said Dr. Stadler loudly. 
-
-> Dr. Ferris [...] snapped, [...] distorted by rage at the unexpected and unplanned, "Give me your press card and your work permit!"
 
 Dagny travels to the nearest airfield. Newspapers have reported Dagny's death; she sees a reporter and reports her aliveness before boarding a plane to New York. There, she calls Hank's hotel in Colorado. He asks what happened to her, and she gives an unconvincing story based on shards of the truth. Hanging up, Dangy feels "a violent pain".
 
@@ -2092,7 +2083,7 @@ Scudder introduces Dagny as "an impartial observer, a brilliant businesswoman wh
 
 > "I am proud that he had chosen me to give him pleasure and that it was he who had been my choice. It was not — as it is for most of you — an act of casual indulgence and mutual contempt. It was the ultimate form of our admiration for each other, with full knowledge of the values by which we made our choice. [...] I wanted him, I had him, I was happy, I had known joy, a pure, full, guiltless joy, the joy you dread to hear confessed by any human being [...].
 
-> "Miss Taggart, " said Bertram Scudder nervously, "aren't we departing from the subject of . . . After all, your personal relationship with Mr. Rearden has no political significance which—" 
+> "Miss Taggart, " said Bertram Scudder nervously, "aren't we departing from the subject of ... After all, your personal relationship with Mr. Rearden has no political significance which—" 
 
 > "I didn't think it had, either. [...] Well, I thought that I knew everything about Hank Rearden, but there was one thing which I did not learn until today. It was the blackmail threat that our relationship would be made public that forced Hank Rearden to sign the Gift Certificate surrendering Rearden Metal. It was blackmail — blackmail by your government officials, by your rulers, by your —" 
 
@@ -2116,7 +2107,7 @@ The Mic was cut. As James, Morrison, Scudder and Lillian argue about whose fault
 
 > [...] "That slang phrase refers to him?" 
 
-> [...] "Oh yes! . . . There's one thing I can tell you about him, because I discovered it earlier [...]: he is the man who invented the motor we found." 
+> [...] "Oh yes! ... There's one thing I can tell you about him, because I discovered it earlier [...]: he is the man who invented the motor we found." 
 
 > [...] "Hank, could you give up Rearden Steel?" 
 
@@ -2190,7 +2181,7 @@ Finally she asks TT employees about Jim, and Eddie Willers tells her the whole t
 
 > For the flash of one instant, she grasped the unthinkable fact of a man who was guilty and knew it and was trying to escape by inducing an emotion of guilt in his victim.
 
-> [...] "That night . . . those headlines . . . that glory ... it was not you at all ... it was Dagny." 
+> [...] "That night ... those headlines ... that glory ... it was not you at all ... it was Dagny." 
 
 > "Shut up, you rotten little bitch!" [...] "Cherryl, I'm sorry, I didn't mean it [...]"
 
@@ -2210,7 +2201,7 @@ Finally she asks TT employees about Jim, and Eddie Willers tells her the whole t
 
 > "What a cheap shopkeeper's attitude!" ... "I want to be loved for [...] myself — not for my body or mind or words or works or actions." 
 
-> "But then . . . what is yourself?" 
+> "But then ... what is yourself?" 
 
 > "If you loved me, you wouldn't ask it. [...] You'd know. You'd feel it. Why do you always try to tag and label everything? [...] Don't you ever feel—just feel?"
 
@@ -2236,7 +2227,7 @@ Cherryl visits Dagny's apartment to apologize for what she said at the wedding. 
 
 > "To place nothing — nothing — above the verdict of my own mind." 
 
-> "You've taken some terrible beatings . . . maybe worse than I did . . . worse than any of us. . . . What held you through it?" 
+> "You've taken some terrible beatings ... maybe worse than I did ... worse than any of us.... What held you through it?" 
 
 > "The knowledge that my life is the highest of values, too high to give up without a fight." [...] "that feeling — with everything which it requires and implies — is the highest, noblest and only good on earth."
 
@@ -2268,7 +2259,7 @@ Cherryl comes home and sees evidence of what had just happened. Cherryl locks he
 
 > "Yes!" he cried. 
 
-> [...] she screamed in physical terror [...]. When she answered, her words did not quite name it, but they were the only words she could find: "You . . . you're a killer . . . for the sake of killing . . ." 
+> [...] she screamed in physical terror [...]. When she answered, her words did not quite name it, but they were the only words she could find: "You ... you're a killer ... for the sake of killing ..." 
 
 > It was too close to the unnamed; shaking with terror, he swung out blindly and struck her in the face. 
 
@@ -2320,21 +2311,25 @@ She is called away from the dinner because a copper wire had failed in a control
 
 > "The tower director will assign switchmen to their posts. He will select men for the job of signaling trains by means of lanterns and for the task of transmitting his orders. Trains will—" 
 
-She sees that John Galt is among the workers, with greasy overalls, and finishes speaking. Afterwards they find each other in the tunnels and have passionate sex there. He talks of how he loved to watch her.
+She sees that John Galt is among the workers, with greasy overalls, and finishes speaking. Afterwards they find each other in the tunnels and have passionate sex there. He talks of how he loved to watch her. She realizes that the shadow that appeared her John Galt Line office had been... John Galt!
 
-> She whispered, "You've been a track laborer, here — here! — for twelve years . 
+> "I saw your shadow ... on the pavement ... pacing back and forth ... it looked like a struggle ... it looked like—" She stopped; she did not want to say "torture." 
+
+> "It was," he said quietly. "[...] That was the night I came closest to breaking my oath, when I saw you [...] broken by the burden you were carrying—" 
+
+> [...] She whispered, "You've been a track laborer, here — here! — for twelve years . 
 
 > [...] "Ever since I quit the Twentieth Century." 
 
-> "The night when you saw me for the first time . . . you were working here, then?" 
+> "The night when you saw me for the first time ... you were working here, then?" 
 
 > "Yes. And the morning when you offered to work for me as my cook, I was only your track laborer on leave of absence. Do you see why I laughed as I did?" 
 
 > She was looking up at his face; hers was a smile of pain, his — of pure gaiety, "John ..." 
 
-> ". . . all those years . . . while the railroad was perishing . . . while I was searching for men of intelligence . . ."
+> "... all those years ... while the railroad was perishing ... while I was searching for men of intelligence ..."
 
-> ". . . while you were combing the country for the inventor of my motor, while you were feeding James Taggart and Wesley Mouch, while you were naming your best achievement after the enemy whom you wanted to destroy." [...] "I was here all those years," he said, "within your reach, inside your own realm, watching your struggle, your loneliness, your longing, watching you in a battle you thought you were fighting for me, a battle in which you were supporting my enemies and taking an endless defeat — I was here, hidden by nothing but an error of your sight [...], waiting for the day when you would see [...], and what I did tonight, I did it with full knowledge that I would pay for it and that my life might have to be the price," 
+> "... while you were combing the country for the inventor of my motor, while you were feeding James Taggart and Wesley Mouch, while you were naming your best achievement after the enemy whom you wanted to destroy." [...] "I was here all those years," he said, "within your reach, inside your own realm, watching your struggle, your loneliness, your longing, watching you in a battle you thought you were fighting for me, a battle in which you were supporting my enemies and taking an endless defeat — I was here, hidden by nothing but an error of your sight [...], waiting for the day when you would see [...], and what I did tonight, I did it with full knowledge that I would pay for it and that my life might have to be the price," 
 
 > "No ! " 
 
@@ -2360,6 +2355,8 @@ She sees that John Galt is among the workers, with greasy overalls, and finishes
 
 There are enough new goons in Rearden's steel mill to vote a demand to raise wages. The Unification Board rejects the petition, and the newspapers of the country, "controlled by the same men who  controlled the Board", print stories about the refusal to raise wages, about hardships of the mill workers due to the rising cost of living, and other stories meant to make Rearden look bad. The new workers begin sabotaging things so that newspapers can talk about the "inflammatory" situation.
 
+(I am still wondering why Rand's news media sticks to saying things that are misleading but technically true.)
+
 His personal funds at the bank are temporarily confiscated due to a "mistake". Tinky Holloway invites him to New York for a meeting about straightening out recent "misunderstandings". Hank declines, but Tinky practically begs him and he accepts. The news workers are acting slightly suspiciously. The next morning, his mother calls and begs for a meeting. He comes home at 4 PM; Lillian and Philip are there.
 
 > "Lillian's been living here ever since your divorce," she answered defensively. "I couldn't let her starve on the city pavements, could I?" 
@@ -2370,7 +2367,7 @@ She asks for financial help because they can't cash their allowance checks, but 
 
 > "No." 
 
-"Well . . . well, I guess the blame is ours. That's what I wanted to tell 
+"Well ... well, I guess the blame is ours. That's what I wanted to tell 
 you — that we know we're to blame. [...] We've been unfair to you, we've made you suffer, we've used you and given you no thanks in return. We're guilty, Henry, we've sinned against you, and we confess it. [...] Will you find it in your heart to forgive us?" 
 
 > "What is it you want me to do?" he asked, in the clear, flat tone of a business conference. 
@@ -2497,7 +2494,7 @@ The plan will chiefly benefit Orren Boyle, who has lower production but three ti
 
 > "Sure," said Rearden easily. "If it's production that you want, then get out of the way, junk all of your damn regulations, let Orren Boyle go broke, let me buy the plant of Associated Steel— and it will be pouring a thousand tons a day from every one of its sixty furnaces." 
 
-> "Oh, but . . . but we couldn't!" gasped Mouch. "That would be monopoly!" 
+> "Oh, but ... but we couldn't!" gasped Mouch. "That would be monopoly!" 
 
 > Rearden chuckled. "Okay," he said indifferently, "then let my mill's superintendent buy it. [...]" 
 
@@ -2533,11 +2530,11 @@ Rearden suddenly understands that they believe Rearden can fix their problems _m
 
 Rearden leaves without saying a word, calmly, as calls behind him say "it's too early!". Approaching his mills, a mob is trying to storm the gate. The booth by the entrance is on fire. There are gunshots. Hank drives toward an alternate entrance, and sees the Wet Nurse, who has been shot.
 
-> "They shot me, so I wouldn't talk ... I wanted to prevent [...] what they're doing [...] that riot . . . it's staged ... on orders from Washington [...]. They want to make it look like you're starving your workers [...] and the government's got to step in for your own protection and for public safety. [...] Don't let them get away with it, Mr. Rearden! . . . Tell the country . . . tell the people [...] They called me in on a . . .a strategy conference . . . there was a man there by the name of Peters . . . from the Unification Board . . . he ' s a stooge of Tinky Holloway . . . who's a stooge of Orren Boyle . . . [...] . . . they wanted me to sign a lot of passes ... to let some of the goons in [...] I refused to sign the passes." 
+> "They shot me, so I wouldn't talk ... I wanted to prevent [...] what they're doing [...] that riot ... it's staged ... on orders from Washington [...]. They want to make it look like you're starving your workers [...] and the government's got to step in for your own protection and for public safety. [...] Don't let them get away with it, Mr. Rearden! ... Tell the country ... tell the people [...] They called me in on a ...a strategy conference ... there was a man there by the name of Peters ... from the Unification Board ... he ' s a stooge of Tinky Holloway ... who's a stooge of Orren Boyle ... [...] ... they wanted me to sign a lot of passes ... to let some of the goons in [...] I refused to sign the passes." 
 
 He ran out to try to tell the superintendant but couldn't find him, and the phone wires were cut. He was shot as he ran to his car, and he was thrown in a pit.
 
-> "those things they taught us . . . [...] Dying ... it wouldn't make any difference to chemicals, but—but it does, to me . . . And . . . and, I guess, it makes a difference to an animal, too . . . But they said there are no values . . . only social customs ... No values!"
+> "those things they taught us ... [...] Dying ... it wouldn't make any difference to chemicals, but—but it does, to me ... And ... and, I guess, it makes a difference to an animal, too ... But they said there are no values ... only social customs ... No values!"
 
 The Wet Nurse knows he's dying; Rearden asks him to fight to live — for him. "You wanted to fight my battle. Will you fight this one with me, as our first?" But he dies as Hank carries him toward the side entrance. Hank is angry at the teachers and colleges that had taught the people of the world. 
 
@@ -2638,7 +2635,7 @@ Dagny and Eddie leave. Dr. Robert Stadler says "You bloody fool! [...] Don't you
 
 > "Kill him, you damn fool? We need him!" cried Mr. Thompson. [...] "Whoever he is, he's a man of action. [...] He'll tell us what to do. He'll make things work."
 
-> "Mr. Thompson," said Mouch, choking, "I . . .I'm afraid he's a man who's not open to a deal." 
+> "Mr. Thompson," said Mouch, choking, "I ...I'm afraid he's a man who's not open to a deal." 
 
 > "There's no such thing," said Mr. Thompson. 
 
@@ -2810,7 +2807,7 @@ The group's leader, Cuffy Meigs, is busy giving orders.
 
 Dagny follows the leadership clique and finds them in a small private study. Chick Morrison resigns in frustration while the others began murmur about their desperate situation. Ferris wants to use the Ferris Persuader device. Mr. Thompson gives up and says "Oh, do anything you want!"
 
-> "We must make sure, " Wesley Mouch was whispering, "that nobody ever learns about it . . ."
+> "We must make sure, " Wesley Mouch was whispering, "that nobody ever learns about it ..."
 
 > She saw Ferris' eyes move to her, as if he had suddenly remembered her presence. She held his glance, letting him see the untroubled indifference of hers, as if she had neither cared nor understood. Then, as if merely grasping the signal of a private discussion, she turned slowly, with the suggestion of a shrug, and left the room. She knew that they were now past the stage of worrying about her. 
 
@@ -2854,7 +2851,7 @@ Ferris continues the torture, on and off, for several minutes, until the machine
 
 > He was suddenly seeing the motive that had directed all the actions of his life [...]: it was the lust to destroy whatever was living, for the sake of whatever was not. It was the urge to defy reality by the destruction of every living value, for the sake of proving to himself that he could exist in defiance of reality and would never have to be bound by any solid, immutable facts. [...] he knew that he had never wanted to survive, he knew that it was Galt's greatness he had wanted to torture and destroy.
 
-> "No . . ." he moaned, staring at that vision, shaking his head to escape it. [...]
+> "No ..." he moaned, staring at that vision, shaking his head to escape it. [...]
 
 > "Yes," said Galt. 
 
@@ -2904,7 +2901,7 @@ The chief gets becomes suspicious and shoots Rearden in the shoulder. The other 
 
 > "I wouldn't, if I were you," said Francisco. 
 
-> "Jesus!" gasped one of the guards, struggling for the memory of a name he could not recapture. "That's . . . that's the guy who blew up all the copper mines in the world!" 
+> "Jesus!" gasped one of the guards, struggling for the memory of a name he could not recapture. "That's ... that's the guy who blew up all the copper mines in the world!" 
 
 > [...] "Shoot, you bastards!" screamed the chief to the wavering men. [...]
 
@@ -2914,7 +2911,7 @@ The chief gets becomes suspicious and shoots Rearden in the shoulder. The other 
 
 > "Drop your guns," said Rearden. "[...] If you die, you won't know what you're dying for. If we do, we will." 
 
-> "Don't . . . don't listen to him!" snarled the chief. "Shoot! I order you to shoot ! " 
+> "Don't ... don't listen to him!" snarled the chief. "Shoot! I order you to shoot ! " 
 
 > One of the guards looked at the chief, dropped his gun and, raising his arms, backed away from the group toward Rearden. 
 
@@ -2948,7 +2945,7 @@ A train of covered wagons, pulled by horses, arrives at the train. The leader of
 
 When the man explains what happened to New York and the Taggart Bridge, Eddie faints. When he regains his senses, the cab is empty. Outside, he sees people buying spots on the wagons.
 
-> "Mr. Willers," said the conductor softly, "it's no use . . ." 
+> "Mr. Willers," said the conductor softly, "it's no use ..." 
 
 > "Don't abandon the Comet!" cried Eddie Willers. "Don't let it go! Oh God, don't let it go!" 
 
@@ -2956,7 +2953,7 @@ When the man explains what happened to New York and the Taggart Bridge, Eddie fa
 
 > "Which way are you going?" asked the engineer, not looking at Eddie. 
 
-> "Just going, brother! Just looking for some place to stop . . . somewhere. We're from Imperial Valley, California. The 'People's Party' crowd grabbed the crops and any food we had in the cellars. Hoarding, they called it. So we just picked up and went. Got to travel by night, on account of the Washington crowd. . . .We're just looking for some place to live. . . . [...]"
+> "Just going, brother! Just looking for some place to stop ... somewhere. We're from Imperial Valley, California. The 'People's Party' crowd grabbed the crops and any food we had in the cellars. Hoarding, they called it. So we just picked up and went. Got to travel by night, on account of the Washington crowd....We're just looking for some place to live.... [...]"
 
 Everyone but Eddie leaves the comet behind.
 
@@ -2966,7 +2963,7 @@ Everyone but Eddie leaves the comet behind.
 
 On a spring night, the residents of Galt's Gulch sit in their homes, Judge Narragansett is alone, editing the constitution:
 
-> He had marked and crossed out the contradictions in its statements that had once been the cause of its destruction. He was now adding a new clause to its pages: "Congress shall make no law abridging the freedom of production and trade . . ." 
+> He had marked and crossed out the contradictions in its statements that had once been the cause of its destruction. He was now adding a new clause to its pages: "Congress shall make no law abridging the freedom of production and trade ..." 
 
 Midas Mulligan is planning future investments. Ragnar Danneskjöld reads Aristotle while Kay Ludlow puts on makeup. Francisco is designing a smelter as Rearden and Wyatt sit by his fireplace.
 
