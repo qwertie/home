@@ -117,12 +117,9 @@ Jim Taggart and Orren Boyle meet in a dark, exclusive pub with Wesley Mouch and 
 
 > Boyle did not answer; his face had become sullen. "Listen, Jim ..." he began heavily. [...] "Jim, you will agree, I'm sure, that there's nothing more destructive than a monopoly." 
 
-> "Yes," said Taggart, "on the one hand. On the other, there's the blight of 
-    unbridled competition." 
+> "Yes," said Taggart, "on the one hand. On the other, there's the blight of unbridled competition." 
 
-> "That's true. That's very true. The proper course is always, in my 
-    opinion, in the middle. So it is, I think, the duty of society to snip the 
-    extremes, now isn't it?" 
+> "That's true. That's very true. The proper course is always, in my opinion, in the middle. So it is, I think, the duty of society to snip the extremes, now isn't it?" 
 
 > "Yes," said Taggart, "it is."
 
@@ -210,7 +207,7 @@ That night:
 
 > "You." 
 
-> "Why should-" 
+> "Why should—" 
 
 > "And everything." 
 
@@ -226,7 +223,7 @@ She heard nothing from Francisco for a year, then the newspaper stories appeared
 
 > [....] She heard nothing from him or about him for a year. When she began to hear gossip and to read newspaper stories, she did not believe, at first, that they referred to Francisco d'Anconia. After a while, she had to believe it. 
 
-Entering the hotel, she feels a cold anger growing as she approaches his room. Which vanishes instantly the moment he greets her. As they converse, he notes in passing that Mrs. Vail's story doesn't check out, since he was presiding over the opening of the Mexican rail line on the day that Vail said she had an affair with him in the Andes. Speaking of which,
+Entering the hotel, she feels a cold anger growing as she approaches his room. Which vanishes instantly the moment he happily greets her. As they converse, he notes in passing that Mrs. Vail's story doesn't check out, because on the day that Vail said she had an affair with him in the Andes, he was presiding over the opening of the Mexican rail line. Speaking of which,
 
 > "[...] 'investment' is a relative term. It depends on what you wish to accomplish. For instance, look at San Sebastian [the Mexican rail line]. It cost me fifteen million dollars, but these fifteen million wiped out forty million belonging to Taggart Transcontinental, thirty-five million belonging to stockholders such as Jim Taggart and Orren Boyle, and hundreds of millions which will be lost in secondary consequences. That's not a bad return on an investment, is it, Dagny?" 
 
@@ -282,7 +279,9 @@ Dagny stands on the new Rio Norte Line as it is built. A bridge over a chasm has
 
 > "Hell, no. I 'invented' it long before I had Rearden Metal. I figured it out while making steel for bridges. I wanted a metal with which one would be able to do this, among other things.
 
-In New York, Jim Taggart worries that "Top experts" from the National Council of Metal Industries say Rearden Metal is brittle, that it will crack suddenly, without warning; that the convention of the grade school teachers of New Mexico resolves that children should not be permitted to ride on the new Rio Norte Line of Taggart Transcontinental when it's completed, because it is unsafe; and he's angry that Don Conway won't sell the track he's not allowed to use to Taggart. Dagny agrees to defend Rearden Metal at a New York Business Council meeting, but as they drive there he mentions that he has also invited Betram Scudder to debate against her on live radio; she screams in protest and leaves, as Jim, somehow confused about her reaction, futilely tries to stop her. Meanwhile, the State Science Institute meets Rearden to share their "unfavorable opinion" of the metal due to its "social impact", and he ignores them.
+In New York, Jim Taggart worries that "top experts" from the National Council of Metal Industries (headed by Orren Boyle) say Rearden Metal is brittle, that it will crack suddenly, without warning. Also, the convention of the grade school teachers of New Mexico resolved that children should not be permitted to ride on the new Rio Norte Line of Taggart Transcontinental when it's completed, because it is unsafe. And Jim is angry that Don Conway won't sell the track he's not allowed to use to Taggart. Dagny agrees to defend Rearden Metal at a New York Business Council meeting, but as they drive there he mentions that he has also invited Betram Scudder to debate against her on live radio; she screams in protest and leaves, as Jim, somehow confused about her reaction, futilely tries to stop her.
+
+Meanwhile, the State Science Institute meets Rearden to share their "unfavorable opinion" of the metal due to its "social impact", and he ignores them.
 
 > "At a time of desperate steel shortage, we cannot afford to permit the expansion of a steel company which produces too much, because it might throw out of business the companies which produce too little, thus creating an unbalanced economy..." 
 
@@ -356,7 +355,7 @@ Arriving home in New York, Dagny isn't surprised when Rearden shows up at her ap
 
 Meanwhile, Vaguely Socialist Businessman Mr. Mowen is complaining in the presence of Owen Kellogg, who describes himself as "transient labor" but had earlier turned down an important position offered by Dagny. Mowen is unhappy that companies are moving to Colorado along the Rio Norte line. "I don't see it. It's a backward, primitive, unenlightened place. They don't even have a modern government. It's the worst government in any state. The laziest. It does nothing — outside of keeping law courts and a police department."
 
-After merging her John Galt Line back into Taggart Transcontinental as promised, Hank and Dagny take a vacation secretly together in Wisconsin. After discussing the difficulty of finding any supplier of machine parts, they decide to look for an old factory formerly owned by the bankrupt Twentieth Century Motor Company (TCMC). Surrounding it is a town without electricity, most of its residents gone, in such disrepair it is impossible to reach the factory by car.
+After merging her John Galt Line back into Taggart Transcontinental as promised, Dagny and Hank take a vacation secretly together in Wisconsin. After discussing the difficulty of finding any supplier of machine parts, they decide to look for an old factory formerly owned by the bankrupt Twentieth Century Motor Company (TCMC). Surrounding it is a town without electricity, most of its residents gone, in such disrepair it is impossible to reach the factory by car.
 
 Inside the factory, Dagny discovers coil on a badly damaged piece of equipment, with many pieces missing, which she recognizes from her school years as some kind of motor design that was given up as impossible long ago: "a motor that would draw static electricity from the atmosphere, convert it and create its own power as it went along."
 
@@ -370,9 +369,9 @@ Dagny puts the destroyed motor in a vault in a tunnel under Taggart Terminal in 
 
 Eddie warns Dagny "I think they're planning to kill Colorado". Workers' unions demand limits of 60 mph and 60 cars on the Rio Norte line; surrounding states demand that Colorado not run more trains than they do; laws are proposed to prevent steel mills from producing more than others of equal size, to allocate Rearden Metal equally to every customer, to forbit companies from moving between states, and Wesley Mouch requests "emergency powers".
 
-What's the motive for all this red tape? Limiting train size is meant to create more jobs for railroad men (though it won't work since there aren't enough engines available), but that's all Rand says.
+(What's the motive for all this red tape? Limiting train size is meant to create more jobs for railroad men, though it won't work since there aren't enough engines available, but that's all Rand says.)
 
-Rearden Ore fails to deliver ore to Rearden for a month; Larkin first avoids talking to Rearden, then blames a rainstorm for the problem, then admits he gave all the ore to Orren Boyle because of his "social and patriotic responsibilities". Rearden tries making "unenforceable contracts" with untrusted small-time suppliers.
+Rearden Ore fails to deliver ore to Rearden for a month; Larkin first avoids talking to Rearden, then blames a rainstorm for the problem, then admits he gave all the ore to Orren Boyle because of his "social and patriotic responsibilities". Rearden tries making "unenforceable contracts" with untrusted small-time suppliers instead.
 
 Rearden has been avoiding his wife for months. Visiting his room, she explains the value of dishonesty:
 
@@ -398,7 +397,7 @@ She's puzzled that he seems more relaxed despite all the trouble he's having.
 
 > "A wife expects to be the first concern of her husband's existence. I didn't know that when you swore to forsake all others, it didn't include blast furnaces."
 
-She slips her arms around him; he throws her aside; she's bewildered; they discuss the meaning of life.
+She slips her arms around him; he throws her aside; she's bewildered; they discuss the meaning of life:
 
 > "Lillian, what purpose do you live for?" he asked. 
 
@@ -430,18 +429,15 @@ She slips her arms around him; he throws her aside; she's bewildered; they discu
 
 > [...] "You wouldn't understand it," she said and walked out. 
 
-Dagny follows a trail toward the inventor of the motor. She speaks to Eugene Lawson, who ran Community National Bank of Madison into the ground by making foolish loans (and now makes unprompted remarks about how moral he his an how she shouldn't despise him), which leads her to Lee Hunsacker, president of the company that bought the bankrupt TCMC factory, who makes unprompted remarks about how nothing is his fault. He explains that he sued banker Midas Mulligan for a loan, based on a new "emergency" law saying "people were forbidden to discriminate for any reason whatever", and the proof of discrimination was that Mulligan said he wasn't qualified to run a vegetable pushcart. Judge Narragansett ruled against him, but he won on appeal. Lee Hunsaker gives her a lead in Durance, Louisiana where the three heirs of Jed Starnes, original owner of TCMC, lived. After Ivy Starnes explains the "great, new plan" based on "From each according to his ability, to each according to his need", which quickly destroyed the company, Dagny learns of chief engineer William Hastings. William is dead, but his wife remembers a diner in the rocky mountains where she once saw a man whom she had once seen standing beside the inventor of the motor.
+Dagny follows a trail toward the inventor of the motor. She speaks to Eugene Lawson, who ran Community National Bank of Madison into the ground by making foolish loans (and now makes unprompted remarks about how moral he his an how she shouldn't despise him). Lawson leads her to Lee Hunsacker, president of the company that bought the bankrupt TCMC factory, who makes unprompted remarks about how nothing is his fault. He explains that he sued banker Midas Mulligan for a loan, based on a new "emergency" law saying "people were forbidden to discriminate for any reason whatever", and the proof of discrimination was that Mulligan said he wasn't qualified to run a vegetable pushcart. Judge Narragansett ruled against Hunsacker, but he won on appeal. Lee Hunsaker gives her a lead in Durance, Louisiana, where the three heirs of Jed Starnes, original owner of TCMC, lived. Ivy Starnes explains the "great, new plan" based on "From each according to his ability, to each according to his need", which quickly destroyed the company. Dagny learns from Ivy that the chief engineer was William Hastings. William is dead, but his wife remembers a diner in the rocky mountains where she once saw a man whom she had once seen standing beside the inventor of the motor.
 
-In the diner, the cook is skilled and she offers him $10,000 a year to work in New York. He refuses. He admits to knowing the motor's inventor, but won't give any information about him. She asks the cook for his name. It's Hugh Akston.
+In the diner, the cook is skilled and she offers him $10,000 a year to work in New York (since dollar values all seem to be stated in 1957 dollars, this should be about $91,000 in 2020 dollars). He refuses. He admits to knowing the motor's inventor, but won't give any information about him. She asks the cook for his name. It's Hugh Akston.
 
 > "Hugh Akston?" she stammered. "The philosopher? ... The last of the advocates of reason?" 
 
-> [...] "But ... but what are you doing here?" Her arm swept at the room. "This 
-doesn't make sense!" 
+> [...] "But ... but what are you doing here?" Her arm swept at the room. "This doesn't make sense!" 
 
-> "I'm earning my living." ... "Give it up, Miss Taggart. It is a hopeless quest, 
-the more hopeless because you have no inkling of what an impossible task you 
-have chosen to undertake."
+> "I'm earning my living." ... "Give it up, Miss Taggart. It is a hopeless quest, the more hopeless because you have no inkling of what an impossible task you have chosen to undertake."
 
 He gives her a cigarette, and as she leaves, notices its unusual flavor and brand (a golden dollar sign). She puts it out and later gives it to a cigarette connoisseur in Taggart Terminal, who has never seen the brand before.
 
@@ -459,7 +455,7 @@ At a TT train station she sees a newspaper:
 
 > To provide the funds for the personnel to enforce these directives, a special tax was imposed on the state of Colorado, "as the state best able to assist the needier states to bear the brunt of the national emergency, " such tax to consist of five per cent of the gross sales of Colorado's industrial concerns.
 
-What "national emergency" is there, other than the obvious gradual worsening of the economy? The book doesn't say.
+(What "national emergency" is there? Apparently it's the gradual worsening of the economy. Why have directives been chosen that will obviously make the economy worse? The book doesn't clearly explain, but having reading the rest of the book, my guess is that the directives are bad because it's an _evil, collectivist_ government produced as a result of the _evil, collectivist_ school system which corrupted the minds of the current generation of humans.)
 
 Dagny remembers what Ellis Wyatt of Colorado once said, demanding transportation before the Phoenix-Durango closed: "It is now in your power to destroy me; I may have to go; but if I go, I'll make sure that I take all the rest of you along with me". Realizing he would react badly to the news, she frantically tries to reach him from a telephone booth. There is no answer. 
 
@@ -478,9 +474,9 @@ Six months later, Dr. Stadler, head of the State Science Institute (SSI), is ann
 
 > "The more we know, the more we learn that we know nothing." 
 
-> "Only the crassest ignoramus can still hold to the old-fashioned notion that seeing is believing. That which you see is the first thing to disbelieve . " 
+> "Only the crassest ignoramus can still hold to the old-fashioned notion that seeing is believing. That which you see is the first thing to disbelieve." 
 
-> "A scientist knows that a stone is not a stone at all. It is, in fact, identical with a feather pillow. Both are only a cloud formation of the same invisible, whirling particles. But, you say, you can't use a stone for a pillow? Well, that merely proves your helplessness in the face of actual reality . " 
+> "A scientist knows that a stone is not a stone at all. It is, in fact, identical with a feather pillow. Both are only a cloud formation of the same invisible, whirling particles. But, you say, you can't use a stone for a pillow? Well, that merely proves your helplessness in the face of actual reality." 
 
 > "The latest scientific discoveries — such as the tremendous achievements of Dr. Robert Stadler— have demonstrated conclusively that our reason is incapable of dealing with the nature of the universe. These discoveries have led scientists to contradictions which are impossible, according to the human mind, but which exist in reality nonetheless. 
 
@@ -692,7 +688,7 @@ Quentin Daniels had refused to work for Dr. Stadler because "'Governmental scien
 
 > When she had told him the story of the motor, when he had studied the manuscript, he made no comment, but merely said that he would take the job on any terms she named. 
 
-> She asked him to choose his own terms. She protested, in astonishment, against the low monthly salary he quoted. "Miss Taggart," he said, "if there's something that I won't take, it's something for nothing. [...] I don't collect for an intention. But I sure do intend to collect for goods delivered. If I succeed, that's when I'll skin you alive, because what I want then is a percentage, and it's going to be high, but it's going to be worth your while." (I'm not sure how this will work when a percentage is not agreed in advance. What is she buying now, if the intellectual property will be his?)
+> She asked him to choose his own terms. She protested, in astonishment, against the low monthly salary he quoted. "Miss Taggart," he said, "if there's something that I won't take, it's something for nothing. [...] I don't collect for an intention. But I sure do intend to collect for goods delivered. If I succeed, that's when I'll skin you alive, because what I want then is a percentage, and it's going to be high, but it's going to be worth your while." (I'm not sure how this will work when a percentage is not agreed in advance. If the intellectual property will belong to him, what is she buying right now?)
 
 > They agreed that it was to be her private project and that he was to be her private employee; neither of them wanted to have to deal with the interference of the Taggart Research Department. He asked to remain in Utah. [...] 
 
@@ -754,7 +750,7 @@ At the wedding, Jim Taggart and all his Washington-friendly friends are networki
 
 > "If I do, you just go ahead and make the most of it, Jimmy. If." 
 
-> "The trouble with people who overreach themselves is that they have short memories. You'd better remember who got Rearden Metal choked off the market for you . " 
+> "The trouble with people who overreach themselves is that they have short memories. You'd better remember who got Rearden Metal choked off the market for you." 
 
 > "Why, I remember who promised to. That was the party who then pulled every string he could lay his hands on to try to prevent that particular directive from being issued, because he figured he might need rail of Rearden Metal in the future." 
 
@@ -1782,7 +1778,7 @@ Galt's house is made of rough granite blocks, with a sheet of glass for most of 
 
 > [...] "That night ... twelve years ago ... a spring night when you walked out of a meeting of six thousand murderers — that story is true, isn't it?" 
 
-> "Yes . " 
+> "Yes." 
 
 > "You told them that you would stop the motor of the world." 
 
@@ -1898,7 +1894,7 @@ Finally, Galt says it was his "refusal to be born with any original sin."
 
 > [...] "Did you expect a chance to rebuild it elsewhere?" 
 
-> "No . " 
+> "No." 
 
 > "What did you do, when you walked out of the Twentieth Century?" she asked. 
 
@@ -1981,7 +1977,7 @@ Finally, Dagny decides to leave without taking the oath.
 
 > "No."
 
-(Why?! It's not even your plane!)
+(Why?! It's not even your plane, Dagny! It's not even TT's plane!)
 
 > "Then we shall hold it, until such time as you choose to pay for it. Day after tomorrow, I will take you in my plane to a point outside the valley and leave you within reach of further transportation." 
 
@@ -2021,7 +2017,7 @@ The experimental Xylophone, also known as the "Thompson Harmonizer", can "cover"
 
 All of the objects are destroyed and all of the animals are killed at the same time, each with its own unique death animation:
 
-> the goat rose into the air, upturned, its legs stretched upward and jerking, then fell into a gray pile made of seven goats in convulsions. [...] The farmhouse tore into strips of clapboard and went down, followed by a geyser of the bricks of its chimney. The tractor vanished into a pancake. The water tower cracked and its shreds hit the ground white its wheel was still describing a long curve through the air [...]. The steel beams and girders of the solid new trestle collapsed like a structure of matchsticks under the breath of a sigh.
+> the goat rose into the air, upturned, its legs stretched upward and jerking, then fell into a gray pile made of seven goats in convulsions. [...] The farmhouse tore into strips of clapboard and went down, followed by a geyser of the bricks of its chimney. The tractor vanished into a pancake. The water tower cracked and its shreds hit the ground while its wheel was still describing a long curve through the air [...]. The steel beams and girders of the solid new trestle collapsed like a structure of matchsticks under the breath of a sigh.
 
 One woman in the crowd fainted. Among the rest,
 
@@ -2038,6 +2034,8 @@ Stadler asks Ferris, "Who invented that ghastly thing?"
 > "What war? What aggression? With the whole world starving [...] ?" 
 
 > [...] "Internal enemies can be as great a danger to the people as external ones." [...] "No private businessman or greedy industrialist would have financed Project X [...] What profit could he expect from it? [...] Project X had to be a non-profit venture."
+
+(If you're wondering who _really_ invented the Xylophone, no, Rand won't say. I think the idea is that the SSI invented the Xylophone _because it's evil_, and the reason it is evil is _because it is publicly funded_, or maybe because it is non-profit.)
 
 Various men give speeches praising the invention and crediting Dr. Stadler for it. Ferris hands Stadler a printed speech and asks him to read it at the end of the hour. "In a civilized century, Ferris, in a civilized century!" he moans. Ferris gives veiled threats: "A personal opinion is the one luxury that nobody can afford today." Stadler approaches the stand when a young newsman runs forward and urges him to tell the truth, that he had nothing to do with it and to "Tell the country what sort of people are trying to rule it! [...] Tell them the truth! Save us! You're the only one who can!" 
 
@@ -2123,7 +2121,7 @@ The Mic was cut. As James, Morrison, Scudder and Lillian argue about whose fault
 
 ### Part 3, Chapter 4: Anti-Life
 
-Orren Boyle is now president of the new Interneighborly Amity and Development Corporation which has an exclusive contract to operate all industrial properties in the People's States of the Southern Hemisphere. Argentina is becoming a People's State, and the U.S. is about to grant a four billion dollar loan to the People's States of Chile and Argentina. (Since dollar values seem to be stated in 1957 dollars, this should be about $100 billion in 2020 dollars.) On Sept. 2, d'Anconia Copper is to be nationalized (a year after Jim's wedding). Señor Gonzales, a businessman whom no one had heard of a year ago, had joined the new regime of the People's State of Chile and had "the eyes of a killer".
+Orren Boyle is now president of the new Interneighborly Amity and Development Corporation which has an exclusive contract to operate all industrial properties in the People's States of the Southern Hemisphere. Argentina is becoming a People's State, and the U.S. is about to grant a four billion dollar loan to the People's States of Chile and Argentina. (about $36.5 billion in 2020 dollars.) On Sept. 2, d'Anconia Copper is to be nationalized (a year after Jim's wedding). Señor Gonzales, a businessman whom no one had heard of a year ago, had joined the new regime of the People's State of Chile and had "the eyes of a killer".
 
 Jim Taggart helped set it up in a way that would make him fabulously wealthy and powerful. At a party for the achievement, he had thrown a lot of money around, "knowing that it was easier to pay than to think", but somehow felt an irresistable urge to escape. He leaves and carelessly gives a wad of paper, a hundred-dollar bill, to a beggar who pockets it indifferently. "Thanks, bud." said the beggar contemptuously. Jim realizes he has a sense of indifference to money and a sense of dread knowing that he would be equally indifferent as a beggar.
 
@@ -2311,7 +2309,7 @@ Jim asks Dagny to attend a dinner with Mouch, Meigs, Ferris, Weatherby et al. Th
 
 > She had thought that industrial production was a value not to be questioned by anyone; she had thought that these men's urge to expropriate the factories of others was their acknowledgment of the factories' value. She, born of the industrial revolution, had not held as conceivable [...] what these men knew in their secret, furtive souls, knew not by means of thought, but by means of that nameless muck which they called their instincts and emotions: that so long as men struggle to stay alive, they'll never produce so little but that the man with the club won't be able to seize it and leave them still less — [...] that men who live by pulling levers at an electric switchboard, are not easily ruled, but men who live by digging the soil with their naked fingers, are — that the feudal baron did not need electronic factories in order to drink his brains away out of jeweled goblets [...]
 
-She is called away from the dinner because a copper wire had failed in a control tower in Taggart Terminal in NYC, which caused a short circuit in the "interlocking traffic system" and caused signal lights stop working, halting all train traffic. Dagny takes a taxi to the terminal and takes charge, ordering copper wire be salvaged from a temporarily suspended line, hiring a signal engineer from Chicago for $3,000 for 24 hours (~$75,000 2020 dollars), asking for lanterns, and asking all available personnel to begin moving switches by hand, using lanterns as signals. Still wearing a dress and diamonds from the dinner, she says
+She is called away from the dinner because a copper wire had failed in a control tower in Taggart Terminal in NYC, which caused a short circuit in the "interlocking traffic system" and caused signal lights stop working, halting all train traffic. Dagny takes a taxi to the terminal and takes charge, ordering copper wire be salvaged from a temporarily suspended line, hiring a signal engineer from Chicago for $3,000 for 24 hours (~$27,000 2020 dollars), asking for lanterns, and asking all available personnel to begin moving switches by hand, using lanterns as signals. Still wearing a dress and diamonds from the dinner, she says
 
 > "There's nothing in the union contracts about men standing with lanterns. There's going to be trouble. The union will object." 
 
@@ -2583,7 +2581,11 @@ John Galt's speech is the rest of the chapter, 72 pages long.
 
 > [...] "A rational process is a moral process. You may make an error at any step of it, with nothing to protect you but your own severity, or you may try to cheat, to fake the evidence and evade the effort of the quest — but if devotion to truth is the hallmark of morality, then there is no greater, nobler, more heroic form of devotion than the act of a man who assumes the responsibility of thinking. [...] Thinking is man's only basic virtue [...] And his basic vice, the source of all his evils, is [...] the refusal to think [...]
 
-That's a selection of quotes from the first 10 pages; I am not willing to read all 72. Eventually Galt gets around to making a call for action:
+That's a selection of quotes from the first 10 pages; I am not willing to read all 72. Among the 72 pages is one paragraph about the role of government (and none about the role of taxes):
+
+> The only proper purpose of a government is to protect man's rights, which means: to protect him from physical violence. A proper government is only a policeman, acting as an agent of man's self-defense, and, as such, may resort to force only against those who start the use of force. The only proper functions of a government are: the police, to protect you from criminals; the army, to protect you from foreign invaders; and the courts, to protect your property and contracts from breach or fraud by others, to settle disputes by rational rules, according to objective law. But a government that initiates the employment of force against men who had forced no one, the employment of armed compulsion against disarmed victims, is a nightmare infernal machine designed to annihilate morality: such a government reverses its only moral purpose and switches from the role of protector to the role of man's deadliest enemy, from the role of policeman to the role of a criminal vested with the right to the wielding of violence against victims deprived of the right of self-defense. Such a government substitutes for morality the following rule of social conduct: you may do whatever you please to your neighbor, provided your gang is bigger than his. 
+
+Eventually Galt gets around to making a call for action:
 
 > "I am speaking to those who desire to live and to recapture the honor of their soul. Now that you know the truth about your world, stop supporting your own destroyers. The evil of the world is made possible by nothing but the sanction you give it. Withdraw your sanction. Withdraw your support. Do not try to live on your enemies' terms [...] do not beg for alms from those who have robbed you, be it subsidies, loans or jobs [...]. Go on strike — in the manner I did [...] but not to exist as a bandit or to create a gang competing with their racket; build a productive life of your own with those who accept your moral code and are willing to struggle for a human existence."
 
@@ -2870,7 +2872,7 @@ Dagny approaches the guard at the Project F building and says he should let her 
 
 > "I'll count to three," she said. "Then I'll shoot." 
 
-> "Wait! Wait! I haven't said yes or no!" he cried, cringing tighter against the door, as if immobility of mind and body were his best protection, "One—" she counted; she could see his eyes staring at her in terror —"Two—" she could see that the gun held less terror for him than the alternative she offered — "Three . " 
+> "Wait! Wait! I haven't said yes or no!" he cried, cringing tighter against the door, as if immobility of mind and body were his best protection, "One—" she counted; she could see his eyes staring at her in terror —"Two—" she could see that the gun held less terror for him than the alternative she offered — "Three." 
 
 > Calmly and impersonally, she, who would have hesitated to fire at an animal, pulled the trigger and fired straight at the heart of a man who had wanted to exist without the responsibility of consciousness. 
 
