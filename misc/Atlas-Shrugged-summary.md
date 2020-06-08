@@ -95,7 +95,7 @@ Dagny orders Rearden Steel and Rearden Metal to replace old rail, over the objec
 
 > "Then do you want us to remain in the hole?" 
 
-> "I haven't said that! Why do you always oversimplify things that way?
+> "I haven't said that! Why do you always oversimplify things that way?"
 
 ### Part 1, Chapter 2
 
@@ -129,7 +129,7 @@ They agree to lobby Washington to do something to stop Rearden.
 
 > "Well, now," said Boyle pleasantly, "that seems to be an interesting question to consider. I might discuss it with a few friends in the National Alliance of Railroads." 
 
-In New Jersey, Dagny speaks to the evasive president of United Locomotive Works, who offers no explanation for the delays in production.
+In New Jersey, Dagny speaks to the evasive president of United Locomotive Works, who offers no explanation for the delays in production. (This is a pattern: Rand rarely explains why bad things happen in her story; readers are free to imagine any cause that pleases them, but strongly invited to blame collectivism.)
 
 > Dagny Taggart was nine years old when she decided that she would run the Taggart Transcontinental Railroad some day. She stated it to herself when she stood alone between the rails, looking at the two straight lines of steel that went off into the distance and met in a single point.
 
