@@ -25,6 +25,7 @@ layout: home
 
 - [GitHub profile](https://github.com/qwertie/)
 - [LinkedIn profile](https://www.linkedin.com/in/qwertie/)
+- [Twitter](https://twitter.com/DPiepgrass)
 
 ### Contact ###
 
