@@ -21,9 +21,9 @@ As the story begins, Taggart Transcontinental rail lines are starting to fall ap
 
 Meanwhile, Dagny Taggart is riding toward New York on the Taggart Comet train.
 
-> "Dagny's rise among the men who operated Taggart Transcontinental was swift and uncontested. She took positions of responsibility because there was no one else to take them. There were a few rare men of talent around her, but they were becoming rarer every year."
+> Dagny's rise among the men who operated Taggart Transcontinental was swift and uncontested. She took positions of responsibility because there was no one else to take them. There were a few rare men of talent around her, but they were becoming rarer every year.
 
-She listens happily to a brakeman as he whistled a tune she's never heard by a favorite composer, Richard Halley. When asked, the brakeman reports it is Halley's Fifth Concerto. "Richard Halley wrote only four concertos," she slowly responds. His smile vanishes and he says, "Yes, of course, I'm wrong. I made a mistake."
+She listens happily to a brakeman as he whistles a tune she's never heard by a favorite composer, Richard Halley. When asked, the brakeman reports it is Halley's Fifth Concerto. "Richard Halley wrote only four concertos," she slowly responds. His smile vanishes and he says, "Yes, of course, I'm wrong. I made a mistake."
 
 Dagny orders Rearden Steel and Rearden Metal to replace old rail, over the objections of Jim Taggart, who prefers to deal with his friend Orren Boyle even though the latter has failed to deliver their orders for 13 months.
 
