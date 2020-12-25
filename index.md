@@ -13,6 +13,7 @@ layout: home
 - [LeMP](http://ecsharp.net/lemp/): a language-agnostic Lisp-style macro processor that allows you to run arbitrary code at compile time. Currently implemented only for C#.
 - [Enhanced C#](http://ecsharp.net) (EC#): a superset of C# used by LeMP.
 - [Ungglish](http://ungglish.loyc.net): an incomplete idea for an alternative to English as a second language.
+- [All Unicode Characters on One Page](/misc/CharCategories.html) ([source](https://github.com/qwertie/ecsharp/blob/master/Core/Loyc.Syntax/Lexing/CharCategory.ecs))
 
 ### My writing ###
 
