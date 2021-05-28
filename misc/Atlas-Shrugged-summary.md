@@ -1,7 +1,6 @@
 ---
 title: "Atlas Shrugged, Condensed"
 layout: home
-head: '<meta name="robots" content="noindex"/>'
 ---
 
 [_Associated book review_](Atlas-Shrugged-book-review)
