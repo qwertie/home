@@ -14,6 +14,7 @@ layout: home
 - [Enhanced C#](http://ecsharp.net) (EC#): a superset of C# used by LeMP.
 - [Ungglish](http://ungglish.loyc.net): an incomplete idea for an alternative to English as a second language.
 - [All Unicode Characters on One Page](/misc/CharCategories.html) ([source](https://github.com/qwertie/ecsharp/blob/master/Core/Loyc.Syntax/Lexing/CharCategory.ecs))
+- [SpeechRecognition: Push-to-Talk](https://qwertie.github.io/push2talk/)
 
 ### My writing ###
 
