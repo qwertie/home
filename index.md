@@ -18,17 +18,19 @@ layout: home
 
 ### My writing ###
 
+- [Medium](https://medium.com/@dpiepgrass)
+- [Substack](https://nakedaltruism.substack.com)
+- [YouTube](./Where-on-YouTube-I'm-censored.md)
 - [Technical blog](http://loyc.net/blog)
-- [YouTube channel](https://www.youtube.com/channel/UCE11bX-pdzvpNtYjgkBclcQ)
-- [Technical articles on CodeProject](https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=3453924) on various topics
-- [Typescript & React primer](http://typescript-react-primer.loyc.net)
-- [Big Picture](https://medium.com/big-picture) (general topics)
+- [YouTube channel](https://www.youtube.com/channel/UCE11bX-pdzvpNtYjgkBclcQ) (old)
+- [Technical articles on CodeProject](https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=3453924) on various topics (old)
 
 ### Other stuff ###
 
 - [GitHub profile](https://github.com/qwertie/)
 - [LinkedIn profile](https://www.linkedin.com/in/qwertie/)
-- [Twitter](https://twitter.com/DPiepgrass)
+- [Twitter](https://x.com/DPiepgrass) / BSky
+- [Typescript & React primer](http://typescript-react-primer.loyc.net) (old)
 
 ### Contact ###
 
