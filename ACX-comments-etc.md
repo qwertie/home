@@ -5819,3 +5819,59 @@ One can say "but it's politicized", but it's politicized by Russia for its own b
 As for Ukraine, attacked by a foe with four times its (unoccupied) population with an economy nine times its size (plus the world's largest weapons stockpile), stopping Russia before it could even finish taking over the Donbass would be something that Ukrainians would consider a victory (even if they once expected a clearer victory than they got).
 
 But I expect the war to continue with no ceasefire, not even a short one, this year. It may or may not go for years after that, partly because Putin is misinformed about the on-the-ground reality and partly because if he can't win, he at least wants the political benefits of having a war ongoing. If he continues the war to 2028 or beyond, it will probably end with his death, after which Russia's next ruler will probably say it was Putin's folly that caused a defeat for Russia, and Wikipedia won't disagree. Even if Russia breaks Ukraine enough for large territorial gains (unlikely), it's expensive for Russia to hold that ground, and since it's covered in zillions of shrapnel fragments, bullets, mines, fiber-optic cables and still-flying drones, the land value is considerably less than what Russia already had before the invasion, so a voluntary withdrawal to at least the 2022 line would not be a surprise.
+
+## Decoding Geopolitics: H1 2026
+
+### May 9: Ben Hodges
+
+I support Ukraine heavily, and for that reason I stopped listening to Ben Hodges a long time ago. He has consistently had a very optimistic take that tells people what they want to hear.
+
+Aug 2022: "The Russians are exhausted. Their logistics system is exhausted. There's nothing they can do except continue launching artillery against civilian targets. Even that has dropped off." Okay, but he doesn't mention the possibility of mobilization https://www.youtube.com/watch?v=D3Qh6d3Lrtg
+
+Sept 2022: "We were not prepared for the collapse of the Soviet Union. We need to be prepared for [the collapse of Russia]." https://www.youtube.com/watch?v=lKT40CPjrqw
+
+Jan 2023: 'Ukraine will liberate Crimea by the end of August' https://www.youtube.com/watch?v=D3Qh6d3Lrtg
+
+May 2023: "The good news for Ukraine and for us is that this incoherence and the hatred between the various leaders on the Russian side guarantees that they will not have a coherent defensive plan and they won't be able to fight their defense any kind of a coherent way" https://www.youtube.com/watch?v=rcRKBMQkCIw
+
+August 2023: When asked whether the counteroffensive could be considered a failure, his answer concludes by saying "I think in another few weeks we're going to see a completely different situation, a much better situation" https://www.youtube.com/watch?v=AOYestAZklA
+
+December 2023: basically says that we in the West have failed Ukraine. And sure, we should have supported Ukraine more, but this is the kind of message you want to deliver before Ukraine comes up short, not after. Instead, before the counteroffensive I see him touting all the weapons deliveries to Ukraine.
+
+I could complain that Hodges doesn't do mea culpas on his failures, but sadly that's true of almost every Ukraine commentator. The only one that comes to mind is Constantin of Inside Russia, who had a remarkably bad combo of economic predictions in 2024 (seriously, I would've told him he was probably wrong at the time), but in 2025 he reviewed his 2024 predictions and admitted he was wrong. Anders Puck Nielsen also comes to mind, because I can't think of a case where he has been wrong.
+
+### June 8: Sam Greene
+
+Good analysis.
+
+40:46 It's very clearly that they got the calculations wrong. Off the top of my head: there's the article accidentally published by RIA Novosti on Feb 26, 2022 about how Russia has "restored its unity"..."Ukraine has returned to Russia"[1]. Michael Kofman was reporting at the beginning of the war that they were using "no fires" (artillery), a strange approach for the artillery-centric Russian army. The force size was too small (causing both the retreat from Kyiv in ~April 2022 and the eastern collapse in September 2022). And there's the video of the destroyed Russian convoy including a truck full of police riot gear they were taking to Kharkiv[2]. The evidence tells a story that Putin expected taking Ukraine would not be that much harder than taking Crimea.
+
+Even the names point to this. It's called the “Special Military Operation”—which Putin paired with a new law to punish anyone who called it a “war”. Each vehicle was marked with one of the letters O, V, or Z, evidently meant to identify which army the vehicle was a part of; only later was Z chosen as a patriotic symbol, still without Russians being given an explanation of what it means. Even now, with more than a million Russian fighters in Ukraine and hundreds of thousands of Russians dead, it’s still just the “Special Military Operation” to “demilitarize” the “nazi” regime of that Jewish guy Zelensky🤦‍♂️[3]
+
+[1] https://web.archive.org/web/20220226051154/https://ria.ru/20220226/rossiya-1775162336.html?utm_source=chatgpt.com
+
+[2] https://www.reddit.com/r/CombatFootage/comments/t7e4rd/in_the_vicinity_of_stary_saltov_kharkiv_a_large/
+
+[3] This might be the world's clearest example of "words do things" as opposed to "words mean things". "Words do things" means words are used for effect, not for meaning. So they decided in 2014 to tell Russians that Ukrainians were "nazis" in an effort to recreate patriotic feelings from defeating the actual Nazis in the "Great Patriotic War" (WWII). Fast forward a couple of democratic elections and now Ukraine had a Jewish president. If words mean things, that could have been a challenge for the "nazi" narrative; luckily for Putin, they don't.
+
+### June 20: Nigel Gould-Davies
+
+Good analysis! I think it's correct. I wonder what is meant by "financial crash or crisis" (after 50:56), but ever since Russia ran low on tanks sooner than I expected (early 2025) there have been a series of signs of deterioration in Russia's economy. Putin saved up a war chest of $600B before the war, but $300B was frozen by the West and most of the rest has been spent, so Putin is now forced to do something more desperate.
+
+And then this year Ukraine's defensive capabilities started to clearly outpace Russia's―so that Russia was finally losing both militarily and economically. Now, despite Ukrainian strikes on northern port infrastructure, the war in Iran has been a boon to Russian finances, but my sense is that high oil prices weren't enough to correct the financial imbalance, and prices will drop a lot by the end by end of year. (Craig Kennedy further proposes that UK/EU sanctions are biting worse than ever[1].)
+
+So it indeed looks like something is likely to break financially in the next 12 months if the war continues at the same level of spending, and I'd bet that what breaks specifically is (i) the ruble will fall and (ii) inflation will increase even more. Putin/Nabiullina has consistently tried and succeeded to maintain the ruble's value, but printing money will allow war spending to be maintained or increased at the cost of inflation that devalues the ruble and destroys Russians' savings. Given Putin's general reluctance to change strategy, though, we might see a return to higher interest rates before this happens (currently 14.25%, previous peak 21%―which was insanely high). IIUC they can also pull some financial tricks to shield the war economy from high rates, as they have in the past[2].
+
+Putin really loves making slow methodical changes (frog-boiling), but at the end of the day he is probably willing to do more mobilization, as he did in Sept 2022. I have no particular reason to think this would immediately lead to an end of Putin's rule, but it could. There are weird signs of the regime cracking, what Inside Russia calls "bulldogs under the carpet". Consider Ilya Remeslo, pro-Kremlin lawyer, blogger, and critic of opposition figures such as Alexei Navalny, who suddenly this year came out swinging against Putin with a biting critique, was placed in a mental institution the next day (because while there's technically no law against criticizing Putin, you'd certainly have to be crazy to do it)―and yet he was released before April 17[3]! And then there's the long series of high profile deaths and arrests that seem to break Putin's social contract with elites. The latest case, Ilya Traber, is so notable that Inside Russia devoted a stream to it[4]. I think Vlad Vexler once said that the way the regime would die would be that Putin keeps pulling levers in the Kremlin and those levers stop working, and maybe, just maybe, that's starting. I can't tell what's going on under the carpet, but the Siloviki must see that Putin's days are numbered. I have only two interpretations for the continuing high-profile deaths and arrests: either Putin is doing all these things in careful desperation, or else other power players are doing some of these things themselves without Putin's permission. Either way, loyalty to Putin is eroding away.
+
+If Putin is unwise enough to use partial mobilization to maintain offensive operations, this probably won't lead to a big payoff in territory taken in Ukraine because Russia's real problem isn't a lack of manpower but rather a lack of good ways to counter Ukrainian drones. Still, Russia has innovated in this war and that will continue. For example, Russia might ramp up the use of autonomous AI weapons in various ways that help it take territory, making its manpower more effective or lowering its casualty rate. If Russia does manage to eke out a pyrrhic victory in Kramatorsk and Sloviansk, it would have an easier time stealing more territory to the west. It would be wiser to stop at the borders of Donetsk, but Putin isn't known for military wisdom. (Note: my biggest concern about Russia's rapid breakthroughs after Avdiivka was that Russia was no longer obliterating towns before taking them, implying they had *comfortable* places from which to launch further attacks, which is good for morale and so bad for Ukraine. So it matters whether or not Russia turns Kramatorsk and Sloviansk into rubble while taking them.)
+
+No matter what happens, China will come out on top as a key supplier for both sides.
+
+[1] https://navigatingrussia.substack.com/p/restraining-russian-oil-new-sanctions
+
+[2] https://navigatingrussia.substack.com/p/russias-hidden-war-debt-full-report
+
+[3] https://www.rferl.org/a/russia-putin-criticism-remeslo-released-psychiatric/33734732.html
+
+[4] https://www.youtube.com/watch?v=B_LW9DheCfc
