@@ -5875,3 +5875,122 @@ No matter what happens, China will come out on top as a key supplier for both si
 [3] https://www.rferl.org/a/russia-putin-criticism-remeslo-released-psychiatric/33734732.html
 
 [4] https://www.youtube.com/watch?v=B_LW9DheCfc
+
+
+### Unpopulist https://www.theunpopulist.net/p/trump-has-not-turned-americans-against?utm_campaign=email-half-post&r=3vf2h&utm_source=substack&utm_medium=email
+
+Good discussion.
+
+I'm glad you brought up Matt Yglesias, who wrote a book about "One Billion Americans". He's definitely in favor of immigration to make America stronger and better, but at the same time he's worried about this opposition to immigration in the general population and so generally treats his own views as a losing proposition that he promotes only gently (granted, he kind of argues everything gently so maybe I shouldn't read much into it). Would've loved to see the three of you hash this out together. I think he might have brought up the fact that there is a measured divide on immigration opinions between elites in general and the broad population, so that traditional Republicans are aligned with, or slightly left of, the general public on immigration. It's only now with Trump that we finally have Republicans in power who are sharply to the right of the general public.
+
+What Matt harps on again and again is that you have to accept the voters you have. If you want to convince the public that immigration can be a great thing, politicians just can't do that, so they shouldn't try. I mean, maybe a really strong communicator like Obama can move the needle slightly, but only ever slightly.
+
+I often think about how partisan conservatives are in control of a huge slice of the American media ecosystem, and also shrewd at manipulating public opinion, which for the far/alt-right means intentionally defeating reasonable immigration reform 12 years ago in order to amplify the appearance of immigration-related problems in society that they then use to justify harsh measures later ― okay maybe they're more lucky than shrewd, but their strategy worked, they got elected. Now, with ideas like "Alligator Alcatraz" and "we put Kilmar García in CECOT, let's do Homegrowns next!" they're celebrating cruelty, which typical voters aren't comfortable with. The problem for Democrats, though, is that Democrats by reputation are far left of average voters, and the right can always push the idea that whatever opinions a Democrat expresses, their *real* opinions are radically left of that.
+
+There are, I should say, plenty of own-goals, e.g. Dems in safe seats express opinions that are very unpopular nationally, which makes it harder for Dems to win elsewhere. But I feel like on top of that there's an extra challenge of getting your message to voters without the conservative media filter twisting your words around. On immigration, where conservatives broadly are on the same wavelength as voters, I tend to expect they can always be more successful at arguing about immigration. But in this special moment in history where typical conservatives are enamored with very callous people who even defend ICE killing *Americans*, maybe that provides an opening where Dems can talk about immigration and win. But in normal circumstances I think Matt has it right.
+
+More broadly, I would like to see more discussion of the influence of conservative media. And also ads: my sense is that reactionary conservatism is extremely easy to promote relative to tolerance and liberalism, because you can stir up negative sentiment in a 30-second ad filled with falsehoods (lying and bullshit being the very foundation of Trump's career), but better angels are much harder to bring out. We need to better understand how information disseminates in society and how it interacts with human psychology, in order to better choose communication strategies.
+
+Also, something that's always vexing for us high-information voters is that swing voters tend to be low-information voters, which creates three problems for us. First, high-knowledge people tend to have trouble communicating to low-knowledge people, a problem sometimes called long inferential distance[1] (note how Trump won with conservative voters by being low-knowledge himself). It's why teachers need to study the field of Education to be good at their jobs. Second, low-information swing voters don't seek out information, so it's hard to deliver messages to them at all. Third, since they have low information, their skill at judging accuracy is poor, so if they get contradictory information (e.g. global warning is a hoax vs global warming is a huge problem) you probably don't convince them; at best you neutralize the other side's claim. I've seen a lot of devotion to the naive "get out the vote" idea; I tend to think the opposite, that it would be better if low-information voters don't vote at all. But it is what it is, so I'd like to see more focus on these problems too.
+
+[1] https://www.readthesequences.com/Expecting-Short-Inferential-Distances
+
+
+### 2026-06-25 https://www.slowboring.com/p/ranking-joe-bidens-mistakes/comments#comment-282441397
+
+Matt: "So, I think we’re left with the question of, like, what — where does the moral culpability lie for this? And I know, like, I’ve lost the argument and will be run out of town on a rail if I say this, but, like, it’s Hamas’ fault. Like, they could have surrendered at any time and ended this war.
+
+"...you should be, like, concerned that the people who created this military conflict were insisting on fighting to the last civilian..."
+
+wtf? I mean, yes, people are responsible for their own actions. Hamas is responsible for their very bad crimes, and Israel is responsible for its own even worse crimes. Since Hamas is bad, they don't stop doing bad things once Israel starts bombing. It's Hamas's fault that Hamas is bad, but so what? Bad people gonna bad! And yeah, Egypt is responsible for Egypt's actions, and weird campus activists are responsible for their cringe positions.
+
+But Israel is a democracy, ally of the United States and recipient of $billions in military aid annually, so we judge them from that perspective. What do we expect from a democracy, an ally of the United States and recipient of $billions in military aid annually? Have they lived up to those expectations?
+
+You shrug and say "Hamas's fault!" but you don't say "It's the entire Gazan population's fault", which is what would have to be true to justify Israel's response. Israel's attitude is "They have human shields, so it's completely fine to kill all the human shields. Also let's destroy most of their homes and take even more of their land". It's deeply immoral.
+
+People can stomach an eye for an eye, but not 96 eyes and 824 fingers for an eye. Look at the numbers, these ARE the kinds of ratios were talking about. (tbc I have heard that Israel killed more than 100 Gazans for EVERY person who died on Oct. 7, so "96" is meant to be a conservative estimate, and 824 refers to the domicides and other destructive actions)
+
+Most Gazans did not vote for the Hamas government even once, yet Israel's treats the entire Gazan population as responsible for Hamas. That's why they're the apartheid state.
+
+With great power comes great responsibility, so compare Israel's power over Gaza with Gaza's power over Israel.
+
+----
+
+And this was totally predictable, btw, because the ratios have been horrifying since long before Oct. 7. Killing journalists[1] wasn't rare before Oct 7 either[2], nor was taking Palestinian land. So Hamas is bad for knowingly provoking this, but those pre-Oct 7 patterns also make it bad and frustrating that the U.S. supported Israel so consistently and unconditionally beforehand.
+
+P.S. the importance of Israel/Palestine may be overblown in many politicos' minds―like yeah, maybe this shouldn't be our focus in a discussion of Joe Biden―but I think the principle here is really very important to stress. I often quote Vlad Vexler because he said something great that applies in very many situations (even beyond wars):
+
+> I would like to make a statement in my capacity as a moral philosopher about human beings who are killed during war, and what I want to say is that there's a prejudice we fall into, and it's this: when the numbers of people dead killed in war gets above a certain number, we tend to care less about how many it is who have been killed. And there's something wrong with that. And what's wrong with it is that numbers matter ethically.
+
+> What I mean by this isn't that there is some philosophical theory that tells us that killing more people is worse than killing few people, that utilitarian philosophies argue for this, no. I'm not saying that.
+
+> What I'm saying is that killing 10 people is a crime 10 times worse than killing one person. What I'm saying is that ethically we have to insist, and it's politically constructive for us to insist, on it being the case that when the Russians kill a thousand Ukrainians, that's a crime ten times worse than the crime, the appalling crime, of killing a hundred Ukrainians.
+
+> Numbers ethically matter.
+
+> This is because every human life is real, and every human life matters equally.
+
+> This hasn't been something that human beings used to think in the past. But one of the features of the modern world, that's to say the western world, over the last three centuries, but also much of the rest of the world, one of the central features — maybe the central feature — of the way we ethically relate to the world over the last two or three hundred years is that we think that each person is of equal moral worth. And that this is as fundamental and ethical a feeling as anything that we have got, and that's why actually modern slavery has seemed so abhorrent to us, because we already knew better. We felt like we knew better.
+
+> During war we often lose perspective when we move from five thousand to ten thousand to twenty thousand to fifty thousand dead, but each number matters.
+
+> Harry and Susan and Ricky and Samantha are all people whose lives are real, and whether two of them are killed or four of them are killed makes a world of difference. What's the difference? Well, the difference is that out of the four, *two live*.
+
+> That's a world of difference and that's why numbers matter. Numbers during war matter, and the more people you kill, the ethically worse your predicament is. Numbers matter such that a thousand dead is always twice worse than 500 dead, 10 times worse than a hundred dead, a hundred times worse than ten dead, a thousand times worse than one dead. That's something we've got to insist on, because we get anesthetized and start feeling that when numbers cross a certain level it's all equally as bad. And I think it's super healthy to say no, it's not.
+
+So, I don't know if Palestinians think in these terms. Israelis obviously don't. But I do. I think we all should.
+
+[1] https://en.wikipedia.org/wiki/Killing_of_journalists_in_the_Gaza_war
+[2] https://cpj.org/reports/2023/05/deadly-pattern-20-journalists-died-by-israeli-military-fire-in-22-years-no-one-has-been-held-accountable/amp
+
+----
+
+POV: you live in Chicago. One day in 2013, a huge barrage of bullets are suddenly fired into your neighborhood and one of them kills a person on your street.
+
+All evidence indicates that those bullets came from a location on the Wrong Side of the Tracks. They were fired by a disturbed individual named Tyrus Kitt, who lives at 427 E 88th St, but you don't know that. All you've been able to reconstruct from the evidence you have is that the perp lives *somewhere* on the 400 block of E 88th St.
+
+But you don't want to actually *go* to the wrong side of the tracks, so in the middle of the night, you launch a barrage of precision missiles to flatten *every* house in the 400 block of E 88th St. Chicago News 7 reports another successful operation against the terrorists on the Wrong Side of the Tracks.
+
+Obviously "you" represents "Israel", the "Wrong Side of the Tracks" represents Gaza, "Tyrus Kitt" represents Amir Abu Bakr, "400 block of E 88th St" represents the apartment building he lived in, and "bullets" represent "rockets".
+
+And 2013 represents 2013.
+
+My question to you: why is Amir Abu Bakr, and not Israel, solely responsible for the *new recruits* Hamas picks up from families whose relatives lived in that apartment building, recruits who later participate in the Oct 7 attacks?
+
+----
+
+Seems so. And the reasonable guy who knows little about the conflict should be asking: wait, *how* did Hamas know that Israel would respond with brutal reprisals that would probably kill tens of thousands of Gazans or worse, and *why* would Hamas so readily accept so much destruction in their own city?
+
+To the first question, they knew because they'd lived through the prior 15 years or longer. As soon as I found out about Oct 7, my heard sank because I expected exactly what Hamas must have expected. Obviously 1300 dead was awful, but I knew right then and there that the (civilian) death toll would grow more than 10x bigger than that, maybe even 100x, and reality turned out to be even worse due to non-death consequences. I don't know the answer to the second question, but it should make people question that tendency to assume the Hamas dictatorship somehow "represents" Palestinians in general. No general public anywhere wants representation like that. ChatGPT volunteered a thoughtful synthesis when I asked about opinion polls in Gaza:
+
+> So what did Gazans probably believe before October 7?
+
+> If I had to summarize the median Gazan's worldview based on the polling, it would be something like:
+
+> "Life under Hamas is bad. Hamas is corrupt. I don't particularly trust them. Israel is largely responsible for our situation. Negotiations would be preferable if they could actually produce a just outcome, but I don't believe Israel will make meaningful concessions without force. I don't think the current version of the two-state solution being discussed is realistic or acceptable."
+
+Yet I've seen Israelis themselves often make no distinction between Hamas and Gazans, or no distinction between militant and civilian. Ditto Americans. And I try to tell people that failing to make that distinction is both morally horrible and against international laws of war, to no avail of course.
+
+----
+
+As I understand it, Britain's countervalue bombing campaign was controversial in its time even among the British, as it should have been, although I give them some leeway because precision bombs didn't exist at the time.
+
+I'm similarly suspicious of the American's demand for "unconditional surrender" given that, in the end, they allowed Japan to keep their emperor (meaning that they could have allowed for that one single condition, which was important to the Japanese, and probably if we look we can find others that the Americans would accept). Here too you could see the Japanese internment program demonstrating that the American leaders had the wrong attitude morally, an attitude that is not obviously dissimilar to Israelis' attitude toward Palestinians prior to Oct 7 (and after), or Trump's attitude toward what he calls "shithole countries".
+
+Or let's look at the atomic bombings―the first bomb I could understand as a way of proving to Japan that they would be unwise to continue fighting, but if the goal was to encourage surrender, they had to give them time for news and pictures of the bombing to reach the leadership, come to a decision to surrender, and bring that decision to the Americans. Alternately, they could have done a warning shot, by first sending the Japanese a message that "we are testing a new weapon on you. It will begin with a warning shot, but we will not spare your cities a second time", and then dropping a bomb in the countryside near the imperial palace or something like that.
+
+On August 6 they dropped The Bomb, and on August 8 the USSR declared war on Japan. That one-two punch might have been enough to convince Japan to surrender, but the Americans were notably unwilling to wait and see. Instead they dropped the second bomb the day after that declaration of war.
+
+If you're thinking "whatever, 50,000 more dead, who cares, millions were dead already", I would refer you to my earlier comment[1]. That comment stressed a very basic but very important principle, and here's another one: there's usually more than one option on the table, and if you choose a more grotesque option, that's on you.
+
+P.S. after WWII came the Allied occupation of Japan and the Marshall Plan, both of which were softer and kinder than other post-war occupations I could name―and we've seen the results of that softer approach. They were really good! So maximal cruelty is demonstrably not required, and IMO is actually counterproductive.
+
+[1] https://www.slowboring.com/p/ranking-joe-bidens-mistakes/comment/282458030
+
+----
+
+1. Incorrect. I would support the death penalty for every last Hamas fighter who killed a civilian on Oct. 7. I would NOT support the death penalty for every last IDF fighter who killed a civilian afterward. I expect better of democracies than this, but expecting better from democracies than from terrorists is completely normal! All those who DON'T expect better from democracies than from terrorists is more than a little scary to me. Believe me, upon seeing the popularity of Evil Socrates in this thread my heart rate has been way up all day long.
+
+2. Before seeing your message I'd asked ChatGPT about polls of Gazans before Oct. 7, a pair of which caught my eye: 67% supported armed attacks against Israeli civilians inside Israel, but 73% preferred a peaceful settlement to the conflict rather than a military solution. I thought it offered a thoughtful synthesis of these and other polls: https://www.slowboring.com/p/ranking-joe-bidens-mistakes/comment/282858769
+
+P.S. also try flipping this around. Suppose instead of 73% wanting a peaceful solution, only 27% want a peaceful solution. If Israel had killed "only" 8 civilians and attacked "only" 77 homes for each person killed Oct. 7, that would still be over 2 peaceniks killed for each Israeli, plus 21 peacenik homes(ish).
